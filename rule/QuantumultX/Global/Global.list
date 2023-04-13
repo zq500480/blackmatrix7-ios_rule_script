@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-12 02:11:05
-# HOST: 528
+# UPDATED: 2023-04-14 02:12:58
+# HOST: 531
 # HOST-KEYWORD: 39
 # HOST-SUFFIX: 37725
 # IP-CIDR: 106
 # IP6-CIDR: 4
 # USER-AGENT: 46
-# TOTAL: 38448
+# TOTAL: 38451
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
 HOST,3dns-3.adobe.com,Global
@@ -260,6 +260,8 @@ HOST,oneclient.sfx.ms,Global
 HOST,oneocsp.microsoft.com,Global
 HOST,ood.opsource.net,Global
 HOST,openaiapi-site.azureedge.net,Global
+HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,Global
+HOST,openaicomproductionae4b.blob.core.windows.net,Global
 HOST,opgg-static.akamaized.net,Global
 HOST,oscdn.origin-apple.com.akadns.net,Global
 HOST,overwatch.nosdn.127.net,Global
@@ -277,6 +279,7 @@ HOST,practivate.adobe.newoa,Global
 HOST,practivate.adobe.ntp,Global
 HOST,prd-priconne-redive.akamaized.net,Global
 HOST,prod-support.apple-support.akadns.net,Global
+HOST,production-openaicom-storage.azureedge.net,Global
 HOST,psg-int-centralus.cloudapp.net,Global
 HOST,psg-int-eastus.cloudapp.net,Global
 HOST,push-apple.com.akadns.net,Global

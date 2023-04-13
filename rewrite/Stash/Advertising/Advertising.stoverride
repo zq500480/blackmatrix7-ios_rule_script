@@ -1,11 +1,11 @@
 name: 复写去广告
-desc: 最后更新时间 2023-04-07 14:53:02
+desc: 最后更新时间 2023-04-14 02:17:29
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
-# reject: 550
-# mitm: 507
+# reject: 549
+# mitm: 506
 # force-http-engine-hosts: 6
-# total: 1063
+# total: 1061
 
 
 
@@ -507,7 +507,6 @@ http:
     - ^https?:\/\/wbapp\.uve\.weibo\.com\/wbapplua\/wbpullad\.lua - reject
     - ^https?:\/\/wcprd\.hilton\.com\.cn\/app-middleware\/graphql\?type=splashAd - reject
     - ^https?:\/\/web\.chelaile\.net\.cn\/api\/adpub\/ - reject
-    - ^https?:\/\/webappcfg\.paas\.cmbchina\.com\/v1\/func\/getmarketconfig - reject
     - ^https?:\/\/webboot\.zhangyue\.com\/zyapi\/bookstore\/ad\/ - reject
     - ^https?:\/\/webboot\.zhangyue\.com\/zycl\/api\/ad\/ - reject
     - ^https?:\/\/weibointl\.api\.weibo\.cn\/portal\.php.*ads&c=ad.* - reject
@@ -1042,7 +1041,6 @@ http:
     - "wap.ngchina.cn"
     - "wcprd.hilton.com"
     - "wcprd.hilton.com.cn"
-    - "webappcfg.paas.cmbchina.com"
     - "webboot.zhangyue.com"
     - "weibointl.api.weibo.cn"
     - "weixin110.qq.com"
