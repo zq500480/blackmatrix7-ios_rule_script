@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-14 02:12:26
+# UPDATED: 2023-04-15 02:10:26
 # DOMAIN: 156
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37338
+# DOMAIN-SUFFIX: 37340
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 37644
+# TOTAL: 37646
 payload:
   - 'adobeereg.com'
   - 'angle.com.tw'
@@ -2691,6 +2691,7 @@ payload:
   - '+.catalinacruz.com'
   - '+.catchplay.com'
   - '+.catmiimi.com'
+  - '+.cavporn.com'
   - '+.cbart.net'
   - '+.cbsaavideo.com'
   - '+.cbscorporation.com'
@@ -5596,6 +5597,7 @@ payload:
   - '+.h-flash.com'
   - '+.h-top.supertop-100.com'
   - '+.h0930.com'
+  - '+.h18ani1.vip'
   - '+.h2porn.com'
   - '+.hackerfacebook.com'
   - '+.hackerguardian.com'
