@@ -1,16 +1,16 @@
 # NAME: ChinaMaxNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-15 02:13:11
+# UPDATED: 2023-04-16 02:14:57
 # DOMAIN: 164
 # DOMAIN-KEYWORD: 11
 # DOMAIN-SUFFIX: 66329
 # IP-ASN: 1216
-# IP-CIDR: 5409
+# IP-CIDR: 5408
 # IP-CIDR6: 4192
 # PROCESS-NAME: 11
 # USER-AGENT: 65
-# TOTAL: 77397
+# TOTAL: 77396
 265.com
 2mdn-cn.net
 accounts.googlers.com

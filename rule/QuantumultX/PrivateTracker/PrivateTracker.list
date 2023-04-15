@@ -1,13 +1,13 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-15 02:12:00
-# HOST: 151
+# UPDATED: 2023-04-16 02:13:25
+# HOST: 153
 # HOST-KEYWORD: 3
 # HOST-SUFFIX: 113
 # IP-CIDR: 5
 # IP6-CIDR: 2
-# TOTAL: 274
+# TOTAL: 276
 HOST,1337.abcvg.info,PrivateTracker
 HOST,6ahddutb1ucc3cp.ru,PrivateTracker
 HOST,9.rarbg.com,PrivateTracker
@@ -69,7 +69,6 @@ HOST,rep-art.ynh.fr,PrivateTracker
 HOST,retracker.hotplug.ru,PrivateTracker
 HOST,retracker.lanta-net.ru,PrivateTracker
 HOST,retracker01-msk-virt.corbina.net,PrivateTracker
-HOST,run-2.publictracker.xyz,PrivateTracker
 HOST,run.publictracker.xyz,PrivateTracker
 HOST,ryjer.com,PrivateTracker
 HOST,sanincode.com,PrivateTracker
@@ -87,6 +86,7 @@ HOST,thouvenin.cloud,PrivateTracker
 HOST,torrent-tracker.hama3.net,PrivateTracker
 HOST,torrents.artixlinux.org,PrivateTracker
 HOST,torrentsmd.com,PrivateTracker
+HOST,tr.bangumi.moe,PrivateTracker
 HOST,tr.burnabyhighstar.com,PrivateTracker
 HOST,tr.cili001.com,PrivateTracker
 HOST,tr.ready4.icu,PrivateTracker
@@ -139,6 +139,7 @@ HOST,tracker.tamersunion.org,PrivateTracker
 HOST,tracker.theoks.net,PrivateTracker
 HOST,tracker.tiny-vps.com,PrivateTracker
 HOST,tracker.torrent.eu.org,PrivateTracker
+HOST,tracker.zerobytes.xyz,PrivateTracker
 HOST,tracker1.520.jp,PrivateTracker
 HOST,tracker1.bt.moack.co.kr,PrivateTracker
 HOST,tracker1.itzmx.com,PrivateTracker
@@ -151,6 +152,7 @@ HOST,trackme.theom.nz,PrivateTracker
 HOST,u4.trakx.crim.ist,PrivateTracker
 HOST,u6.trakx.crim.ist,PrivateTracker
 HOST,uploads.gamecoast.net,PrivateTracker
+HOST,uraniumhexafluori.de,PrivateTracker
 HOST,v1046920.hosted-by-vdsina.ru,PrivateTracker
 HOST,v2.iperson.xyz,PrivateTracker
 HOST,v6-tracker.0g.cx,PrivateTracker

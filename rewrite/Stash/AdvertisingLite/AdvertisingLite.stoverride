@@ -1,11 +1,11 @@
 name: 复写去广告(严格版)
-desc: 最后更新时间 2023-04-14 02:17:46
+desc: 最后更新时间 2023-04-16 02:16:23
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
-# reject: 502
-# mitm: 414
+# reject: 505
+# mitm: 417
 # force-http-engine-hosts: 6
-# total: 922
+# total: 928
 
 
 
@@ -366,6 +366,7 @@ http:
     - ^https?:\/\/nochange\.ggsafe\.com\/ad\/ - reject
     - ^https?:\/\/notch\.qdaily\.com\/api\/v\d\/boot_ad - reject
     - ^https?:\/\/oimage([a-z])([0-9])\.ydstatic\.com\/.+?adpublish - reject
+    - ^https?:\/\/open-cms-api\.uc\.cn\/open-cms - reject
     - ^https?:\/\/open\.e\.kuaishou\.com\/rest\/e\/v3\/open\/univ - reject
     - ^https?:\/\/open\.fitdays\.cn\/uploads\/ad\/ - reject
     - ^https?:\/\/open\.qyer\.com\/qyer\/config\/get - reject
@@ -381,6 +382,7 @@ http:
     - ^https?:\/\/p\d\.meituan\.net\/(bizad|wmbanner)\/\w+\.jpg - reject
     - ^https?:\/\/p\d\.meituan\.net\/movie\/\w+\.jpg\?may_covertWebp - reject
     - ^https?:\/\/p\d\.meituan\.net\/wmbanner\/[A-Za-z0-9]+\.jpg - reject
+    - ^https?:\/\/pan-api\.bitqiu\.com\/activity\/(getPromoteGuide|getUrlList) - reject
     - ^https?:\/\/pan\.baidu\.com\/act\/api\/activityentry - reject
     - ^https?:\/\/pan\.baidu\.com\/act\/v\d\/bchannel\/list - reject
     - ^https?:\/\/pan\.baidu\.com\/rest\/2\.0\/pcs\/ad - reject
@@ -490,6 +492,7 @@ http:
     - ^https?:\/\/y\.gtimg\.cn\/music\/common\/upload\/t_splash_info\/ - reject
     - ^https?:\/\/yanxuan.nosdn.127.net\/(static-union\/)?.*\.gif - reject
     - ^https?:\/\/yunbusiness\.ccb\.com\/clp_service\/txCtrl\?txcode=A3341A002 - reject
+    - ^https?:\/\/yxyapi2\.yuxueyuan\.cn\/yxy-api-gateway\/api\/json\/advert\/getsAdStartScreen - reject
     - ^https?:\/\/yxyapi\d\.drcuiyutao\.com\/yxy-api-gateway\/api\/json\/advert\/ - reject
     - ^https?:\/\/zconfig\.alibabausercontent\.com\/zconfig - reject
     - ^https?:\/\/zjh5api\.189smarthome\.com:\d+\/xygj-config-api\/queryData - reject
@@ -819,6 +822,7 @@ http:
     - "nochange.ggsafe.com"
     - "notch.qdaily.com"
     - "oimage*.ydstatic.com"
+    - "open-cms-api.uc.cn"
     - "open.e.kuaishou.com"
     - "open.fitdays.cn"
     - "open.qyer.com"
@@ -832,6 +836,7 @@ http:
     - "p.du.163.com"
     - "p.kuaidi100.com"
     - "p0.pipi.cn"
+    - "pan-api.bitqiu.com"
     - "pan.baidu.com"
     - "peisongapi.meituan.com"
     - "pic*.ajkimg.com"
@@ -936,6 +941,7 @@ http:
     - "yanxuan.nosdn.127.net"
     - "yunbusiness.ccb.com"
     - "yxyapi*.drcuiyutao.com"
+    - "yxyapi2.yuxueyuan.cn"
     - "zconfig.alibabausercontent.com"
     - "zjh5api.189smarthome.com"
     - "zone.guiderank-app.com"
