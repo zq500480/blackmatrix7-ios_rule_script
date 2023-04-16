@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-16 02:11:33
+# UPDATED: 2023-04-17 02:10:21
 # DOMAIN: 156
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37382
+# DOMAIN-SUFFIX: 37384
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 37688
+# TOTAL: 37690
 payload:
   - DOMAIN,adobeereg.com
   - DOMAIN,angle.com.tw
@@ -4167,6 +4167,7 @@ payload:
   - DOMAIN-SUFFIX,ero-anime.net
   - DOMAIN-SUFFIX,ero-comic-hunter.net
   - DOMAIN-SUFFIX,ero-kawa.com
+  - DOMAIN-SUFFIX,ero-labs.cloud
   - DOMAIN-SUFFIX,ero-labs.com
   - DOMAIN-SUFFIX,ero-labs.net
   - DOMAIN-SUFFIX,ero-labs.online
@@ -4196,6 +4197,7 @@ payload:
   - DOMAIN-SUFFIX,erolabs.com
   - DOMAIN-SUFFIX,erolabs.game
   - DOMAIN-SUFFIX,erolabs.net
+  - DOMAIN-SUFFIX,erolabs.online
   - DOMAIN-SUFFIX,eromanga-ace.com
   - DOMAIN-SUFFIX,eromanga-cafe.com
   - DOMAIN-SUFFIX,eromanga-hentai.com

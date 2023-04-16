@@ -1,11 +1,11 @@
 name: 复写去广告
-desc: 最后更新时间 2023-04-16 02:16:07
+desc: 最后更新时间 2023-04-17 02:14:02
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
-# reject: 552
+# reject: 550
 # mitm: 509
 # force-http-engine-hosts: 6
-# total: 1067
+# total: 1065
 
 
 
@@ -408,7 +408,6 @@ http:
     - ^https?:\/\/nochange\.ggsafe\.com\/ad\/ - reject
     - ^https?:\/\/notch\.qdaily\.com\/api\/v\d\/boot_ad - reject
     - ^https?:\/\/oimage([a-z])([0-9])\.ydstatic\.com\/.+?adpublish - reject
-    - ^https?:\/\/open-cms-api\.uc\.cn\/open-cms - reject
     - ^https?:\/\/open\.e\.kuaishou\.com\/rest\/e\/v3\/open\/univ - reject
     - ^https?:\/\/open\.fitdays\.cn\/uploads\/ad\/ - reject
     - ^https?:\/\/open\.qyer\.com\/qyer\/config\/get - reject
@@ -535,7 +534,6 @@ http:
     - ^https?:\/\/xyst\.yuanfudao\.com\/iphone\/splashesV\d - reject
     - ^https?:\/\/xyz\.cnki\.net\/resourcev7\/api\/manualpush\/SlidsList$ - reject
     - ^https?:\/\/y\.gtimg\.cn\/music\/common\/upload\/t_splash_info\/ - reject
-    - ^https?:\/\/yanxuan.nosdn.127.net\/(static-union\/)?.*\.gif - reject
     - ^https?:\/\/yunbusiness\.ccb\.com\/clp_service\/txCtrl\?txcode=A3341A002 - reject
     - ^https?:\/\/yxhd\.hori-gz\.com\/\/jfmsApi\/commandWord\/commandWordInfo - reject
     - ^https?:\/\/yxyapi2\.yuxueyuan\.cn\/yxy-api-gateway\/api\/json\/advert\/getsAdStartScreen - reject
@@ -604,6 +602,7 @@ http:
     - "*.weibo.cn"
     - "*.wtzw.com"
     - "*.ximalaya.com"
+    - "*.yuxueyuan.cn"
     - "*.zhangle.com"
     - "*api.oray.net"
     - "*cupid.iqiyi.com"
@@ -1078,7 +1077,6 @@ http:
     - "yunbusiness.ccb.com"
     - "yxhd.hori-gz.com"
     - "yxyapi*.drcuiyutao.com"
-    - "yxyapi2.yuxueyuan.cn"
     - "zconfig.alibabausercontent.com"
     - "zhidao.baidu.com"
     - "zjdr666.com"
