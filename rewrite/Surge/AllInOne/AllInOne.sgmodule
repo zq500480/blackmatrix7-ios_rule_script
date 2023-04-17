@@ -1,5 +1,5 @@
 #!name=AllInOne
-#!desc=最后更新时间 2023-04-17 02:14:12
+#!desc=最后更新时间 2023-04-18 02:14:36
 #!author=blackmatrix7
 #!repo=https://github.com/blackmatrix7/ios_rule_script
 #!domain=5
@@ -7,10 +7,10 @@
 #!http-request-script=1
 #!http-response-script=24
 #!redirect=62
-#!reject=570
+#!reject=571
 #!mitm=644
 #!force-http-engine-hosts=6
-#!total=1316
+#!total=1317
 
 [General]
 force-http-engine-hosts = %APPEND% *.ott.cibntv.net,intl.iqiyi.com,maicai.api.ddxq.mobi,mobileapi-v6.elong.com,weibointl.api.weibo.cn,wmapi.meituan.com
@@ -216,6 +216,7 @@ URL-REGEX,^https?:\/\/www\.zhihu\.com\/api\/v\d+\/brand\/question/\d+/card\?,REJ
 "^https?:\/\/api\.feng\.com\/v\d\/advertisement\/.*Claunch" - reject
 "^https?:\/\/api\.futunn\.com\/v\d\/ad\/" - reject
 "^https?:\/\/api\.gameplus\.qq\.com\/community\.OnloadSrv\/GetPreloadScreenInfo" - reject
+"^https?:\/\/api\.gamer\.com\.tw\/mobile_app\/anime\/v\d\/anime_get_question\.php" - reject
 "^https?:\/\/api\.gaoqingdianshi\.com\/api\/v\d\/ad\/" - reject
 "^https?:\/\/api\.gotokeep\.com\/ads" - reject
 "^https?:\/\/api\.gotokeep\.com\/op-engine-webapp\/v\d\/ad/" - reject

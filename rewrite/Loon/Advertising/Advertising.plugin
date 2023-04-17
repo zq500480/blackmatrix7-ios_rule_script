@@ -1,12 +1,12 @@
 #!name= Advertising
-#!desc= 最后更新时间 2023-04-17 02:14:02
+#!desc= 最后更新时间 2023-04-18 02:14:26
 #!openUrl= https://github.com/blackmatrix7/ios_rule_script
 #!author= blackmatrix7
 #!homepage= https://github.com/blackmatrix7/ios_rule_script
 #!icon= https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/avatar.jpg
-#!reject= 550
+#!reject= 551
 #!mitm= 509
-#!total= 1059
+#!total= 1060
 
 
 [URL Rewrite]
@@ -129,6 +129,7 @@
 ^https?:\/\/api\.feng\.com\/v\d\/advertisement\/.*Claunch - reject
 ^https?:\/\/api\.futunn\.com\/v\d\/ad\/ - reject
 ^https?:\/\/api\.gameplus\.qq\.com\/community\.OnloadSrv\/GetPreloadScreenInfo - reject
+^https?:\/\/api\.gamer\.com\.tw\/mobile_app\/anime\/v\d\/anime_get_question\.php - reject-dict
 ^https?:\/\/api\.gaoqingdianshi\.com\/api\/v\d\/ad\/ - reject
 ^https?:\/\/api\.gotokeep\.com\/ads - reject
 ^https?:\/\/api\.gotokeep\.com\/op-engine-webapp\/v\d\/ad/ - reject

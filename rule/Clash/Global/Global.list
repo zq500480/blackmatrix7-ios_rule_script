@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-17 02:10:21
+# UPDATED: 2023-04-18 02:10:48
 # DOMAIN: 156
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37384
+# DOMAIN-SUFFIX: 37383
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 37690
+# TOTAL: 37689
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -1902,6 +1902,7 @@ DOMAIN-SUFFIX,beegfree.com
 DOMAIN-SUFFIX,beejp.net
 DOMAIN-SUFFIX,beerporn.org
 DOMAIN-SUFFIX,beetalkmobile.com
+DOMAIN-SUFFIX,beforeitsnews.com
 DOMAIN-SUFFIX,befuck.com
 DOMAIN-SUFFIX,begin-trade.com
 DOMAIN-SUFFIX,beibao.cn
@@ -8850,7 +8851,6 @@ DOMAIN-SUFFIX,omghk.com
 DOMAIN-SUFFIX,omgteens.com
 DOMAIN-SUFFIX,omniroot.com
 DOMAIN-SUFFIX,omniture.com
-DOMAIN-SUFFIX,omobi.cc
 DOMAIN-SUFFIX,omoplanet.com
 DOMAIN-SUFFIX,omorashi.org
 DOMAIN-SUFFIX,omscr.com
@@ -12222,6 +12222,7 @@ DOMAIN-SUFFIX,welcomix.com
 DOMAIN-SUFFIX,wellfuckedwife.com
 DOMAIN-SUFFIX,wellmaturetube.com
 DOMAIN-SUFFIX,westerndigital.com
+DOMAIN-SUFFIX,westword.com
 DOMAIN-SUFFIX,wet-ass-pussy.com
 DOMAIN-SUFFIX,wetandpuffy.com
 DOMAIN-SUFFIX,wetchicks.org
@@ -16976,7 +16977,6 @@ DOMAIN-SUFFIX,beeg.com
 DOMAIN-SUFFIX,beemtube.com
 DOMAIN-SUFFIX,beerolympics.se
 DOMAIN-SUFFIX,beevpn.com
-DOMAIN-SUFFIX,beforeitsnews.com
 DOMAIN-SUFFIX,behance.com
 DOMAIN-SUFFIX,behance.net
 DOMAIN-SUFFIX,behindkink.com
@@ -31984,7 +31984,6 @@ DOMAIN-SUFFIX,westernwolves.com
 DOMAIN-SUFFIX,westkit.net
 DOMAIN-SUFFIX,westperry.org
 DOMAIN-SUFFIX,westpoint.edu
-DOMAIN-SUFFIX,westword.com
 DOMAIN-SUFFIX,wethinker.com
 DOMAIN-SUFFIX,wetinim.com
 DOMAIN-SUFFIX,wetplace.com

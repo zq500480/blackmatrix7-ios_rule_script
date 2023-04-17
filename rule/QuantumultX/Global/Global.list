@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-17 02:10:46
+# UPDATED: 2023-04-18 02:11:14
 # HOST: 531
 # HOST-KEYWORD: 39
-# HOST-SUFFIX: 37771
+# HOST-SUFFIX: 37770
 # IP-CIDR: 106
 # IP6-CIDR: 4
 # USER-AGENT: 46
-# TOTAL: 38497
+# TOTAL: 38496
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
 HOST,3dns-3.adobe.com,Global
@@ -2254,6 +2254,7 @@ HOST-SUFFIX,bedstegratisporno.com,Global
 HOST-SUFFIX,beeg.rest,Global
 HOST-SUFFIX,beegfree.com,Global
 HOST-SUFFIX,beejp.net,Global
+HOST-SUFFIX,beforeitsnews.com,Global
 HOST-SUFFIX,befuck.com,Global
 HOST-SUFFIX,begin-trade.com,Global
 HOST-SUFFIX,beibao.cn,Global
@@ -9059,7 +9060,6 @@ HOST-SUFFIX,omghk.com,Global
 HOST-SUFFIX,omgteens.com,Global
 HOST-SUFFIX,omniroot.com,Global
 HOST-SUFFIX,omniture.com,Global
-HOST-SUFFIX,omobi.cc,Global
 HOST-SUFFIX,omoplanet.com,Global
 HOST-SUFFIX,omorashi.org,Global
 HOST-SUFFIX,omscr.com,Global
@@ -12303,6 +12303,7 @@ HOST-SUFFIX,welcomix.com,Global
 HOST-SUFFIX,wellfuckedwife.com,Global
 HOST-SUFFIX,wellmaturetube.com,Global
 HOST-SUFFIX,westerndigital.com,Global
+HOST-SUFFIX,westword.com,Global
 HOST-SUFFIX,wet-ass-pussy.com,Global
 HOST-SUFFIX,wetandpuffy.com,Global
 HOST-SUFFIX,wetchicks.org,Global
@@ -17022,7 +17023,6 @@ HOST-SUFFIX,beerolympics.se,Global
 HOST-SUFFIX,beerporn.org,Global
 HOST-SUFFIX,beetalkmobile.com,Global
 HOST-SUFFIX,beevpn.com,Global
-HOST-SUFFIX,beforeitsnews.com,Global
 HOST-SUFFIX,behance.com,Global
 HOST-SUFFIX,behance.net,Global
 HOST-SUFFIX,behindkink.com,Global
@@ -32644,7 +32644,6 @@ HOST-SUFFIX,westernwolves.com,Global
 HOST-SUFFIX,westkit.net,Global
 HOST-SUFFIX,westperry.org,Global
 HOST-SUFFIX,westpoint.edu,Global
-HOST-SUFFIX,westword.com,Global
 HOST-SUFFIX,wethinker.com,Global
 HOST-SUFFIX,wetinim.com,Global
 HOST-SUFFIX,wetplace.com,Global

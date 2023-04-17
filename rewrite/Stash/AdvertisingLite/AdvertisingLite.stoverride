@@ -1,11 +1,11 @@
 name: 复写去广告(严格版)
-desc: 最后更新时间 2023-04-17 02:14:15
+desc: 最后更新时间 2023-04-18 02:14:38
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
-# reject: 503
-# mitm: 416
+# reject: 504
+# mitm: 417
 # force-http-engine-hosts: 6
-# total: 925
+# total: 927
 
 
 
@@ -95,6 +95,7 @@ http:
     - ^https?:\/\/api\.feng\.com\/v\d\/advertisement\/.*Claunch - reject
     - ^https?:\/\/api\.futunn\.com\/v\d\/ad\/ - reject
     - ^https?:\/\/api\.gameplus\.qq\.com\/community\.OnloadSrv\/GetPreloadScreenInfo - reject
+    - ^https?:\/\/api\.gamer\.com\.tw\/mobile_app\/anime\/v\d\/anime_get_question\.php - reject
     - ^https?:\/\/api\.gaoqingdianshi\.com\/api\/v\d\/ad\/ - reject
     - ^https?:\/\/api\.gotokeep\.com\/ads - reject
     - ^https?:\/\/api\.gotokeep\.com\/op-engine-webapp\/v\d\/ad/ - reject
@@ -579,6 +580,7 @@ http:
     - "api.douban.com"
     - "api.feng.com"
     - "api.gameplus.qq.com"
+    - "api.gamer.com.tw"
     - "api.gaoqingdianshi.com"
     - "api.gotokeep.com"
     - "api.hanju.koudaibaobao.com"

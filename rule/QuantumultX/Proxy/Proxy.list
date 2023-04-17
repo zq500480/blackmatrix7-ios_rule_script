@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-08 02:11:28
+# UPDATED: 2023-04-18 02:11:19
 # HOST: 11
 # HOST-KEYWORD: 31
-# HOST-SUFFIX: 25414
+# HOST-SUFFIX: 25412
 # IP-CIDR: 88
 # IP6-CIDR: 3
 # USER-AGENT: 9
-# TOTAL: 25556
+# TOTAL: 25554
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
 HOST,assets-priconne-redive-us.akamaized.net,Proxy
@@ -3927,7 +3927,6 @@ HOST-SUFFIX,beerolympics.se,Proxy
 HOST-SUFFIX,beerporn.org,Proxy
 HOST-SUFFIX,beetalkmobile.com,Proxy
 HOST-SUFFIX,beevpn.com,Proxy
-HOST-SUFFIX,beforeitsnews.com,Proxy
 HOST-SUFFIX,behance.com,Proxy
 HOST-SUFFIX,behance.net,Proxy
 HOST-SUFFIX,behindkink.com,Proxy
@@ -19634,7 +19633,6 @@ HOST-SUFFIX,westernwolves.com,Proxy
 HOST-SUFFIX,westkit.net,Proxy
 HOST-SUFFIX,westperry.org,Proxy
 HOST-SUFFIX,westpoint.edu,Proxy
-HOST-SUFFIX,westword.com,Proxy
 HOST-SUFFIX,wethinker.com,Proxy
 HOST-SUFFIX,wetinim.com,Proxy
 HOST-SUFFIX,wetplace.com,Proxy

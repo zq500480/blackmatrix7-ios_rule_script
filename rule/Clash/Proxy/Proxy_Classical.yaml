@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-08 02:11:26
+# UPDATED: 2023-04-18 02:11:16
 # DOMAIN: 7
 # DOMAIN-KEYWORD: 31
-# DOMAIN-SUFFIX: 24652
+# DOMAIN-SUFFIX: 24650
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 24781
+# TOTAL: 24779
 payload:
   - DOMAIN,api.waqi.info
   - DOMAIN,aqi.aqicn.org
@@ -3892,7 +3892,6 @@ payload:
   - DOMAIN-SUFFIX,beemtube.com
   - DOMAIN-SUFFIX,beerolympics.se
   - DOMAIN-SUFFIX,beevpn.com
-  - DOMAIN-SUFFIX,beforeitsnews.com
   - DOMAIN-SUFFIX,behance.com
   - DOMAIN-SUFFIX,behance.net
   - DOMAIN-SUFFIX,behindkink.com
@@ -18982,7 +18981,6 @@ payload:
   - DOMAIN-SUFFIX,westkit.net
   - DOMAIN-SUFFIX,westperry.org
   - DOMAIN-SUFFIX,westpoint.edu
-  - DOMAIN-SUFFIX,westword.com
   - DOMAIN-SUFFIX,wethinker.com
   - DOMAIN-SUFFIX,wetinim.com
   - DOMAIN-SUFFIX,wetplace.com
