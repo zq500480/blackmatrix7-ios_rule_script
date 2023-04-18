@@ -12,17 +12,17 @@ PT下载规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-04-18 02:12:22
+最后更新时间：2023-04-19 02:12:43
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| HOST | 153  | 
+| HOST | 152  | 
 | HOST-KEYWORD | 3  | 
 | HOST-SUFFIX | 113  | 
 | IP-CIDR | 5  | 
 | IP6-CIDR | 2  | 
-| TOTAL | 276  | 
+| TOTAL | 275  | 
 
 
 ## QuantumultX 
