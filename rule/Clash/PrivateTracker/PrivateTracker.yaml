@@ -1,13 +1,13 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-19 02:12:43
-# DOMAIN: 152
+# UPDATED: 2023-04-20 02:12:27
+# DOMAIN: 154
 # DOMAIN-KEYWORD: 3
 # DOMAIN-SUFFIX: 113
 # IP-CIDR: 5
 # IP-CIDR6: 2
-# TOTAL: 275
+# TOTAL: 277
 payload:
   - DOMAIN,1337.abcvg.info
   - DOMAIN,6ahddutb1ucc3cp.ru
@@ -38,7 +38,6 @@ payload:
   - DOMAIN,explodie.org
   - DOMAIN,fe.dealclub.de
   - DOMAIN,fh2.cmp-gaming.com
-  - DOMAIN,fosstorrents.com
   - DOMAIN,htz3.noho.st
   - DOMAIN,hub.bugout.link
   - DOMAIN,incine.ru
@@ -55,6 +54,7 @@ payload:
   - DOMAIN,open.demonii.com
   - DOMAIN,open.dstud.io
   - DOMAIN,open.stealth.si
+  - DOMAIN,open.tracker.cl
   - DOMAIN,open.tracker.ink
   - DOMAIN,opentor.org
   - DOMAIN,opentracker.i2p.rocks
@@ -79,6 +79,7 @@ payload:
   - DOMAIN,t.133335.xyz
   - DOMAIN,t.acg.rip
   - DOMAIN,t.nyaatracker.com
+  - DOMAIN,t.zerg.pw
   - DOMAIN,t1.hloli.org
   - DOMAIN,tamas3.ynh.fr
   - DOMAIN,thagoat.rocks
@@ -87,7 +88,6 @@ payload:
   - DOMAIN,torrent-tracker.hama3.net
   - DOMAIN,torrents.artixlinux.org
   - DOMAIN,torrentsmd.com
-  - DOMAIN,tr.bangumi.moe
   - DOMAIN,tr.burnabyhighstar.com
   - DOMAIN,tr.cili001.com
   - DOMAIN,tr.ready4.icu
@@ -128,6 +128,7 @@ payload:
   - DOMAIN,tracker.monitorit4.me
   - DOMAIN,tracker.mywaifu.best
   - DOMAIN,tracker.openbittorrent.com
+  - DOMAIN,tracker.openbtba.com
   - DOMAIN,tracker.opentrackr.org
   - DOMAIN,tracker.openwebtorrent.com
   - DOMAIN,tracker.pimpmyworld.to
@@ -140,6 +141,7 @@ payload:
   - DOMAIN,tracker.theoks.net
   - DOMAIN,tracker.tiny-vps.com
   - DOMAIN,tracker.torrent.eu.org
+  - DOMAIN,tracker.zerobytes.xyz
   - DOMAIN,tracker1.520.jp
   - DOMAIN,tracker1.bt.moack.co.kr
   - DOMAIN,tracker1.itzmx.com

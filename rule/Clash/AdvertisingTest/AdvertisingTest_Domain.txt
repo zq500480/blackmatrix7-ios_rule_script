@@ -1,122 +1,149 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-19 02:08:21
-# DOMAIN: 11561
+# UPDATED: 2023-04-20 02:08:31
+# DOMAIN: 11590
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 112906
+# DOMAIN-SUFFIX: 113074
 # IP-CIDR: 244
-# TOTAL: 124975
+# TOTAL: 125172
+18so.vip
 3p-geo.yahoo.com
 3p-udc.yahoo.com
 46186911.vtt
 80055404.vtt
+a36cf43207.com
 aab-proxy.tld
+absolutionexpert.com
 absurdapple.com
 adfox.yandex.ru
 adfstat.yandex.ru
 ads.youtube.com
 adsdk.yandex.ru
+ajucem.xyz
 an.yandex.ru
+anapx.net
+aniqgsz.cc
+antennarollcellar.com
 anxiousapples.com
-aosmicvirago.com
 api.sec.miui.com
 app.ssp.yahoo.com
 appboy-images.com
 apple.www.letv.com
 applesometimes.com
 applets.ebxcdn.com
+arsoitedarien.tech
 attractionapples.com
+auloucma.net
 awaps.yandex.ru
 awsync.yandex.ru
 bats.video.yahoo.com
 beacon.search.yahoo.com
 beap-bc.yahoo.com
 blueduckredapple.com
+brittleraising.com
 bs.yandex.ru
-cassiusazide.com
-cbhwekr.cn
-cdfda.xyz
-cerningronco.com
-chibchasuffete.com
-cirmudcap.com
-code.usergram.info
+bsyhicvmrg.com
+burstconsumer.com
+bx-cloud.com
+cabotsmuskit.com
+carlotcoopee.website
+chalaips.com
+chinucskoo.com
 collector2c.zhihuishu.com
 cookiex.ngd.yahoo.com
-creeguilds.com
-cydippeespy.com
 d1stxfv94hrhia.cloudfront
-dancesmissort.com
-diapirsblanker.com
-dirhamsleered.com
+d28dc30335.com
+dcf438349c.com
 dmg-dd.oss-accelerate.aliyuncs.com
-doucheraisiny.com
-ealdi.xyz
-entrerscab.com
-epotaidhdbg.com
-etiamangola.com
+dwelc.com
+editorpilotlimbs.com
+etbelpoyes.xyz
+evmnlpv.cn
+fameailmentcircumstantial.com
 februaryreductionapplet.com
+findalwaglike.com
+forjoiyvidspics.online
 fpb1.apple886.com
+fssxyiq.cn
+fweia.xyz
 ganon.yahoo.com
+genetorhebe.website
 geo.yahoo.com
-gfkhapiuxjkspbq.xyz
-gliderpured.com
-gloagaus.xyz
-heaumeoutwind.com
-heistgust.com
-heritorclysmic.com
-himeneko.ink
-hoggersundue.com
+hammaidentomb.guru
 iadsdk.apple.com
 ib.snssdk.com
 informer.yandex.ru
-iughyy7919.com
-jetonfictile.com
+jacmolta.com
+jelqr4dqeep7.com
 jill.fc.yahoo.com
-joinsportsnow.com
+joathath.com
 jpaasne.e.shifen.com
-kilobelion.com
-l.francetvinfo.fr
-lettuceetoiles.com
+judium.com
+jujabxlusgag.com
+lansukse.xyz
+ldforeyesheha.info
+liqenoftcgfqw.com
 log.strm.yandex.ru
+loldroiqkgy.com
+loomspreadingnamely.com
+luckydino.ren
+lumpmancommos.guru
 marketingsolutions.yahoo.com
+maypreposition.com
 mc.yandex.ru
+medaipvx.com
+medaipxv.com
 mediaappletree.com
-minimalmodulet.com
+mildarmorynodding.com
 mm.n3w1d0ma1n
+mmpomlekrocrice.com
 mo.vlpyj.xy
-moend.xyz
-myomasocager.com
-nivogxpacr.com
-nokeegne.com
+montebassy.com
+mwihruozvmzu.com
+myopyrum.digital
+nancontrast.com
+nbdrqefqvil.com
 nol.yahoo.com
-povoarge.com
+omdritbpeap.com
+outplodbunty.com
+patariatoolman.com
+pattyheadlong.com
+paulinruntime.digital
+peoric.com
+piaochong.co
+pithjpf.cn
 pr.comet.yahoo.com
 pubgw.yahoo.com
 pv.sohu.com
-qpoiwnelc.com
-replacestuntissue.com
+rackmanbehind.com
+reasonableoakdejection.com
 rrf.fat1domain1
+rriogtahfa.com
+russellseemslept.com
+scantlyvedette.com
 shackapple.com
-soavesermon.com
+shredvealdone.com
+simplistic-potato.pro
+slakiervolost.com
 sortyellowapples.com
-spokanbrine.com
-squeamarundo.com
+speermoving.com
+spiralewiverns.website
 stats.video.search.yahoo.com
+strongestboxerscrupulous.com
 sub.powerapple.com
 sugar.zhihu.com
 supportmetrics.apple.com
-tahinapasses.com
 test.vast
 theapple.site
-tibertannoy.com
-tr.usergram.info
+txouliypi.com
+tyranbrashore.com
+versatileadvancement.com
 visit.webhosting.yahoo.com
+whittenchorded.com
 wondefulapplend.com
 wzjs1.oss-accelerate.aliyuncs.com
-xni.ink
 youtube.local
-zaltaumi.net
 zupee.cim
 10.10.34.35
 10.10.34.36
@@ -908,7 +935,6 @@ qwe77.com
 qx9906.com
 qy080.vip
 r55268.com
-rationalan.pro
 rcv.ixd.dmm.com
 rdldtrk.com
 realasianexposed.com
@@ -11545,15 +11571,17 @@ ad.kddi-fs.com
 beat.socialblade.com
 bin.vinted.net
 c.corriere.it
+c.fingerprint.com
 conversion.mooncard.co
 data.sportdeutschland.tv
 epimetheus.navigator.web.de
+fpa.fingerprint.com
 gtm.wise.com
+hlms.ecologie.gouv.fr
 ih.newegg.com
 log.kuwo.cn
 metrics.apple.com
 metrics.newegg.com
-p7cloud.net
 plausible.dragonfru.it
 pstt.mtb-news.de
 ras.yahoo.com
@@ -11568,8 +11596,8 @@ securemvt.apple.com.cn
 ssp.rambler.ru
 stt.wawacity.onl
 swmhdata.stuttgarter-nachrichten.de
+wrhv.education.gouv.fr
 .0-000.store
-.0.0.realodix
 .0.code.cotsta.ru
 .0001.best
 .0013.cc
@@ -11821,6 +11849,10 @@ swmhdata.stuttgarter-nachrichten.de
 .10fbb07a4b0.se
 .10nvejhblhha.com
 .10q6e9ne5.de
+.10skdbfks010.monster
+.10skdjbfk010.monster
+.10skdjfbks10.monster
+.10skhbdhjfsdf100.monster
 .10skhdbfjsf10.monster
 .10skjdbfkjs10.monster
 .10tide.com
@@ -11834,6 +11866,7 @@ swmhdata.stuttgarter-nachrichten.de
 .110938bbb2.com
 .11111.host
 .1111supjavcom.xyz
+.1112d5277e.com
 .1118cctv.ltd
 .111ol.com
 .111supjav.xyz
@@ -12038,9 +12071,16 @@ swmhdata.stuttgarter-nachrichten.de
 .1f7wwaex9rbh.com
 .1f95b058c0.com
 .1fd92n6t8.de
+.1fr33styl3d0main.com
+.1fr33styl3domain.com
 .1freecounter.com
+.1freestyl3domain.com
+.1freex1frreee.com
+.1frrearea1.com
 .1fwjpdwguvqs.com
 .1g46ls536.de
+.1generat3dx.com
+.1gettherefaster1.monster
 .1girl1pitcher.com
 .1girl1pitcher.org
 .1gldnstrofhkybypdsknubjobaleestranre24.com
@@ -12070,6 +12110,7 @@ swmhdata.stuttgarter-nachrichten.de
 .1mp.mobi
 .1mpi.com
 .1n4o.icu
+.1niao20230410.live
 .1nimo.com
 .1odi7j43c.de
 .1p1eqpotato.com
@@ -13439,6 +13480,7 @@ swmhdata.stuttgarter-nachrichten.de
 .8315.cn
 .833761.com
 .8341.store
+.8353e36c2a.com
 .83692.com
 .840df00e08.com
 .84232.com
@@ -13473,6 +13515,7 @@ swmhdata.stuttgarter-nachrichten.de
 .8659c84895.com
 .866e69bc8e.com
 .867df8b139.com
+.86aa86d2f4.com
 .86b16730f8.com
 .86cb1dcb13ba5a1a.com
 .86fm.com
@@ -14000,6 +14043,7 @@ swmhdata.stuttgarter-nachrichten.de
 .aafuck.xyz
 .aag.yahooapis.jp
 .aagbvpgc.com
+.aahimxmfr.com
 .aahvz.top
 .aajoqmytnrq.com
 .aak7.cn
@@ -14012,6 +14056,7 @@ swmhdata.stuttgarter-nachrichten.de
 .aamv.vip
 .aan.amazon.com
 .aanetwork.vn
+.aanlthcvecoc.xyz
 .aanqylta.com
 .aaojcdihr.com
 .aapsis.com
@@ -14022,6 +14067,7 @@ swmhdata.stuttgarter-nachrichten.de
 .aarth.net
 .aasrs.info
 .aasyy.com
+.aatmrsfkve.com
 .aaudaob.cn
 .aawcky.xyz
 .aawulszemel.com
@@ -17613,6 +17659,7 @@ swmhdata.stuttgarter-nachrichten.de
 .afgr7.com
 .afgr8.com
 .afgr9.com
+.afgtrwd1.com
 .afgxkazryxp.com
 .afhllkouelxkkpd.xyz
 .afi-b.com
@@ -17714,6 +17761,7 @@ swmhdata.stuttgarter-nachrichten.de
 .ageory.com
 .ageteexomis.com
 .agfdapqal.com
+.agfompphv.com
 .agfsppekuik.com
 .aggary.com
 .aggestose.com
@@ -18085,6 +18133,7 @@ swmhdata.stuttgarter-nachrichten.de
 .akinrevenueexcited.com
 .akk1556.com
 .aklamator.com
+.aklsyovkpoyv.com
 .akmh001.vip
 .akmh043.vip
 .akmh047.vip
@@ -18400,6 +18449,7 @@ swmhdata.stuttgarter-nachrichten.de
 .alrightconsulatevarying.com
 .alrr.club
 .alsfor.com
+.alsindustrateb.info
 .alsindustratebil.com
 .alskd34.com
 .alskillsexkce.xyz
@@ -18577,6 +18627,7 @@ swmhdata.stuttgarter-nachrichten.de
 .ampush.io
 .amputeeinvenit.space
 .ampxchange.com
+.amrbvabey.com
 .amre.work
 .amrtbbnr.com
 .ams-pageview-public.s3.amazonaws.com
@@ -18584,6 +18635,7 @@ swmhdata.stuttgarter-nachrichten.de
 .amshirethfne.xyz
 .amstkqlvcitds.com
 .amsvplhvxipufkp.xyz
+.amtcwixpdsjurjm.com
 .amtropiusr.com
 .amtwcvh.cn
 .amuchcooctanes.com
@@ -18938,6 +18990,7 @@ swmhdata.stuttgarter-nachrichten.de
 .aorms.com
 .aorpum.com
 .aosmicdossety.website
+.aosmicvirago.com
 .aosotrdhahvs.com
 .aouzon.com
 .aovpnal.cn
@@ -18960,6 +19013,7 @@ swmhdata.stuttgarter-nachrichten.de
 .apathiaherbist.com
 .apathylahuli.website
 .apavskmykcm.xyz
+.apccrwpr.com
 .apcilnf.cn
 .apdijaug.com
 .apdrive.win
@@ -19251,6 +19305,7 @@ swmhdata.stuttgarter-nachrichten.de
 .aq.prices25.com
 .aq360.club
 .aq7ua5ma85rddeinve.com
+.aqbdjdvoyt.com
 .aqc.gucheng.com
 .aqccc.com
 .aqcutwom.xyz
@@ -19258,6 +19313,7 @@ swmhdata.stuttgarter-nachrichten.de
 .aqdhacjwiat.com
 .aqdxxmtkpio.xyz
 .aqedsw4.com
+.aqeqdvlrg.xyz
 .aqfwigotem.xyz
 .aqi.wd.amberweather.com
 .aqifiosjffspv.xyz
@@ -19583,6 +19639,7 @@ swmhdata.stuttgarter-nachrichten.de
 .askedappear.com
 .askedopinionatedimmediately.com
 .asketo.ru
+.askewflatted.com
 .askfsh.cn
 .askfuelads.com
 .askingconsideration.com
@@ -19731,6 +19788,7 @@ swmhdata.stuttgarter-nachrichten.de
 .asxoseeetdclha.xyz
 .asybwqxru.xyz
 .asycxtz.cn
+.asymyvhmwyyop.com
 .asyndiesserged.xyz
 .aszswyd.cn
 .at-o.net
@@ -20158,6 +20216,7 @@ swmhdata.stuttgarter-nachrichten.de
 .avstat.it
 .avsvmcloud.com
 .avtec.fr
+.avtklwruejfr.com
 .avualrhg9p0.bid
 .avulsedcherty.com
 .avuthoumse.com
@@ -20187,6 +20246,7 @@ swmhdata.stuttgarter-nachrichten.de
 .awbbcre.com
 .awbbjmp.com
 .awbbsat.com
+.awbhabaxgxwayts.com
 .awcrpu.com
 .awdigit.info
 .awecr.com
@@ -20320,6 +20380,7 @@ swmhdata.stuttgarter-nachrichten.de
 .ayunzhizuo.ltd
 .ayvcjvdfk.xyz
 .ayverwe.cn
+.ayvpagsvdvh.com
 .aywikhsw.xyz
 .ayxfqtxrgoc.com
 .ayyaar.ir
@@ -22558,6 +22619,7 @@ swmhdata.stuttgarter-nachrichten.de
 .bookodus.xyz
 .bookofsex.com
 .bookpdf.services
+.bookstaircasenaval.com
 .booleanfalces.website
 .boolff.com
 .boom-boom-vroom.com
@@ -23002,6 +23064,7 @@ swmhdata.stuttgarter-nachrichten.de
 .btttag.com
 .btvhdscr.com
 .btwasinlovewit.xyz
+.btwuegndru.com
 .btwwiwmhfhh.com
 .btxxxnav.com
 .bu3le2lp4t45e6i.com
@@ -23018,6 +23081,7 @@ swmhdata.stuttgarter-nachrichten.de
 .buckeyekantars.com
 .buckridge.link
 .buckspanuelo.com
+.bucminum.com
 .budaicius.com
 .budapebluest.com
 .budapest1873.net
@@ -23090,6 +23154,7 @@ swmhdata.stuttgarter-nachrichten.de
 .bumnxwvs.ink
 .bumpin.com
 .bumpyfruitless.com
+.bumpyremittancecarnivorous.com
 .bumq.com
 .bumskontakte.ch
 .bunchbox.co
@@ -23263,6 +23328,7 @@ swmhdata.stuttgarter-nachrichten.de
 .bvr.ast.snva.jp
 .bvr.snva.jp
 .bvrloslwgc.com
+.bvvisctpywbqqo.xyz
 .bvwxfok.cn
 .bvzkkjqeuijpy.com
 .bw95vpjda.ru
@@ -23855,6 +23921,7 @@ swmhdata.stuttgarter-nachrichten.de
 .caspion.com
 .casserolehunchcontract.com
 .cassettelancefriday.com
+.cassiusazide.com
 .cassonjacamar.digital
 .cast9half.com
 .castcloudywhereby.com
@@ -23935,6 +24002,7 @@ swmhdata.stuttgarter-nachrichten.de
 .cbfadomkpsngfhg.xyz
 .cbgunpz3aoayscg.ru
 .cbgyhe.cn
+.cbhwekr.cn
 .cbibhbghgdjbbageabd.ru
 .cbilrirtqyawue.com
 .cbjs.ciwei.in
@@ -23943,10 +24011,12 @@ swmhdata.stuttgarter-nachrichten.de
 .cbmiocw.com
 .cbn.tbn.ru
 .cbox.ws
+.cbrfnitjixegplp.xyz
 .cbsusiqkwqxbrmv.com
 .cbt.whatcounts.net
 .cbtmyonynqhrcdp.xyz
 .cbtrk.net
+.cbyiqsfp.com
 .cbyjpnjua.xyz
 .cc-dt.com
 .cc.8181zx.com
@@ -24014,6 +24084,7 @@ swmhdata.stuttgarter-nachrichten.de
 .cdend.com
 .cdeqwcngruwhnxx.com
 .cdert34.com
+.cdfda.xyz
 .cdfgdafijhcbjejeabf.ru
 .cdgjxt.com
 .cdgtw3.guapaijia.com
@@ -24230,6 +24301,7 @@ swmhdata.stuttgarter-nachrichten.de
 .cehbg.com
 .cehbs.com
 .cehiswasreb.ru
+.cehuihfos.com
 .cehuiy.com
 .ceileangsts.com
 .ceilingbruiseslegend.com
@@ -24315,6 +24387,7 @@ swmhdata.stuttgarter-nachrichten.de
 .cerfoillycea.website
 .cermetsdibbles.uno
 .cermetszanonia.com
+.cerningronco.com
 .certainalmostcontent.com
 .certaintysurroundingcab.com
 .certifica.com
@@ -24352,10 +24425,12 @@ swmhdata.stuttgarter-nachrichten.de
 .cfcdist.gd
 .cfcdist.gdn
 .cfcdist.loan
+.cfclhaqhjdtw.com
 .cfcloudcdn.com
 .cfcnet.gdn
 .cfcnet.to
 .cfcnet.top
+.cfekxodsdfjsmy.com
 .cfff.net
 .cfg.cml.ksmobile.com
 .cfgr1.com
@@ -24483,6 +24558,7 @@ swmhdata.stuttgarter-nachrichten.de
 .chavoads.com
 .chavosh.org
 .chazanscapita.com
+.chcapdxxqgwkve.xyz
 .chch.fr
 .chd-daolujiance.com
 .chdikbghrosxa.xyz
@@ -24570,6 +24646,7 @@ swmhdata.stuttgarter-nachrichten.de
 .chestucoso.pro
 .chetchen.net
 .chethgentman.live
+.cheuvcjpylbgp.com
 .chevetoelike.com
 .chevisefancy.com
 .chevlaga.ru
@@ -24580,6 +24657,7 @@ swmhdata.stuttgarter-nachrichten.de
 .chhlbdyxexdswcr.xyz
 .chiasephim.xyz
 .chibaigo.com
+.chibchasuffete.com
 .chic9usia.com
 .chicanowaffing.digital
 .chicgar.info
@@ -24590,6 +24668,7 @@ swmhdata.stuttgarter-nachrichten.de
 .chicssnowman.com
 .chidsimp.com
 .chienvoyageur.fr
+.chijauqybb.xyz
 .chikhanos.info
 .chiliadv.com
 .chimaerason.com
@@ -24807,6 +24886,7 @@ swmhdata.stuttgarter-nachrichten.de
 .circumscribevetofurther.com
 .circumstancesrectangle.com
 .circumstantialeltondirtiness.com
+.cirmudcap.com
 .cirsepuh.net
 .ciscavossh.com
 .ciscoesfirring.guru
@@ -25394,6 +25474,7 @@ swmhdata.stuttgarter-nachrichten.de
 .cmps.mt50ad.com
 .cmptatbpxo.xyz
 .cmptch.com
+.cmptxkorcvssw.com
 .cmrdr.com
 .cms.grandcloud.cn
 .cms.lv
@@ -25519,6 +25600,7 @@ swmhdata.stuttgarter-nachrichten.de
 .code.curs.net.ua
 .code.kinofactor.ru
 .code.lockbot.net
+.code.usergram.info
 .code.vh45130.eurodir.ru
 .code.ws
 .codeadnetwork.com
@@ -25725,6 +25807,7 @@ swmhdata.stuttgarter-nachrichten.de
 .columnsremembrancesoap.com
 .coluth.com
 .colved.com
+.colxasyb.com
 .com-csn.com
 .com-wkejf32ljd23409system.net
 .com495.ru
@@ -26626,6 +26709,7 @@ swmhdata.stuttgarter-nachrichten.de
 .creditperformance.com.br
 .creditsoffer.blogspot.com
 .creedaileenboiler.com
+.creeguilds.com
 .creepingbrings.com
 .creepybuzzing.com
 .cremateretainedsurname.com
@@ -27030,6 +27114,7 @@ swmhdata.stuttgarter-nachrichten.de
 .cxovwczosr.com
 .cxp1c050.cn
 .cxpublic.com
+.cxtdejhailhsn.com
 .cxtvli.com
 .cxy88.friok.com
 .cxzudwk.com
@@ -27053,6 +27138,7 @@ swmhdata.stuttgarter-nachrichten.de
 .cyclobenzaprine.ourtablets.com
 .cycsfe.com
 .cycytea.cn
+.cydippeespy.com
 .cydoor.com
 .cyfe.fr
 .cygnus.com
@@ -27472,6 +27558,7 @@ swmhdata.stuttgarter-nachrichten.de
 .d2fbkzyicji7c4.cloudfront.net
 .d2fbvay81k4ji3.cloudfront.net
 .d2fhjyz3dwdx87.cloudfront.net
+.d2fhrdu08h12cc.cloudfront.net
 .d2focgxak1cn74.cloudfront.net
 .d2foi16y3n0s3e.cloudfront.net
 .d2g8ksx1za632p.cloudfront.net
@@ -27661,6 +27748,7 @@ swmhdata.stuttgarter-nachrichten.de
 .d36wtdrdo22bqa.cloudfront.net
 .d36zfztxfflmqo.cloudfront.net
 .d370hf5nfmhbjy.cloudfront.net
+.d379fkejtn2clk.cloudfront.net
 .d37aacdbcc.com
 .d37abonb6ucrhx.cloudfront.net
 .d37pempw0ijqri.cloudfront.net
@@ -28028,6 +28116,7 @@ swmhdata.stuttgarter-nachrichten.de
 .danakilaskarel.com
 .danaoren.shop
 .dancaa.com
+.dancesmissort.com
 .dandilysterna.com
 .dandyblondewinding.com
 .daneslureful.com
@@ -28672,6 +28761,7 @@ swmhdata.stuttgarter-nachrichten.de
 .deserterstrugglingdistil.com
 .desgao1zt7irn.cloudfront.net
 .desigactinific.org
+.design01.top
 .designatejay.com
 .designatejumped.com
 .designbloxlive.com
@@ -28683,6 +28773,7 @@ swmhdata.stuttgarter-nachrichten.de
 .desk.mspaceads.com
 .desktopnotificationshub.com
 .desolatewreck.com
+.desorbtarrify.com
 .desperationembassy.com
 .despicablereporthusband.com
 .despik.com
@@ -28804,6 +28895,7 @@ swmhdata.stuttgarter-nachrichten.de
 .dfvvx58.com
 .dfwbfr2blhmr5.cloudfront.net
 .dfwskw7.com
+.dfxikrxuns.xyz
 .dfyouolsdq.com
 .dfzv25.com
 .dg-hospital.com
@@ -28894,6 +28986,7 @@ swmhdata.stuttgarter-nachrichten.de
 .diaoguoshi.mobi
 .diaperhumanpurify.com
 .diapertypesdeference.com
+.diapirsblanker.com
 .diasciaplatly.com
 .diaspora-news.com
 .diazepam.ourtablets.com
@@ -29082,6 +29175,7 @@ swmhdata.stuttgarter-nachrichten.de
 .directuklyecon.pics
 .diresozines.com
 .dirgywhacks.com
+.dirhamsleered.com
 .dirhin.com
 .dirkino-traff.ru
 .dirtilystringy.com
@@ -29253,6 +29347,7 @@ swmhdata.stuttgarter-nachrichten.de
 .djers.com
 .djfhwosjck.bi
 .djfiln.com
+.djfjbfte.xyz
 .djfwuer.xyz
 .djhnrcithoq.com
 .djhrfus.xyz
@@ -29317,6 +29412,7 @@ swmhdata.stuttgarter-nachrichten.de
 .dlh8c15zw7vfn.cloudfront.net
 .dlhyfl.cn
 .dlittlemen.xyz
+.dljifgrdinmmb.com
 .dlkfm8bqz0bpx.cloudfront.net
 .dlmewheniyv.xyz
 .dlne6myudrxi1.cloudfront.net
@@ -29453,6 +29549,7 @@ swmhdata.stuttgarter-nachrichten.de
 .dockdigestion.com
 .doclix.com
 .docs-downloading.com
+.docsrmmeil.com
 .doctorenticeflashlights.com
 .doctorhousing.com
 .doctorschoicenursing.com
@@ -29658,6 +29755,7 @@ swmhdata.stuttgarter-nachrichten.de
 .doubleview.online
 .doubtcigardug.com
 .doucheng123.com
+.doucheraisiny.com
 .doudouknot.com
 .doufoacu.net
 .doug1izaerwt3.cloudfront.net
@@ -29762,6 +29860,7 @@ swmhdata.stuttgarter-nachrichten.de
 .drainlot.com
 .drako2sha8de09.com
 .drakorindo.club
+.dramasoloist.com
 .dramatic-challenge.com
 .dramwh.com
 .draokrojba.com
@@ -29849,6 +29948,7 @@ swmhdata.stuttgarter-nachrichten.de
 .drtladv.com
 .drtraff.ru
 .drubgyrinid.com
+.drufhfueg.com
 .drug-testing.shengen.ru
 .drugdetox.shengen.ru
 .druggedsilurid.com
@@ -30080,6 +30180,7 @@ swmhdata.stuttgarter-nachrichten.de
 .dvc8653ec6uyk.cloudfront.net
 .dviccvivms.com
 .dvigukindal.com
+.dvirmxystyb.com
 .dvkbfj.cn
 .dvklfkssxirup.xyz
 .dvl8xapgpqgc1.cloudfront.net
@@ -30324,6 +30425,7 @@ swmhdata.stuttgarter-nachrichten.de
 .eagletskoku.com
 .eaglic.com
 .eaglid.com
+.ealdi.xyz
 .ealeo.com
 .eallywasnothy.com
 .ealooov.cn
@@ -30582,6 +30684,7 @@ swmhdata.stuttgarter-nachrichten.de
 .edoumeph.com
 .edownloadfile.me
 .edpcwvie.com
+.edqbparlheuj.com
 .edrevenuedur.xyz
 .edrone.me
 .edrubyglo.buzz
@@ -30776,9 +30879,11 @@ swmhdata.stuttgarter-nachrichten.de
 .ehadmethe.xyz
 .ehadtwobright.com
 .ehfgifjjhdaejjajacj.ru
+.ehlrdcnkx.com
 .ehmqlr.com
 .ehntqzv1apeizca.ru
 .ehprnuo.cn
+.ehxqelwtthwyo.com
 .eiasninancu.com
 .eib2.cc
 .eicecixkxuq.com
@@ -30821,6 +30926,7 @@ swmhdata.stuttgarter-nachrichten.de
 .ejevika.com
 .ejfeng.com
 .ejfuh.com
+.ejgbylkk.xyz
 .ejghgjhhgadcdchjaada.ru
 .ejhijgfghbeeidddadb.ru
 .ejieban.com
@@ -31174,6 +31280,7 @@ swmhdata.stuttgarter-nachrichten.de
 .entrecard.s3.amazonaws.com
 .entreeselegist.com
 .entrenador-personal.com
+.entrerscab.com
 .entriflingw.xyz
 .entsconsesi.top
 .entseconom.com
@@ -31255,6 +31362,7 @@ swmhdata.stuttgarter-nachrichten.de
 .epochexr.website
 .epom.com
 .epomads2.4shared.com
+.epotaidhdbg.com
 .epp.bih.net.ba
 .eppmedia.si
 .epresententifi.com
@@ -31508,6 +31616,7 @@ swmhdata.stuttgarter-nachrichten.de
 .ethpolice.com
 .ethresholdouc.xyz
 .ethtrader.de
+.etiamangola.com
 .etingplansfo.buzz
 .etkht.cn
 .etl.tindersparks.com
@@ -31803,6 +31912,7 @@ swmhdata.stuttgarter-nachrichten.de
 .exerciseundergone.com
 .exfjpw.com
 .exgzyg.cn
+.exhausted-use.pro
 .exhaustedaccess.pro
 .exhaustedgemini.com
 .exhibitedderivedremarkable.com
@@ -31824,6 +31934,7 @@ swmhdata.stuttgarter-nachrichten.de
 .exitfuel.com
 .exitintel.com
 .exitmonitor.com
+.exixnifdcwo.xyz
 .exlidw.ink
 .exlusepolly.com
 .exlzodg.cn
@@ -31884,6 +31995,7 @@ swmhdata.stuttgarter-nachrichten.de
 .express-submit.de
 .expressalike.com
 .expressvampire.com
+.expuge.com
 .expugi.com
 .expwyredocks.com
 .exrtbsrv.com
@@ -32061,6 +32173,7 @@ swmhdata.stuttgarter-nachrichten.de
 .facai1588.xyz
 .facai383.oss-cn-guangzhou.aliyuncs.com
 .facaltow.net
+.facankaphfqjap.com
 .face-push.com
 .facebbook.fr
 .faceblum.ru
@@ -32329,6 +32442,7 @@ swmhdata.stuttgarter-nachrichten.de
 .fb332fdc0d.com
 .fb3aace890.com
 .fb960dbd5f.com
+.fbaesfavipnwmx.com
 .fbcctf.com
 .fbcdn2.com
 .fbcjk.com
@@ -32658,6 +32772,7 @@ swmhdata.stuttgarter-nachrichten.de
 .fiinann.com
 .fijekone.com
 .fijipic.xyz
+.fijkfpboeov.com
 .fijojwylfxnlvah.com
 .fikccnef.top
 .fiksu.com
@@ -32734,6 +32849,7 @@ swmhdata.stuttgarter-nachrichten.de
 .findingexchange.com
 .findlnk.com
 .findmenow.info
+.findnam.xyz
 .findnewline.com
 .findqc.com
 .findsexguide.com
@@ -32831,6 +32947,7 @@ swmhdata.stuttgarter-nachrichten.de
 .fixpass.net
 .fixwap.net
 .fizazdokts.com
+.fjairwihsdp.xyz
 .fjdfqy.com
 .fjdvzx.cn
 .fjjkq.cn
@@ -33140,6 +33257,7 @@ swmhdata.stuttgarter-nachrichten.de
 .fopsoado.com
 .for-j.com
 .for-joiyvid.site
+.for-joiyvidspics.online
 .for.health-net-lady.ru
 .forads.pro
 .forafinan.club
@@ -33195,6 +33313,7 @@ swmhdata.stuttgarter-nachrichten.de
 .forjoiyvid.site
 .forjoiyvid.space
 .forjoiyvids.online
+.forjoiyvids.pics
 .fork.ink
 .forkcdn.com
 .forkjork12.com
@@ -33359,6 +33478,7 @@ swmhdata.stuttgarter-nachrichten.de
 .free4faucet.com
 .freeadultcomix.com
 .freeavalanche.ru
+.freebaitar.com
 .freebanner.com
 .freebiegb.co.uk
 .freebiesurveys.com
@@ -33561,6 +33681,7 @@ swmhdata.stuttgarter-nachrichten.de
 .fseed.ru
 .fsgsfaf6.com
 .fsihfhjt.com
+.fsjjstfokntd.com
 .fsobjvtkew.com
 .fsojctdib.com
 .fspark-ap.com
@@ -33887,6 +34008,7 @@ swmhdata.stuttgarter-nachrichten.de
 .galopelikeantelope.com
 .galoreshoodlum.com
 .galoshanseis.com
+.galotop1.com
 .galvanic.name
 .gam3ah.com
 .gambar123.com
@@ -34438,6 +34560,7 @@ swmhdata.stuttgarter-nachrichten.de
 .gfghr.com
 .gfhdkse.com
 .gfjhgfjfebhccgafaed.ru
+.gfkhapiuxjkspbq.xyz
 .gflcsiot.com
 .gfnormal00aa.com
 .gfnormal00ah.com
@@ -34706,6 +34829,7 @@ swmhdata.stuttgarter-nachrichten.de
 .glestpeoples.buzz
 .glevoloo.com
 .gliceebe.xyz
+.gliderpured.com
 .gliffyfreaked.com
 .glihelethy.com
 .gliksekr.net
@@ -34723,6 +34847,7 @@ swmhdata.stuttgarter-nachrichten.de
 .gllpjkegmhusuq.com
 .glnvdc.cn
 .glo-glo-oom.com
+.gloagaus.xyz
 .gloalrie.com
 .gloamucm.xyz
 .gloansad.com
@@ -35318,6 +35443,7 @@ swmhdata.stuttgarter-nachrichten.de
 .greetham.net
 .greetpanda.org
 .greffetc-paris.fr
+.gregariousflower.pro
 .grehtrsan.com
 .greisize.com
 .grementessenti.com
@@ -36140,6 +36266,7 @@ swmhdata.stuttgarter-nachrichten.de
 .heatmap.emma.tools
 .heatmap.it
 .heatmap.services
+.heaumeoutwind.com
 .heauty-viesected.com
 .heavenly-landscape.com
 .heavenly-test.pro
@@ -36176,6 +36303,7 @@ swmhdata.stuttgarter-nachrichten.de
 .heftymynah.com
 .hegarberetrof.pro
 .hegazedatthewo.com
+.hegumensemite.com
 .heguoya.work
 .heha2cpoe.icu
 .hehadinqu.info
@@ -36193,6 +36321,7 @@ swmhdata.stuttgarter-nachrichten.de
 .heirchurchill.com
 .heiressplane.com
 .heisalw.xyz
+.heistgust.com
 .hejeyoke.xyz
 .hejfwnrhgontai.com
 .hejing.cloud
@@ -36293,6 +36422,7 @@ swmhdata.stuttgarter-nachrichten.de
 .herheads.xyz
 .herhomeou.xyz
 .heritagebathrooms.fr
+.heritorclysmic.com
 .herky.com.cn
 .hermichermicbroadcastinglifting.com
 .hermichermicfurnished.com
@@ -36494,11 +36624,13 @@ swmhdata.stuttgarter-nachrichten.de
 .himediads.com
 .himediadx.com
 .himekingrow.com
+.himeneko.ink
 .himhedrankslo.xyz
 .himicrosoft.com
 .hims1nice.com
 .himselves.com
 .himselvesobr.club
+.hinaprecent.info
 .hinaxrckuolr.com
 .hindisupref.ru
 .hindsight.significanceapps.com
@@ -36737,6 +36869,7 @@ swmhdata.stuttgarter-nachrichten.de
 .hodor-collect.arabam.com
 .hoegutvie.com
 .hoggeepilies.digital
+.hoggersundue.com
 .hognaivee.com
 .hogqmd.com
 .hogtiesnosh.guru
@@ -37728,6 +37861,7 @@ swmhdata.stuttgarter-nachrichten.de
 .igtqora.cn
 .igusoft.com
 .igvuw.com
+.igylwxvxgsuvcs.xyz
 .igyrmknlpr.xyz
 .ih1.fileforums.com
 .ih2.gamecopyworld.com
@@ -38996,6 +39130,7 @@ swmhdata.stuttgarter-nachrichten.de
 .iuclpbgxyfddk.xyz
 .iuerxw.xyz
 .iugbjkqwc.xyz
+.iughyy7919.com
 .iuhmydixxk.xyz
 .iuiweb.com
 .iulftx.com
@@ -39360,6 +39495,7 @@ swmhdata.stuttgarter-nachrichten.de
 .jetbux.ir
 .jetem.fr
 .jetgatem.com
+.jetonfictile.com
 .jetordinarilysouvenirs.com
 .jetsomkhulda.com
 .jetsowilk.com
@@ -39682,6 +39818,7 @@ swmhdata.stuttgarter-nachrichten.de
 .joinads.me
 .joinmy.site
 .joinpropeller.com
+.joinsportsnow.com
 .joinsubtext.com
 .joint-bad.com
 .jojoad.com
@@ -39781,7 +39918,6 @@ swmhdata.stuttgarter-nachrichten.de
 .jqueryboots.com
 .jquerycdn.host
 .jqueryoi.com
-.jqueryscript.net
 .jqueryserve.org
 .jqueryserver.com
 .jqwww.download
@@ -40489,6 +40625,7 @@ swmhdata.stuttgarter-nachrichten.de
 .killtarget.com
 .killtarget.pro
 .kilo6alga.com
+.kilobelion.com
 .kilometrix.de
 .kilomniadst.info
 .kilopog.com
@@ -41133,6 +41270,7 @@ swmhdata.stuttgarter-nachrichten.de
 .l.fairblocker.com
 .l.ffsagami.com
 .l.ffx.io
+.l.francetvinfo.fr
 .l.hamazo.tv
 .l.ikora.tv
 .l.junglekouen.com
@@ -41807,6 +41945,7 @@ swmhdata.stuttgarter-nachrichten.de
 .letterbox-path.com
 .letterboxtrail.com
 .letterwolves.com
+.lettuceetoiles.com
 .letvertise.com
 .letyoufall.com
 .letysheeps.ru
@@ -42397,6 +42536,7 @@ swmhdata.stuttgarter-nachrichten.de
 .lnk8j7.com
 .lnkrdr.com
 .lnks.gd
+.lnnjnv.xyz
 .lnpnhwfjcxcygo.xyz
 .lnr1.com
 .lnsbhzy.cn
@@ -44245,6 +44385,7 @@ swmhdata.stuttgarter-nachrichten.de
 .melthy.fr
 .meltpiratehamlet.com
 .meltwater.com
+.membai.com
 .member.javtvnow.xyz
 .members.chello.at
 .members.chello.nl
@@ -44721,6 +44862,7 @@ swmhdata.stuttgarter-nachrichten.de
 .mini.videostrip.com
 .minidoc.ru
 .miniholiday.cn
+.minimalmodulet.com
 .minimizeglanceanyway.com
 .minimumpay.info
 .mining.best
@@ -45103,6 +45245,7 @@ swmhdata.stuttgarter-nachrichten.de
 .moe.video
 .moedgapers.com
 .moekyepkd.com
+.moend.xyz
 .moengage.com
 .moes3quba.cyou
 .moevideo.biz
@@ -45602,6 +45745,7 @@ swmhdata.stuttgarter-nachrichten.de
 .mudmonster.org
 .mudperipherd.club
 .muer.cdn-baidu.fs-sywh.com
+.mufflealiases.com
 .mufflercypress.com
 .mufflerlamia.com
 .mufucfdmrrf.com
@@ -45893,6 +46037,7 @@ swmhdata.stuttgarter-nachrichten.de
 .myoffers.bid
 .myoffers.party
 .myolnyr5bsk18.com
+.myomasocager.com
 .myomnistar.com
 .myonionsoup.com
 .myopenads.com
@@ -46311,6 +46456,7 @@ swmhdata.stuttgarter-nachrichten.de
 .nedstat.s0.nl
 .nedstatbasic.net
 .nedstatpro.net
+.nedtvigpmwsigf.com
 .nedukeratio.com
 .nedukeratio.lol
 .neechube.net
@@ -46846,6 +46992,7 @@ swmhdata.stuttgarter-nachrichten.de
 .niulai0323166.space
 .niunai.buzz
 .niuspykmn.bar
+.nivogxpacr.com
 .nivsigz.com
 .niwooghu.com
 .niwota.com
@@ -46971,6 +47118,7 @@ swmhdata.stuttgarter-nachrichten.de
 .noisyassistance.pro
 .nojazz.eu
 .nokaut.link
+.nokeegne.com
 .nokontoken.com
 .noksauxi.com
 .nolrougn.com
@@ -47013,6 +47161,7 @@ swmhdata.stuttgarter-nachrichten.de
 .noofigat.net
 .nooncommentary.com
 .noonfrequentpea.com
+.noonsderider.com
 .nooroapo.com
 .nooserchaouia.com
 .noosingimmask.com
@@ -47922,6 +48071,7 @@ swmhdata.stuttgarter-nachrichten.de
 .ohsatum.info
 .ohspmuo.com
 .ohtctjiuow.com
+.ohwhdspj.com
 .oi1b.top
 .oicchina.com
 .oicode.com
@@ -48125,6 +48275,7 @@ swmhdata.stuttgarter-nachrichten.de
 .on.5.p2l.info
 .onad.eu
 .onads.com
+.onaged.com
 .onagriflocoon.com
 .onakasulback.autos
 .onandeggsiswe.com.ua
@@ -48880,6 +49031,7 @@ swmhdata.stuttgarter-nachrichten.de
 .overthetopexad.com
 .overwhelmcontractorlibraries.com
 .overwhelmingdarncalumny.com
+.overwiththinlea.info
 .overyfamiliar.biz
 .overzoruaon.com
 .overzubatan.com
@@ -49053,6 +49205,7 @@ swmhdata.stuttgarter-nachrichten.de
 .p64gk2yhba0p.com
 .p77777777.com
 .p78lld1s.top
+.p7cloud.net
 .p7ivj09f.xyz
 .p7lvj09f.shop
 .p7m1rc80jdum.com
@@ -49322,6 +49475,7 @@ swmhdata.stuttgarter-nachrichten.de
 .part-time-job.biz
 .partagedefichiers.com
 .partclick.ir
+.partef.com
 .parth2enerocis9tsust2ricus7pidata.com
 .parthanonstatue.com
 .parthetwo.ru
@@ -49561,6 +49715,7 @@ swmhdata.stuttgarter-nachrichten.de
 .pc6cda10.com
 .pc768.com
 .pcads.ru
+.pcalwshbnwysh.com
 .pcash.imlive.com
 .pcblibraries.fr
 .pcbuqpdytqanufu.xyz
@@ -49687,6 +49842,7 @@ swmhdata.stuttgarter-nachrichten.de
 .peigbv.cn
 .peircing-street.fr
 .peirs5tbakchios.com
+.peishuning1.cn
 .pejrq.xyz
 .pejzeexukxo.com
 .pelagicmismate.com
@@ -50511,6 +50667,7 @@ swmhdata.stuttgarter-nachrichten.de
 .plexop.com
 .plexop.net
 .plexworks.de
+.plfncoqj.top
 .plgeauctecc.com
 .pliaoboer.top
 .plified.pro
@@ -50672,6 +50829,7 @@ swmhdata.stuttgarter-nachrichten.de
 .pointomatic.com
 .pointroll.com
 .points2shop.com
+.poiqwnekb.com
 .poisism.com
 .poisonencouragement.com
 .poisonoustrolleyenhance.com
@@ -50869,6 +51027,7 @@ swmhdata.stuttgarter-nachrichten.de
 .poqjnkdsou.net
 .poqoiwn.com
 .poqup.com
+.poqwnllkm.com
 .poqwo3.com
 .porbed.com
 .porcelainfurtherties.com
@@ -51013,6 +51172,7 @@ swmhdata.stuttgarter-nachrichten.de
 .poutauge.net
 .pouyao.com
 .povbdf.cn
+.povoarge.com
 .power.adhacker.online
 .powerad.ai
 .poweradblocker.com
@@ -51816,6 +51976,7 @@ swmhdata.stuttgarter-nachrichten.de
 .ptirgaux.com
 .ptistyvymi.com
 .ptiwhirt.net
+.ptljkekttqf.com
 .ptlwm.com
 .ptlwmstc.com
 .ptmind.com
@@ -52641,6 +52802,7 @@ swmhdata.stuttgarter-nachrichten.de
 .qpeadbmaql.com
 .qpfyynxpi.com
 .qpmsybxqvlje.ru
+.qpoiwnelc.com
 .qponfva.cn
 .qprskl.com
 .qptnew.com
@@ -52890,14 +53052,23 @@ swmhdata.stuttgarter-nachrichten.de
 .qx568.com
 .qxdeqrxsxbnqbm.com
 .qxeemdpaerfjer.xyz
+.qxhspimg.com
 .qxknktdbftc.com
 .qxlidy.ink
+.qxorwqytvbnas.com
 .qxplus.ru
+.qxrbu.com
+.qxteatsrkeafkd.com
+.qxviaqyhdxbix.com
+.qxxvqkhxre.com
 .qxyam.com
 .qycfqk.xyz
 .qycw.xyz
 .qydhjirz.com
 .qydoc.com
+.qyfrdeypoffhugh.xyz
+.qyhrovvpb.com
+.qylaocktrnoqwev.com
 .qyowjhyyckraps.com
 .qysfa.com
 .qyshbf.ltd
@@ -53115,12 +53286,14 @@ swmhdata.stuttgarter-nachrichten.de
 .rate.ru
 .ratebilaterdea.com
 .ratel-ad.com
+.ratherdroverather.com
 .rathergist.com
 .rating-widget.com
 .rating.in
 .ratingberglet.com
 .ratingtoplist.com
 .ratioboom.ru
+.rationalan.pro
 .ratitaebajau.com
 .ratize.com
 .ratke.biz
@@ -53129,20 +53302,26 @@ swmhdata.stuttgarter-nachrichten.de
 .ratury.com
 .ratyakhu.ru
 .rauceesh.com
+.raudeecu.com
 .raufoomoochi.com
+.raunowhy.xyz
 .raupsoap.com
 .raupsooy.net
 .rausougo.net
 .rauvoaty.net
 .rauwoafe.com
+.rauwoukauku.com
 .ravalads.com
 .ravalamin.com
 .ravaquinal.com
+.ravaynore.com
 .ravelin.click
 .ravelin.net
 .ravenousdrawers.com
 .ravnovesienews.ru
+.raw-co.com
 .rawasy.com
+.rawconstitutionnan.com
 .rawgsjd.cn
 .rawoarsy.com
 .raxfracid.com
@@ -53162,6 +53341,7 @@ swmhdata.stuttgarter-nachrichten.de
 .rbazhaheiz.top
 .rbcdn.com
 .rbck.st3pst3p.com
+.rbfvtiqnd.com
 .rbgfxxt.cn
 .rbioclv.cn
 .rbkshort.info
@@ -53378,9 +53558,12 @@ swmhdata.stuttgarter-nachrichten.de
 .record.bonniergaming.com
 .record.findtrustclicks.com
 .record.mrwin.com
+.recordeditionneedful.com
+.recorderbenefactortriggers.com
 .recordervesttasting.com
 .recordingfilessuperintend.com
 .recordinglamping.com
+.recordingperky.com
 .recordingshipping.com
 .recosenselabs.com
 .recoset.com
@@ -53535,11 +53718,14 @@ swmhdata.stuttgarter-nachrichten.de
 .refpakykgqyf.top
 .refpamjeql.top
 .refpanglbvyd.top
+.refparer.xyz
 .refparjhob.top
 .refpasrasw.world
 .refractionius.com
 .refrainskiereatable.com
 .refraintupaiid.com
+.refreshingfluctuateboxes.com
+.refreshinglackdignified.com
 .refreshmentdistrustinstalled.com
 .refreshmentsdefect.com
 .refreshnerer27.info
@@ -53750,7 +53936,9 @@ swmhdata.stuttgarter-nachrichten.de
 .renamedineffective.com
 .renameking.com
 .rencohep.com
+.rencontreadultere.club
 .rencontreavenue.com
+.rencontresparis2015.com
 .renderscreech.com
 .rendfy.com
 .rendimportinaugurate.com
@@ -53761,6 +53949,7 @@ swmhdata.stuttgarter-nachrichten.de
 .renhertfo.com
 .reninet.com
 .renminbao.com
+.rennscanmag.com
 .renomeeguze.com
 .renormaliseras.xyz
 .renov-landes.fr
@@ -53777,6 +53966,7 @@ swmhdata.stuttgarter-nachrichten.de
 .reofamily.cn
 .reople.co.kr
 .reoreexpresi.xyz
+.reotherebyfery.club
 .reotiedygrf.xyz
 .rep0pkgr.com
 .repairedbringstale.com
@@ -53784,6 +53974,7 @@ swmhdata.stuttgarter-nachrichten.de
 .repaul.com
 .repayrotten.com
 .repbdso.cn
+.repbowdew.com
 .repealamintor.com
 .repeatresolve.com
 .repellentcenturiespersevere.com
@@ -53794,6 +53985,7 @@ swmhdata.stuttgarter-nachrichten.de
 .replacebarhandkerchief.com
 .replacementportugueserecollection.com
 .replacementreluctance.com
+.replacestuntissue.com
 .replase.cf
 .replase.gq
 .replase.ml
@@ -53845,6 +54037,7 @@ swmhdata.stuttgarter-nachrichten.de
 .republicunableappellation.com
 .republika.onet.pl
 .repuge.com
+.reputationsheriffkenneth.com
 .reputedaytrade.com
 .req12pkgb.com
 .requac.com
@@ -54722,6 +54915,7 @@ swmhdata.stuttgarter-nachrichten.de
 .rtc.dymatrix.cloud
 .rtcegcp.cn
 .rtclx.com
+.rtdxqq.com
 .rteneme.ru
 .rtewgfsxd.com
 .rthmnj.xyz
@@ -56719,6 +56913,7 @@ swmhdata.stuttgarter-nachrichten.de
 .sirsilly.com
 .sisafnib.space
 .sisgirlav.info
+.sisjwol.xyz
 .sismoycheii.cc
 .sistemishop.it
 .sistercomb.com
@@ -57278,6 +57473,7 @@ swmhdata.stuttgarter-nachrichten.de
 .soap-wash.com
 .soarersovoli.uno
 .soarpower.com
+.soavesermon.com
 .soawhoaw.com
 .soazooge.com
 .sobakapi2sa8la09.com
@@ -57724,6 +57920,7 @@ swmhdata.stuttgarter-nachrichten.de
 .spn.ee
 .spnx.jp
 .spoilphysiqueteenagers.com
+.spokanbrine.com
 .spokesmanlinedmercury.com
 .spoki-noki.net
 .spolecznosci.net
@@ -57848,6 +58045,7 @@ swmhdata.stuttgarter-nachrichten.de
 .sqszs.top
 .squarepicket.com
 .squatdisloyal.com
+.squeamarundo.com
 .squeezely.tech
 .squeezemicrowave.com
 .squeezesharedman.com
@@ -57862,6 +58060,7 @@ swmhdata.stuttgarter-nachrichten.de
 .squirrelhissedintake.com
 .squirrels.getsquirrel.co
 .squirtburpimplore.com
+.sqvoelbdmm.com
 .sqxst.com
 .sqydhgubsy.com
 .sra.moresophy.net
@@ -58562,6 +58761,7 @@ swmhdata.stuttgarter-nachrichten.de
 .stotchou.com
 .stotoowu.net
 .stouceey.net
+.stougnee.com
 .stoushgowds.com
 .stovearmpitagreeable.com
 .stovecharacterize.com
@@ -58867,6 +59067,7 @@ swmhdata.stuttgarter-nachrichten.de
 .superinterstitial.com
 .superioritydiningroom.com
 .superiortds.ru
+.superitu.com
 .superjuryger.xyz
 .superlady.org
 .superlecker.info
@@ -59239,6 +59440,7 @@ swmhdata.stuttgarter-nachrichten.de
 .sznj91.com
 .szpgzn.com
 .szqxvo.com
+.szsbiw.xyz
 .szsmtk.com
 .szsxy.vip
 .szupertanacsok.blog.hu
@@ -59416,6 +59618,7 @@ swmhdata.stuttgarter-nachrichten.de
 .tagtray.com
 .tagular.com
 .tagvideo.eu
+.tahinapasses.com
 .tahltanboutell.com
 .tahnfua.com
 .tahodebe.xyz
@@ -60104,6 +60307,7 @@ swmhdata.stuttgarter-nachrichten.de
 .th700.com
 .thaged.com
 .thagic.com
+.thagrals.net
 .thaickoo.net
 .thaidapps.com
 .thaidsir.xyz
@@ -60476,6 +60680,7 @@ swmhdata.stuttgarter-nachrichten.de
 .tiaotiao.store
 .tibacta.com
 .tibbujo.com
+.tibertannoy.com
 .tibetnews365.net
 .tibs.fr
 .tic-tic-bam.com
@@ -61154,6 +61359,7 @@ swmhdata.stuttgarter-nachrichten.de
 .tptp001.buzz
 .tptrk.ru
 .tpvdcqw.cn
+.tpycithabalj.com
 .tpyshaaxps.com
 .tqdpqq.com
 .tqkfrdcwht.xyz
@@ -61176,6 +61382,7 @@ swmhdata.stuttgarter-nachrichten.de
 .tr.namu.wiki
 .tr.samoresim.ru
 .tr.topdevvn.com
+.tr.usergram.info
 .tr.vitals.co
 .tr.www.cloudflare.com
 .tr553.com
@@ -63596,6 +63803,7 @@ swmhdata.stuttgarter-nachrichten.de
 .vbgr7.cn
 .vbillplus.cn
 .vboro.de
+.vbrmadyqju.com
 .vbscgrnkoceya.com
 .vbt.io
 .vbtrax.com
@@ -63758,6 +63966,7 @@ swmhdata.stuttgarter-nachrichten.de
 .verysilenit.com
 .verytransions.xyz
 .vesdsp.com
+.vesofefinego.info
 .vespymedia.com
 .vessoupy.com
 .vesterlaibach.uno
@@ -64040,6 +64249,7 @@ swmhdata.stuttgarter-nachrichten.de
 .villasquinttolerance.com
 .villepariis.fr
 .vilnhoowpom.com
+.vilowhmrea.com
 .vilynx.com
 .vimgs.ru
 .vimmenced.club
@@ -64191,6 +64401,7 @@ swmhdata.stuttgarter-nachrichten.de
 .vitalitymax.1.p2l.info
 .vitcory.com
 .vitemadose.fr
+.vitiumcranker.com
 .vitrine.sup.com
 .vitrinler3.com
 .viuspbkmn.bar
@@ -64495,6 +64706,7 @@ swmhdata.stuttgarter-nachrichten.de
 .vtdoska.ru
 .vtfwgfo.cn
 .vth05dse.com
+.vtiipxfdtnkaau.com
 .vtizr.com
 .vtjfplukwxolkgw.xyz
 .vtochku.net
@@ -66174,6 +66386,7 @@ swmhdata.stuttgarter-nachrichten.de
 .wsdd11.com
 .wsdof.xyz
 .wsds.cn
+.wseojloda.com
 .wsfreshdn.gq
 .wsgwc.com
 .wshosting.ru
@@ -67374,6 +67587,7 @@ swmhdata.stuttgarter-nachrichten.de
 .xne3wmanew.com
 .xnfmbejucgoldi.com
 .xnfmseiyqoqjhia.com
+.xni.ink
 .xniexnz.cn
 .xnlehgdpvsslk.xyz
 .xnrcnz.xyz
@@ -68103,6 +68317,7 @@ swmhdata.stuttgarter-nachrichten.de
 .ynmpzs.cn
 .ynoymse4.xhamster.com
 .ynpvnroa.com
+.ynuvqtlcmao.com
 .ynwia.com
 .ynwsyl.com
 .ynxhsy.com
@@ -68578,6 +68793,7 @@ swmhdata.stuttgarter-nachrichten.de
 .zalo-ads-td.zadn.vn
 .zalo-ads.zadn.vn
 .zaloads-480.zdn.vn
+.zaltaumi.net
 .zamansolpuga.com
 .zamiasbrouze.com
 .zamiko.ru
@@ -68897,6 +69113,7 @@ swmhdata.stuttgarter-nachrichten.de
 .zieltracker.de
 .ziffdavis.com
 .zigansherpa.com
+.zighoacm.com
 .zigreroa.net
 .zigzag-ruin.pro
 .zigzag.vn
@@ -83025,7 +83242,6 @@ swmhdata.stuttgarter-nachrichten.de
 .aaddss.tohomh.com
 .aafmgsbnjkpur.com
 .aahekppl.com
-.aahimxmfr.com
 .aahqiyum.com
 .aajmwtfcv.com
 .aamjqfcqh.com
@@ -83051,7 +83267,6 @@ swmhdata.stuttgarter-nachrichten.de
 .aarpgfi.newyorklife.com
 .aarpgli.newyorklife.com
 .aassp.wgzty.cn
-.aatmrsfkve.com
 .aatnjkkdmiqghk.xyz
 .aau6.xyz
 .aau8.xyz
@@ -84067,7 +84282,6 @@ swmhdata.stuttgarter-nachrichten.de
 .ageistlutists.com
 .ageore.com
 .agexpo.americanexpress.com
-.agfompphv.com
 .agftfvrdwucyyc.com
 .aggingleag.one
 .aggressiveracketscout.com
@@ -84196,7 +84410,6 @@ swmhdata.stuttgarter-nachrichten.de
 .akjuqvcss.com
 .akkieh.yumeyakata.com
 .aklienyxjhdn.com
-.aklsyovkpoyv.com
 .akmh025.vip
 .akpfmtytc.com
 .akptnuhth.com
@@ -84365,7 +84578,6 @@ swmhdata.stuttgarter-nachrichten.de
 .amsfi.com
 .amsthr.com
 .amsvts.com
-.amtcwixpdsjurjm.com
 .amuivz.profitent24.nl
 .amulagaudish.cam
 .amyrfvjqhy.com
@@ -84515,7 +84727,6 @@ swmhdata.stuttgarter-nachrichten.de
 .apacenews.roche.com
 .apaqrwiegxnjpyq.com
 .apbxnqbhd.com
-.apccrwpr.com
 .apcinfo.vertexstandard.com
 .ape.mfj.se
 .ape.nusii.com
@@ -85269,7 +85480,6 @@ swmhdata.stuttgarter-nachrichten.de
 .aswcat.allezloto.pl
 .aswfs.xyz
 .asxvawth.com
-.asymyvhmwyyop.com
 .at-cdn.swisscom.ch
 .at-go.experian.com
 .at.bhw.de
@@ -85444,7 +85654,6 @@ swmhdata.stuttgarter-nachrichten.de
 .awaf.answers.nielsen.com
 .awaith.com
 .awasrqp.xyz
-.awbhabaxgxwayts.com
 .awbkht.verktygsproffsen.se
 .awbmejuy.com
 .awcehfrwvodhk.com
@@ -85512,7 +85721,6 @@ swmhdata.stuttgarter-nachrichten.de
 .ayqyclnsum.com
 .ayrlgmivortj.com
 .ayuofbrugwgsl.top
-.ayvpagsvdvh.com
 .aywfsjpglvhzdk.com
 .aywgucxmh.com
 .az413505.vo.msecnd.net
@@ -86378,7 +86586,6 @@ swmhdata.stuttgarter-nachrichten.de
 .bttm.guru
 .bttn.io
 .btvsvu.empasa.de
-.btwuegndru.com
 .btxliveprice.kceyazilim.com
 .bu.adpinfo.com
 .bu.sectistfrow.com
@@ -86386,7 +86593,6 @@ swmhdata.stuttgarter-nachrichten.de
 .buatorchel.com
 .bubglm.daniel-moquet.com
 .buckranaght.com
-.bucminum.com
 .budchbgvg.com
 .buddiestophe.com
 .budech.com
@@ -86955,7 +87161,6 @@ swmhdata.stuttgarter-nachrichten.de
 .cecive.com
 .ceepq.com
 .ceg.g5e.com
-.cehuihfos.com
 .ceilidhgrazier.com
 .ceknunhwa.com
 .celeb-trends-gossip.com
@@ -87008,11 +87213,9 @@ swmhdata.stuttgarter-nachrichten.de
 .cfbwxgsa.com
 .cfcd.duckdns.org
 .cfceu.duckdns.org
-.cfclhaqhjdtw.com
 .cfcs1.duckdns.org
 .cfdac.8g0ymk.cn
 .cfegwufto.xyz
-.cfekxodsdfjsmy.com
 .cflsxgdu.xyz
 .cfsaze.retailmenot.com
 .cfuwvqga.xyz
@@ -87093,7 +87296,6 @@ swmhdata.stuttgarter-nachrichten.de
 .chesterstandard-gb.chesterstandard.co.uk
 .chestors.com
 .cheumy.com
-.cheuvcjpylbgp.com
 .cheynewalk.com
 .chgilks.com
 .chgzguhkue.com
@@ -87126,6 +87328,7 @@ swmhdata.stuttgarter-nachrichten.de
 .chipsleapt.com
 .chitaglipti.pro
 .chjhsfctkeve.xyz
+.chnuuee.xyz
 .chobsang.net
 .choedfqmn.com
 .choices.trustarc.com
@@ -92323,7 +92526,6 @@ swmhdata.stuttgarter-nachrichten.de
 .fhrpqp.futfanatics.com.br
 .fhserve.com
 .fhytsxjre.com
-.fi.creeguilds.com
 .fiber.zayo.com
 .ficellechallas.com
 .fidcwpfarvtlvc.com
@@ -96426,7 +96628,6 @@ swmhdata.stuttgarter-nachrichten.de
 .lningcity.com.cn
 .lnkgt.com
 .lnltbehxh.xyz
-.lnnjnv.xyz
 .lnnwqgjjnbsmo.com
 .lnque.xyz
 .lnwejgghmtrqdka.xyz
@@ -99439,6 +99640,7 @@ swmhdata.stuttgarter-nachrichten.de
 .notification.best
 .notification.lionmobi.com
 .notification.tubecup.net
+.notifications-update.com
 .notifiche.secoloditalia.it
 .notifstar.com
 .notiftravel.com
@@ -100720,7 +100922,6 @@ swmhdata.stuttgarter-nachrichten.de
 .pefetnmbfnc.com
 .peggedolga.com
 .pehkmy.edreams.pt
-.peishuning1.cn
 .peitet.com
 .pejqoq4cafo3bg9yqqqtk5e6s6.com
 .peltaush.click
@@ -101368,7 +101569,6 @@ swmhdata.stuttgarter-nachrichten.de
 .pteelsaw.net
 .ptesigliglu.com
 .ptezyluny.com
-.ptljkekttqf.com
 .ptlpel.tui.at
 .ptlrchrsgpbak.com
 .ptrenx.vidaxl.com.au
@@ -102523,7 +102723,6 @@ swmhdata.stuttgarter-nachrichten.de
 .rtbapi.douyucdn.cn
 .rtbsrv.com
 .rtdppplouxfucpk.com
-.rtdxqq.com
 .rtftdivompumee.com
 .rtivivxxbapln.com
 .rtmugo.deindeal.ch
@@ -103327,7 +103526,6 @@ swmhdata.stuttgarter-nachrichten.de
 .seyfwl.deccoria.pl
 .seyfwl.maxmodels.pl
 .seyfwl.opracowania.pl
-.sf.dirhamsleered.com
 .sf.zestfulpize.com
 .sf6-ttcdn-tos.pstatp.com
 .sfceco.cn
@@ -103510,7 +103708,6 @@ swmhdata.stuttgarter-nachrichten.de
 .siolmkejst.com
 .sippingsunned.com
 .sisihl.cn
-.sisjwol.xyz
 .sissonetanquam.website
 .sit-metrics.nab.com.au
 .site.att.com
@@ -106207,7 +106404,6 @@ swmhdata.stuttgarter-nachrichten.de
 .stork.ibite.company
 .stork.notlessbutbetter.com
 .storylnk.com
-.stougnee.com
 .str.hgtv.ca
 .str2-bbyca-track.bestbuy.com
 .str2-fsca-track.bestbuy.com
@@ -106527,7 +106723,6 @@ swmhdata.stuttgarter-nachrichten.de
 .szlong.weixin.qq.com
 .szoskr.kamiceria.it
 .szpl0.com
-.szsbiw.xyz
 .szvxwqp.cn
 .szwyyl.com
 .szxhybj.com
@@ -108719,6 +108914,7 @@ swmhdata.stuttgarter-nachrichten.de
 .txgg2022bisheng.com
 .txmboigodejgj.xyz
 .txpbnm.sevellia.com
+.txphjl.xyz
 .txpodqjhabos.com
 .txrzhshxdtn.com
 .txtxz.org.cn
@@ -110467,6 +110663,7 @@ swmhdata.stuttgarter-nachrichten.de
 .xbxhulfp.xyz
 .xc.stupesinosine.com
 .xcedwa.contactsdirect.com
+.xckyqq.com
 .xcli.xyz
 .xcnqoertn.xyz
 .xcnqpwbeqanijjb.com
@@ -110518,6 +110715,7 @@ swmhdata.stuttgarter-nachrichten.de
 .xhz1.me
 .xiachouchou.com
 .xianggouwu.vip
+.xiaochen1.cn
 .xiaoli.video
 .xiaotong.pink
 .xiaozhangzhushou.ltd
@@ -111309,7 +111507,6 @@ swmhdata.stuttgarter-nachrichten.de
 .ywuzli.stenstroms.com
 .ywxigvzbkqg.com
 .ywxkuh.street-moto-piece.fr
-.yx.minimalmodulet.com
 .yxbh3a53nv.adaptive.marketing
 .yxcubjqi.com
 .yxhkonfmbe.com
