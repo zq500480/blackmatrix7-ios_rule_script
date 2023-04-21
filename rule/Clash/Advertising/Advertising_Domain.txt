@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-21 02:07:34
+# UPDATED: 2023-04-22 02:07:30
 # DOMAIN: 15680
 # DOMAIN-KEYWORD: 76
-# DOMAIN-SUFFIX: 85591
+# DOMAIN-SUFFIX: 85602
 # IP-CIDR: 242
-# TOTAL: 101589
+# TOTAL: 101600
 03.lzzncm.com
 04.lzzncm.com
 10.10.34.35
@@ -20166,6 +20166,7 @@ opencloud.wostore.cn
 .ads.domeus.com
 .ads.drf.com
 .ads.dtpnetwork.biz
+.ads.dugwood.com
 .ads.dygdigital.com
 .ads.eagletribune.com
 .ads.easy-forex.com
@@ -20284,6 +20285,7 @@ opencloud.wostore.cn
 .ads.ign.com
 .ads.illuminatednation.com
 .ads.imagistica.com
+.ads.imbc.com
 .ads.imgur.com
 .ads.imovideo.ru
 .ads.indeed.com
@@ -20997,6 +20999,7 @@ opencloud.wostore.cn
 .adsmobila.com
 .adsmodern.com
 .adsmoloco.com
+.adsmrapi.imbc.com
 .adsmwt.com
 .adsnative.com
 .adsnetworkbr.ml
@@ -31445,6 +31448,7 @@ opencloud.wostore.cn
 .cts.tradepub.com
 .ctsau.xyz
 .ctsccrxfaqiq.xyz
+.ctsdwm.com
 .ctsjackupspete.com
 .cttngldfpjuct.com
 .cttracking02.com
@@ -36138,6 +36142,7 @@ opencloud.wostore.cn
 .eswaldderinao.xyz
 .et-cod.com
 .et-code.ru
+.et-gv.fr
 .et363.com
 .etahub.com
 .etapescaisse.com
@@ -48790,6 +48795,7 @@ opencloud.wostore.cn
 .meased.com
 .meases.com
 .measts.com
+.measure.chase.com
 .measure.ly
 .measure.mf.cz
 .measure.office.com
@@ -48958,6 +48964,7 @@ opencloud.wostore.cn
 .medicinetizer.ru
 .mediego.com
 .medigaly.com
+.medipartner.jp
 .mediterraneanroom.org
 .mediuln.com
 .mediumpimpin.com
@@ -53507,6 +53514,7 @@ opencloud.wostore.cn
 .osalwqv.cn
 .osaud.com
 .osaunsot.net
+.oscaranimation.in
 .oscarredwith.xyz
 .osciet.com
 .oscism.com
@@ -61156,6 +61164,7 @@ opencloud.wostore.cn
 .sgsdqs.xyz
 .sgsincentlyse.xyz
 .sgswuesocfr.com
+.sgtm.handyhuellen.de
 .sgtm.inet.se
 .sgtm.sefamerve.com
 .sgtm.simoahava.com
@@ -68554,6 +68563,7 @@ opencloud.wostore.cn
 .usereachpeople.com
 .userfriendly.ir
 .userlook.com
+.usermaven.com
 .userneeds.dk
 .userreplay.com
 .userreplay.net
@@ -70904,6 +70914,7 @@ opencloud.wostore.cn
 .wholesomemillennium.com
 .wholewowblog.com
 .whoocmee.net
+.whoodseb.com
 .whoognoz.com
 .whookroo.com
 .whoopersavour.com

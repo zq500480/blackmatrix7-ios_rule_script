@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-21 02:07:32
+# UPDATED: 2023-04-22 02:07:28
 # HOST: 15680
 # HOST-KEYWORD: 76
-# HOST-SUFFIX: 85591
+# HOST-SUFFIX: 85602
 # HOST-WILDCARD: 1
 # IP-CIDR: 242
-# TOTAL: 101590
+# TOTAL: 101601
 HOST,03.lzzncm.com,Advertising
 HOST,04.lzzncm.com,Advertising
 HOST,10.10.34.35,Advertising
@@ -20167,6 +20167,7 @@ HOST-SUFFIX,ads.doit.com.cn,Advertising
 HOST-SUFFIX,ads.domeus.com,Advertising
 HOST-SUFFIX,ads.drf.com,Advertising
 HOST-SUFFIX,ads.dtpnetwork.biz,Advertising
+HOST-SUFFIX,ads.dugwood.com,Advertising
 HOST-SUFFIX,ads.dygdigital.com,Advertising
 HOST-SUFFIX,ads.eagletribune.com,Advertising
 HOST-SUFFIX,ads.easy-forex.com,Advertising
@@ -20285,6 +20286,7 @@ HOST-SUFFIX,ads.igfhaber.com,Advertising
 HOST-SUFFIX,ads.ign.com,Advertising
 HOST-SUFFIX,ads.illuminatednation.com,Advertising
 HOST-SUFFIX,ads.imagistica.com,Advertising
+HOST-SUFFIX,ads.imbc.com,Advertising
 HOST-SUFFIX,ads.imgur.com,Advertising
 HOST-SUFFIX,ads.imovideo.ru,Advertising
 HOST-SUFFIX,ads.indeed.com,Advertising
@@ -20998,6 +21000,7 @@ HOST-SUFFIX,adsmo.ru,Advertising
 HOST-SUFFIX,adsmobila.com,Advertising
 HOST-SUFFIX,adsmodern.com,Advertising
 HOST-SUFFIX,adsmoloco.com,Advertising
+HOST-SUFFIX,adsmrapi.imbc.com,Advertising
 HOST-SUFFIX,adsmwt.com,Advertising
 HOST-SUFFIX,adsnative.com,Advertising
 HOST-SUFFIX,adsnetworkbr.ml,Advertising
@@ -31446,6 +31449,7 @@ HOST-SUFFIX,cts.businesswire.com,Advertising
 HOST-SUFFIX,cts.tradepub.com,Advertising
 HOST-SUFFIX,ctsau.xyz,Advertising
 HOST-SUFFIX,ctsccrxfaqiq.xyz,Advertising
+HOST-SUFFIX,ctsdwm.com,Advertising
 HOST-SUFFIX,ctsjackupspete.com,Advertising
 HOST-SUFFIX,cttngldfpjuct.com,Advertising
 HOST-SUFFIX,cttracking02.com,Advertising
@@ -36139,6 +36143,7 @@ HOST-SUFFIX,esty.com,Advertising
 HOST-SUFFIX,eswaldderinao.xyz,Advertising
 HOST-SUFFIX,et-cod.com,Advertising
 HOST-SUFFIX,et-code.ru,Advertising
+HOST-SUFFIX,et-gv.fr,Advertising
 HOST-SUFFIX,et363.com,Advertising
 HOST-SUFFIX,etahub.com,Advertising
 HOST-SUFFIX,etapescaisse.com,Advertising
@@ -48791,6 +48796,7 @@ HOST-SUFFIX,meapk.com,Advertising
 HOST-SUFFIX,meased.com,Advertising
 HOST-SUFFIX,meases.com,Advertising
 HOST-SUFFIX,measts.com,Advertising
+HOST-SUFFIX,measure.chase.com,Advertising
 HOST-SUFFIX,measure.ly,Advertising
 HOST-SUFFIX,measure.mf.cz,Advertising
 HOST-SUFFIX,measure.office.com,Advertising
@@ -48959,6 +48965,7 @@ HOST-SUFFIX,medicflippers.com,Advertising
 HOST-SUFFIX,medicinetizer.ru,Advertising
 HOST-SUFFIX,mediego.com,Advertising
 HOST-SUFFIX,medigaly.com,Advertising
+HOST-SUFFIX,medipartner.jp,Advertising
 HOST-SUFFIX,mediterraneanroom.org,Advertising
 HOST-SUFFIX,mediuln.com,Advertising
 HOST-SUFFIX,mediumpimpin.com,Advertising
@@ -53508,6 +53515,7 @@ HOST-SUFFIX,osaceikmxsm.com,Advertising
 HOST-SUFFIX,osalwqv.cn,Advertising
 HOST-SUFFIX,osaud.com,Advertising
 HOST-SUFFIX,osaunsot.net,Advertising
+HOST-SUFFIX,oscaranimation.in,Advertising
 HOST-SUFFIX,oscarredwith.xyz,Advertising
 HOST-SUFFIX,osciet.com,Advertising
 HOST-SUFFIX,oscism.com,Advertising
@@ -61157,6 +61165,7 @@ HOST-SUFFIX,sgs001.adtech.us,Advertising
 HOST-SUFFIX,sgsdqs.xyz,Advertising
 HOST-SUFFIX,sgsincentlyse.xyz,Advertising
 HOST-SUFFIX,sgswuesocfr.com,Advertising
+HOST-SUFFIX,sgtm.handyhuellen.de,Advertising
 HOST-SUFFIX,sgtm.inet.se,Advertising
 HOST-SUFFIX,sgtm.sefamerve.com,Advertising
 HOST-SUFFIX,sgtm.simoahava.com,Advertising
@@ -68555,6 +68564,7 @@ HOST-SUFFIX,userdive.com,Advertising
 HOST-SUFFIX,usereachpeople.com,Advertising
 HOST-SUFFIX,userfriendly.ir,Advertising
 HOST-SUFFIX,userlook.com,Advertising
+HOST-SUFFIX,usermaven.com,Advertising
 HOST-SUFFIX,userneeds.dk,Advertising
 HOST-SUFFIX,userreplay.com,Advertising
 HOST-SUFFIX,userreplay.net,Advertising
@@ -70905,6 +70915,7 @@ HOST-SUFFIX,wholesomeindians.com,Advertising
 HOST-SUFFIX,wholesomemillennium.com,Advertising
 HOST-SUFFIX,wholewowblog.com,Advertising
 HOST-SUFFIX,whoocmee.net,Advertising
+HOST-SUFFIX,whoodseb.com,Advertising
 HOST-SUFFIX,whoognoz.com,Advertising
 HOST-SUFFIX,whookroo.com,Advertising
 HOST-SUFFIX,whoopersavour.com,Advertising

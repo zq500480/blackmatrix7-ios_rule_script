@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-21 02:07:34
+# UPDATED: 2023-04-22 02:07:30
 # DOMAIN: 15680
 # DOMAIN-KEYWORD: 76
-# DOMAIN-SUFFIX: 85591
+# DOMAIN-SUFFIX: 85602
 # IP-CIDR: 242
-# TOTAL: 101589
+# TOTAL: 101600
 DOMAIN,03.lzzncm.com
 DOMAIN,04.lzzncm.com
 DOMAIN,10.10.34.35
@@ -20166,6 +20166,7 @@ DOMAIN-SUFFIX,ads.doit.com.cn
 DOMAIN-SUFFIX,ads.domeus.com
 DOMAIN-SUFFIX,ads.drf.com
 DOMAIN-SUFFIX,ads.dtpnetwork.biz
+DOMAIN-SUFFIX,ads.dugwood.com
 DOMAIN-SUFFIX,ads.dygdigital.com
 DOMAIN-SUFFIX,ads.eagletribune.com
 DOMAIN-SUFFIX,ads.easy-forex.com
@@ -20284,6 +20285,7 @@ DOMAIN-SUFFIX,ads.igfhaber.com
 DOMAIN-SUFFIX,ads.ign.com
 DOMAIN-SUFFIX,ads.illuminatednation.com
 DOMAIN-SUFFIX,ads.imagistica.com
+DOMAIN-SUFFIX,ads.imbc.com
 DOMAIN-SUFFIX,ads.imgur.com
 DOMAIN-SUFFIX,ads.imovideo.ru
 DOMAIN-SUFFIX,ads.indeed.com
@@ -20997,6 +20999,7 @@ DOMAIN-SUFFIX,adsmo.ru
 DOMAIN-SUFFIX,adsmobila.com
 DOMAIN-SUFFIX,adsmodern.com
 DOMAIN-SUFFIX,adsmoloco.com
+DOMAIN-SUFFIX,adsmrapi.imbc.com
 DOMAIN-SUFFIX,adsmwt.com
 DOMAIN-SUFFIX,adsnative.com
 DOMAIN-SUFFIX,adsnetworkbr.ml
@@ -31445,6 +31448,7 @@ DOMAIN-SUFFIX,cts.businesswire.com
 DOMAIN-SUFFIX,cts.tradepub.com
 DOMAIN-SUFFIX,ctsau.xyz
 DOMAIN-SUFFIX,ctsccrxfaqiq.xyz
+DOMAIN-SUFFIX,ctsdwm.com
 DOMAIN-SUFFIX,ctsjackupspete.com
 DOMAIN-SUFFIX,cttngldfpjuct.com
 DOMAIN-SUFFIX,cttracking02.com
@@ -36138,6 +36142,7 @@ DOMAIN-SUFFIX,esty.com
 DOMAIN-SUFFIX,eswaldderinao.xyz
 DOMAIN-SUFFIX,et-cod.com
 DOMAIN-SUFFIX,et-code.ru
+DOMAIN-SUFFIX,et-gv.fr
 DOMAIN-SUFFIX,et363.com
 DOMAIN-SUFFIX,etahub.com
 DOMAIN-SUFFIX,etapescaisse.com
@@ -48790,6 +48795,7 @@ DOMAIN-SUFFIX,meapk.com
 DOMAIN-SUFFIX,meased.com
 DOMAIN-SUFFIX,meases.com
 DOMAIN-SUFFIX,measts.com
+DOMAIN-SUFFIX,measure.chase.com
 DOMAIN-SUFFIX,measure.ly
 DOMAIN-SUFFIX,measure.mf.cz
 DOMAIN-SUFFIX,measure.office.com
@@ -48958,6 +48964,7 @@ DOMAIN-SUFFIX,medicflippers.com
 DOMAIN-SUFFIX,medicinetizer.ru
 DOMAIN-SUFFIX,mediego.com
 DOMAIN-SUFFIX,medigaly.com
+DOMAIN-SUFFIX,medipartner.jp
 DOMAIN-SUFFIX,mediterraneanroom.org
 DOMAIN-SUFFIX,mediuln.com
 DOMAIN-SUFFIX,mediumpimpin.com
@@ -53507,6 +53514,7 @@ DOMAIN-SUFFIX,osaceikmxsm.com
 DOMAIN-SUFFIX,osalwqv.cn
 DOMAIN-SUFFIX,osaud.com
 DOMAIN-SUFFIX,osaunsot.net
+DOMAIN-SUFFIX,oscaranimation.in
 DOMAIN-SUFFIX,oscarredwith.xyz
 DOMAIN-SUFFIX,osciet.com
 DOMAIN-SUFFIX,oscism.com
@@ -61156,6 +61164,7 @@ DOMAIN-SUFFIX,sgs001.adtech.us
 DOMAIN-SUFFIX,sgsdqs.xyz
 DOMAIN-SUFFIX,sgsincentlyse.xyz
 DOMAIN-SUFFIX,sgswuesocfr.com
+DOMAIN-SUFFIX,sgtm.handyhuellen.de
 DOMAIN-SUFFIX,sgtm.inet.se
 DOMAIN-SUFFIX,sgtm.sefamerve.com
 DOMAIN-SUFFIX,sgtm.simoahava.com
@@ -68554,6 +68563,7 @@ DOMAIN-SUFFIX,userdive.com
 DOMAIN-SUFFIX,usereachpeople.com
 DOMAIN-SUFFIX,userfriendly.ir
 DOMAIN-SUFFIX,userlook.com
+DOMAIN-SUFFIX,usermaven.com
 DOMAIN-SUFFIX,userneeds.dk
 DOMAIN-SUFFIX,userreplay.com
 DOMAIN-SUFFIX,userreplay.net
@@ -70904,6 +70914,7 @@ DOMAIN-SUFFIX,wholesomeindians.com
 DOMAIN-SUFFIX,wholesomemillennium.com
 DOMAIN-SUFFIX,wholewowblog.com
 DOMAIN-SUFFIX,whoocmee.net
+DOMAIN-SUFFIX,whoodseb.com
 DOMAIN-SUFFIX,whoognoz.com
 DOMAIN-SUFFIX,whookroo.com
 DOMAIN-SUFFIX,whoopersavour.com

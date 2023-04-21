@@ -1,13 +1,13 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-21 02:12:45
-# DOMAIN: 145
+# UPDATED: 2023-04-22 02:12:13
+# DOMAIN: 144
 # DOMAIN-KEYWORD: 3
 # DOMAIN-SUFFIX: 114
 # IP-CIDR: 5
 # IP-CIDR6: 2
-# TOTAL: 269
+# TOTAL: 268
 payload:
   - DOMAIN,1337.abcvg.info
   - DOMAIN,6ahddutb1ucc3cp.ru
@@ -52,7 +52,6 @@ payload:
   - DOMAIN,open.demonii.com
   - DOMAIN,open.dstud.io
   - DOMAIN,open.stealth.si
-  - DOMAIN,open.tracker.cl
   - DOMAIN,open.tracker.ink
   - DOMAIN,opentor.org
   - DOMAIN,opentracker.i2p.rocks
@@ -71,10 +70,10 @@ payload:
   - DOMAIN,ryjer.com
   - DOMAIN,sanincode.com
   - DOMAIN,share.camoe.cn
-  - DOMAIN,stargrave.org
   - DOMAIN,static.54.161.216.95.clients.your-server.de
   - DOMAIN,t.133335.xyz
   - DOMAIN,t.acg.rip
+  - DOMAIN,t.nyaatracker.com
   - DOMAIN,t.zerg.pw
   - DOMAIN,t1.hloli.org
   - DOMAIN,tamas3.ynh.fr
@@ -103,6 +102,7 @@ payload:
   - DOMAIN,tracker.cyberia.is
   - DOMAIN,tracker.dler.com
   - DOMAIN,tracker.dler.org
+  - DOMAIN,tracker.edkj.club
   - DOMAIN,tracker.filemail.com
   - DOMAIN,tracker.files.fm
   - DOMAIN,tracker.foreverpirates.co
@@ -133,7 +133,6 @@ payload:
   - DOMAIN,tracker.theoks.net
   - DOMAIN,tracker.tiny-vps.com
   - DOMAIN,tracker.torrent.eu.org
-  - DOMAIN,tracker.zerobytes.xyz
   - DOMAIN,tracker1.520.jp
   - DOMAIN,tracker1.bt.moack.co.kr
   - DOMAIN,tracker1.itzmx.com

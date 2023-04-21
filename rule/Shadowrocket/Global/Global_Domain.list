@@ -1,13 +1,13 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-18 02:10:48
+# UPDATED: 2023-04-22 02:10:42
 # DOMAIN: 156
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37383
+# DOMAIN-SUFFIX: 37385
 # IP-CIDR: 110
 # USER-AGENT: 46
-# TOTAL: 37734
+# TOTAL: 37736
 adobeereg.com
 angle.com.tw
 anime-rule34-world.b-cdn.net
@@ -5764,6 +5764,7 @@ www-cdn.icloud.com.akadns.net
 .beevpn.com
 .beforeitsnews.com
 .befuck.com
+.befuck.net
 .begin-trade.com
 .behance.com
 .behance.net
@@ -36530,6 +36531,7 @@ www-cdn.icloud.com.akadns.net
 .xxxccc4.com
 .xxxclub.club
 .xxxcomics.org
+.xxxdan.com
 .xxxdessert.com
 .xxxdinotube.com
 .xxxengine.net

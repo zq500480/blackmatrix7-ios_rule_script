@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-21 02:07:34
+# UPDATED: 2023-04-22 02:07:30
 # DOMAIN: 15680
 # DOMAIN-KEYWORD: 76
-# DOMAIN-SUFFIX: 85591
+# DOMAIN-SUFFIX: 85602
 # IP-CIDR: 242
-# TOTAL: 101589
+# TOTAL: 101600
 payload:
   - '03.lzzncm.com'
   - '04.lzzncm.com'
@@ -20167,6 +20167,7 @@ payload:
   - '+.ads.domeus.com'
   - '+.ads.drf.com'
   - '+.ads.dtpnetwork.biz'
+  - '+.ads.dugwood.com'
   - '+.ads.dygdigital.com'
   - '+.ads.eagletribune.com'
   - '+.ads.easy-forex.com'
@@ -20285,6 +20286,7 @@ payload:
   - '+.ads.ign.com'
   - '+.ads.illuminatednation.com'
   - '+.ads.imagistica.com'
+  - '+.ads.imbc.com'
   - '+.ads.imgur.com'
   - '+.ads.imovideo.ru'
   - '+.ads.indeed.com'
@@ -20998,6 +21000,7 @@ payload:
   - '+.adsmobila.com'
   - '+.adsmodern.com'
   - '+.adsmoloco.com'
+  - '+.adsmrapi.imbc.com'
   - '+.adsmwt.com'
   - '+.adsnative.com'
   - '+.adsnetworkbr.ml'
@@ -31446,6 +31449,7 @@ payload:
   - '+.cts.tradepub.com'
   - '+.ctsau.xyz'
   - '+.ctsccrxfaqiq.xyz'
+  - '+.ctsdwm.com'
   - '+.ctsjackupspete.com'
   - '+.cttngldfpjuct.com'
   - '+.cttracking02.com'
@@ -36139,6 +36143,7 @@ payload:
   - '+.eswaldderinao.xyz'
   - '+.et-cod.com'
   - '+.et-code.ru'
+  - '+.et-gv.fr'
   - '+.et363.com'
   - '+.etahub.com'
   - '+.etapescaisse.com'
@@ -48791,6 +48796,7 @@ payload:
   - '+.meased.com'
   - '+.meases.com'
   - '+.measts.com'
+  - '+.measure.chase.com'
   - '+.measure.ly'
   - '+.measure.mf.cz'
   - '+.measure.office.com'
@@ -48959,6 +48965,7 @@ payload:
   - '+.medicinetizer.ru'
   - '+.mediego.com'
   - '+.medigaly.com'
+  - '+.medipartner.jp'
   - '+.mediterraneanroom.org'
   - '+.mediuln.com'
   - '+.mediumpimpin.com'
@@ -53508,6 +53515,7 @@ payload:
   - '+.osalwqv.cn'
   - '+.osaud.com'
   - '+.osaunsot.net'
+  - '+.oscaranimation.in'
   - '+.oscarredwith.xyz'
   - '+.osciet.com'
   - '+.oscism.com'
@@ -61157,6 +61165,7 @@ payload:
   - '+.sgsdqs.xyz'
   - '+.sgsincentlyse.xyz'
   - '+.sgswuesocfr.com'
+  - '+.sgtm.handyhuellen.de'
   - '+.sgtm.inet.se'
   - '+.sgtm.sefamerve.com'
   - '+.sgtm.simoahava.com'
@@ -68555,6 +68564,7 @@ payload:
   - '+.usereachpeople.com'
   - '+.userfriendly.ir'
   - '+.userlook.com'
+  - '+.usermaven.com'
   - '+.userneeds.dk'
   - '+.userreplay.com'
   - '+.userreplay.net'
@@ -70905,6 +70915,7 @@ payload:
   - '+.wholesomemillennium.com'
   - '+.wholewowblog.com'
   - '+.whoocmee.net'
+  - '+.whoodseb.com'
   - '+.whoognoz.com'
   - '+.whookroo.com'
   - '+.whoopersavour.com'

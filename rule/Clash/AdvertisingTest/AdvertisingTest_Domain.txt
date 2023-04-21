@@ -1,54 +1,116 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-21 02:08:27
-# DOMAIN: 11501
+# UPDATED: 2023-04-22 02:08:20
+# DOMAIN: 11538
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 113313
+# DOMAIN-SUFFIX: 113329
 # IP-CIDR: 245
-# TOTAL: 125323
+# TOTAL: 125376
+3p-geo.yahoo.com
+3p-udc.yahoo.com
 46186911.vtt
 80055404.vtt
+88885aaa.com
+aaaaa556.com
+aaaaa882.com
 aab-proxy.tld
 absurdapple.com
+adfox.yandex.ru
 adfstat.yandex.ru
 ads.youtube.com
+adsdk.yandex.ru
+an.yandex.ru
+anifk71.cc
 anxiousapples.com
 api.sec.miui.com
 app.ssp.yahoo.com
 appboy-images.com
+apple.www.letv.com
 applesometimes.com
+applets.ebxcdn.com
+aprlitj.cn
+attractionapples.com
+awaps.yandex.ru
 awsync.yandex.ru
+bats.video.yahoo.com
 beacon.search.yahoo.com
 beap-bc.yahoo.com
+bkae.top
+blaneo.com
 blueduckredapple.com
-ctsdwm.com
+bs.yandex.ru
+collector2c.zhihuishu.com
+cookiex.ngd.yahoo.com
 d1stxfv94hrhia.cloudfront
 dmg-dd.oss-accelerate.aliyuncs.com
-et-gv.fr
+dwoonqodmk.com
+eq.af31f.site
 februaryreductionapplet.com
+fotoscaseras.top
 fpb1.apple886.com
+ganon.yahoo.com
+geo.yahoo.com
+haulstugging.com
+heild.xyz
+hiphoapt.xyz
 iadsdk.apple.com
 ib.snssdk.com
+informer.yandex.ru
+iqybys.xyz
+jill.fc.yahoo.com
 jpaasne.e.shifen.com
 log.strm.yandex.ru
+losslace.com
+ltckrqiy.com
 marketingsolutions.yahoo.com
-measure.chase.com
+mc.yandex.ru
 mediaappletree.com
 mm.n3w1d0ma1n
 mo.vlpyj.xy
+ncraxcvibg.com
+ncyx.ltd
+nettlyphosis.com
+nol.yahoo.com
+notsy.io
+offerwall.yandex.net
+pedjqkl.xyz
+pnez8.rut6m.xyz
+podunksewless.com
 pr.comet.yahoo.com
+pubgw.yahoo.com
+pv.sohu.com
+qianjiao45wde15.xyz
+qwahk.com
+rankestmowers.com
+rbrv9.cn
 rrf.fat1domain1
-sgtm.handyhuellen.de
+sealeryshilpit.com
+semaobf1.com
 shackapple.com
+smartytech.io
 sortyellowapples.com
 stats.video.search.yahoo.com
 sub.powerapple.com
+sugar.zhihu.com
+supportmetrics.apple.com
+test.vast
 theapple.site
-usermaven.com
+track.vtcnews.vn
+u1010.com
+u1077.com
+u833ij.com
+uu5731uu.com
+visit.webhosting.yahoo.com
+wixnm.com
 wondefulapplend.com
+wowpornlist.xyz
 wzjs1.oss-accelerate.aliyuncs.com
+xiod.xyz
+youspacko.com
 youtube.local
+zhemu.xyz
+zrwpporp.com
 zupee.cim
 10.10.34.35
 10.10.34.36
@@ -11471,30 +11533,9 @@ wvvvvvvw.zhongchaoyinshua.com
 wx.yubangsmart.com
 xc.xiyqjea.cn
 xg.tjwmtrw.cn
-3p-geo.yahoo.com
-3p-udc.yahoo.com
 ad.kddi-fs.com
-adfox.yandex.ru
-adsdk.yandex.ru
-an.yandex.ru
-apple.www.letv.com
-applets.ebxcdn.com
-attractionapples.com
-awaps.yandex.ru
-bats.video.yahoo.com
-bs.yandex.ru
-collector2c.zhihuishu.com
-cookiex.ngd.yahoo.com
-ganon.yahoo.com
-geo.yahoo.com
-informer.yandex.ru
-jill.fc.yahoo.com
 log.kuwo.cn
-mc.yandex.ru
 metrics.apple.com
-nol.yahoo.com
-pubgw.yahoo.com
-pv.sohu.com
 ras.yahoo.com
 rba-screen.healthsafe-id.com
 retcode.taobao.com
@@ -11503,11 +11544,7 @@ securemetrics.experience.apple
 securemvt.apple.com
 securemvt.apple.com.cn
 ssp.rambler.ru
-sugar.zhihu.com
-supportmetrics.apple.com
 swmhdata.stuttgarter-nachrichten.de
-test.vast
-visit.webhosting.yahoo.com
 .0-000.store
 .0.code.cotsta.ru
 .0001.best
@@ -15963,6 +16000,7 @@ visit.webhosting.yahoo.com
 .ads.domeus.com
 .ads.drf.com
 .ads.dtpnetwork.biz
+.ads.dugwood.com
 .ads.dygdigital.com
 .ads.eagletribune.com
 .ads.easy-forex.com
@@ -16080,6 +16118,7 @@ visit.webhosting.yahoo.com
 .ads.ign.com
 .ads.illuminatednation.com
 .ads.imagistica.com
+.ads.imbc.com
 .ads.imgur.com
 .ads.imovideo.ru
 .ads.indeed.com
@@ -16787,6 +16826,7 @@ visit.webhosting.yahoo.com
 .adsmobila.com
 .adsmodern.com
 .adsmoloco.com
+.adsmrapi.imbc.com
 .adsmwt.com
 .adsnative.com
 .adsnetworkbr.ml
@@ -26873,6 +26913,7 @@ visit.webhosting.yahoo.com
 .cts.tradepub.com
 .ctsau.xyz
 .ctsccrxfaqiq.xyz
+.ctsdwm.com
 .ctsjackupspete.com
 .cttngldfpjuct.com
 .ctubhxbaew.com
@@ -31529,6 +31570,7 @@ visit.webhosting.yahoo.com
 .eswaldderinao.xyz
 .et-cod.com
 .et-code.ru
+.et-gv.fr
 .et363.com
 .etahub.com
 .etapescaisse.com
@@ -44089,6 +44131,7 @@ visit.webhosting.yahoo.com
 .meased.com
 .meases.com
 .measts.com
+.measure.chase.com
 .measure.ly
 .measure.mf.cz
 .measure.office.com
@@ -44254,6 +44297,7 @@ visit.webhosting.yahoo.com
 .medicinetizer.ru
 .mediego.com
 .medigaly.com
+.medipartner.jp
 .mediterraneanroom.org
 .mediuln.com
 .mediumpimpin.com
@@ -48768,6 +48812,7 @@ visit.webhosting.yahoo.com
 .osalwqv.cn
 .osaud.com
 .osaunsot.net
+.oscaranimation.in
 .oscarredwith.xyz
 .osciet.com
 .oscism.com
@@ -56363,6 +56408,7 @@ visit.webhosting.yahoo.com
 .sgsdqs.xyz
 .sgsincentlyse.xyz
 .sgswuesocfr.com
+.sgtm.handyhuellen.de
 .sgtm.inet.se
 .sgtm.sefamerve.com
 .sgtm.simoahava.com
@@ -63401,6 +63447,7 @@ visit.webhosting.yahoo.com
 .usereachpeople.com
 .userfriendly.ir
 .userlook.com
+.usermaven.com
 .userneeds.dk
 .userreplay.com
 .userreplay.net
@@ -65730,6 +65777,7 @@ visit.webhosting.yahoo.com
 .wholesomemillennium.com
 .wholewowblog.com
 .whoocmee.net
+.whoodseb.com
 .whoognoz.com
 .whookroo.com
 .whoopersavour.com
@@ -86129,6 +86177,7 @@ visit.webhosting.yahoo.com
 .beta.looksmartppc.com
 .betailbedpan.com
 .betfairpk.com
+.betgdr.xyz
 .betrad.com.edgekey.net
 .bettby.footlocker.com.sa
 .betting.betfair.com
@@ -93297,6 +93346,7 @@ visit.webhosting.yahoo.com
 .gilutt.com
 .gimpybedderump.com
 .ginpithed.live
+.gipahetus.com
 .giraffe.talktalent.com
 .giraffe.viatorci.com
 .girlend.com
@@ -98201,6 +98251,7 @@ visit.webhosting.yahoo.com
 .mediacdn.x1hub.com
 .mediafilesdownload.com
 .mediagra.com
+.medialog.smartmediarep.com
 .mediamansix.com
 .mediasama.com
 .mediaview.nielsen.com
@@ -102599,6 +102650,7 @@ visit.webhosting.yahoo.com
 .rsppartners.com
 .rsrwmpsiii.com
 .rss-loader.com
+.rss.tc
 .rssfetcher.blogsys.jp
 .rssrank.net
 .rswfhkmhcl.com
@@ -109153,6 +109205,7 @@ visit.webhosting.yahoo.com
 .ultryl.com
 .umbrellaomendear.com
 .umc.danuoyi.alicdn.com
+.umcpebi.cn
 .umdlbn.globetrotter.de
 .umgangrubbler.com
 .umhyck.belvilla.com
@@ -110176,7 +110229,6 @@ visit.webhosting.yahoo.com
 .whoeverfrecklessfrecklesssupper.com
 .wholehori.com
 .whompsranch.com
-.whoodseb.com
 .whouledu.com
 .whqkyq.leasingmarkt.de
 .whrsen.itemmania.com
@@ -110502,6 +110554,7 @@ visit.webhosting.yahoo.com
 .wwbsll.nissen.co.jp
 .wwddgg.work
 .wwe.leetieniu.com
+.wwgqqq.com
 .wwjijoywqiu.xyz
 .wwlipxritaoo.com
 .wwnrdqxo.com

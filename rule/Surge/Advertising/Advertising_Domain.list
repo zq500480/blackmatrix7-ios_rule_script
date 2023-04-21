@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-21 02:07:31
+# UPDATED: 2023-04-22 02:07:27
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
 # DOMAIN: 15680
 # DOMAIN-KEYWORD: 76
-# DOMAIN-SUFFIX: 85591
+# DOMAIN-SUFFIX: 85602
 # IP-CIDR: 242
 # URL-REGEX: 285
-# TOTAL: 101875
+# TOTAL: 101886
 00-gov.cn
 0026645142c89aeb1.com
 006a039c957c142bb.com
@@ -23093,6 +23093,7 @@ zzxosget.com
 .ads.domeus.com
 .ads.drf.com
 .ads.dtpnetwork.biz
+.ads.dugwood.com
 .ads.dygdigital.com
 .ads.eagletribune.com
 .ads.easy-forex.com
@@ -23217,6 +23218,7 @@ zzxosget.com
 .ads.ign.com
 .ads.illuminatednation.com
 .ads.imagistica.com
+.ads.imbc.com
 .ads.imgur.com
 .ads.imovideo.ru
 .ads.indeed.com
@@ -23998,6 +24000,7 @@ zzxosget.com
 .adsmobila.com
 .adsmodern.com
 .adsmoloco.com
+.adsmrapi.imbc.com
 .adsmwt.com
 .adsnative.com
 .adsnetworkbr.ml
@@ -38314,6 +38317,7 @@ zzxosget.com
 .cts.vresp.com
 .ctsau.xyz
 .ctsccrxfaqiq.xyz
+.ctsdwm.com
 .ctsjackupspete.com
 .ctsjackupspete.info
 .ctsywy.com
@@ -45112,6 +45116,7 @@ zzxosget.com
 .esyzdb.com
 .et-cod.com
 .et-code.ru
+.et-gv.fr
 .et.grabnetworks.com
 .et.nytimes.com
 .et.tidal.com
@@ -62965,6 +62970,7 @@ zzxosget.com
 .measlymiddle.com
 .measts.com
 .measure.ameblo.jp
+.measure.chase.com
 .measure.ly
 .measure.mf.cz
 .measure.office.com
@@ -63165,6 +63171,7 @@ zzxosget.com
 .mediego.com
 .medigaly.com
 .mediniku.viessmann.lt
+.medipartner.jp
 .mediterraneanroom.org
 .mediuln.com
 .mediumpimpin.com
@@ -69464,6 +69471,7 @@ zzxosget.com
 .osaud.com
 .osaunsot.net
 .osaws.com
+.oscaranimation.in
 .oscarredwith.xyz
 .osciet.com
 .oscism.com
@@ -79989,6 +79997,7 @@ zzxosget.com
 .sgsincentlyse.xyz
 .sgstats.com
 .sgswuesocfr.com
+.sgtm.handyhuellen.de
 .sgtm.inet.se
 .sgtm.sefamerve.com
 .sgtm.simoahava.com
@@ -92917,6 +92926,7 @@ zzxosget.com
 .userfriendly.ir
 .userimg.qunar.com
 .userlook.com
+.usermaven.com
 .userneeds.dk
 .userreplay.com
 .userreplay.net
@@ -96006,6 +96016,7 @@ zzxosget.com
 .wholesomemillennium.com
 .wholewowblog.com
 .whoocmee.net
+.whoodseb.com
 .whoognoz.com
 .whookroo.com
 .whoopersavour.com
