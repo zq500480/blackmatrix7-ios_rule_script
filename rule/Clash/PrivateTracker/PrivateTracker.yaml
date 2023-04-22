@@ -1,13 +1,13 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-22 02:12:13
-# DOMAIN: 144
+# UPDATED: 2023-04-23 02:12:09
+# DOMAIN: 146
 # DOMAIN-KEYWORD: 3
 # DOMAIN-SUFFIX: 114
 # IP-CIDR: 5
 # IP-CIDR6: 2
-# TOTAL: 268
+# TOTAL: 270
 payload:
   - DOMAIN,1337.abcvg.info
   - DOMAIN,6ahddutb1ucc3cp.ru
@@ -52,6 +52,7 @@ payload:
   - DOMAIN,open.demonii.com
   - DOMAIN,open.dstud.io
   - DOMAIN,open.stealth.si
+  - DOMAIN,open.tracker.cl
   - DOMAIN,open.tracker.ink
   - DOMAIN,opentor.org
   - DOMAIN,opentracker.i2p.rocks
@@ -62,6 +63,7 @@ payload:
   - DOMAIN,private.anonseed.com
   - DOMAIN,psyco.fr
   - DOMAIN,public.publictracker.xyz
+  - DOMAIN,public.tracker.vraphim.com
   - DOMAIN,rep-art.ynh.fr
   - DOMAIN,retracker.hotplug.ru
   - DOMAIN,retracker.lanta-net.ru
@@ -98,7 +100,6 @@ payload:
   - DOMAIN,tracker.birkenwald.de
   - DOMAIN,tracker.bitsearch.to
   - DOMAIN,tracker.bt4g.com
-  - DOMAIN,tracker.cubonegro.lol
   - DOMAIN,tracker.cyberia.is
   - DOMAIN,tracker.dler.com
   - DOMAIN,tracker.dler.org
@@ -133,6 +134,7 @@ payload:
   - DOMAIN,tracker.theoks.net
   - DOMAIN,tracker.tiny-vps.com
   - DOMAIN,tracker.torrent.eu.org
+  - DOMAIN,tracker.zerobytes.xyz
   - DOMAIN,tracker1.520.jp
   - DOMAIN,tracker1.bt.moack.co.kr
   - DOMAIN,tracker1.itzmx.com

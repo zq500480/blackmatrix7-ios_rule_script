@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-22 02:11:06
+# UPDATED: 2023-04-23 02:11:01
 # HOST: 531
 # HOST-KEYWORD: 39
-# HOST-SUFFIX: 37772
+# HOST-SUFFIX: 37773
 # IP-CIDR: 106
 # IP6-CIDR: 4
 # USER-AGENT: 46
-# TOTAL: 38498
+# TOTAL: 38499
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
 HOST,3dns-3.adobe.com,Global
@@ -1346,6 +1346,7 @@ HOST-SUFFIX,annstores.net,Global
 HOST-SUFFIX,annualpelvicexam.com,Global
 HOST-SUFFIX,anon-v.lol,Global
 HOST-SUFFIX,anonproxy.info,Global
+HOST-SUFFIX,ansin.erodayo.com,Global
 HOST-SUFFIX,antarvasnaclips.com,Global
 HOST-SUFFIX,antarvasnax.com,Global
 HOST-SUFFIX,anthemgame.com,Global
