@@ -1,86 +1,148 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-23 02:08:15
-# DOMAIN: 11511
+# UPDATED: 2023-04-24 02:09:21
+# DOMAIN: 11600
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 113385
+# DOMAIN-SUFFIX: 113440
 # IP-CIDR: 245
-# TOTAL: 125405
-1512a.com
-3p-geo.yahoo.com
-3p-udc.yahoo.com
+# TOTAL: 125549
+0aef09749a.com
+29b198e945.com
 46186911.vtt
+68amt53h.de
 80055404.vtt
 aab-proxy.tld
+abnetfriths.com
 absurdapple.com
-adfox.yandex.ru
+adcl1ckspr0f1t.com
 adfstat.yandex.ru
 ads.youtube.com
-adsdk.yandex.ru
-adtechvideo.s3.amazonaws.com
-an.yandex.ru
+ads4trk.com
+anahitagirted.uno
 anxiousapples.com
 api.sec.miui.com
 app.ssp.yahoo.com
 appboy-images.com
-apple.www.letv.com
 applesometimes.com
-applets.ebxcdn.com
-askfollow.us
-attractionapples.com
-awaps.yandex.ru
+attractivebuilt.com
 awsync.yandex.ru
-bats.video.yahoo.com
+bcffkvpjqferl.com
 beacon.search.yahoo.com
 beap-bc.yahoo.com
 blueduckredapple.com
-bs.yandex.ru
-collector2c.zhihuishu.com
-cookiex.ngd.yahoo.com
+bonus-app.net
+boyishdetrimental.com
+breakthroughfuzzy.com
+bsjusnip.com
+c9l.xyz
+cackssandhog.com
+cdnpsh.com
+chaiptut.xyz
+cleopatratasty.com
+clicktrpro.com
+clorec.net
+cloudpsh.top
+colum-rvb.com
+coyotesgangan.com
+creative-bars1.com
+cubgptmijsm.com
 d1stxfv94hrhia.cloudfront
+d3d98dc11c.com
+daima.aixiaola.com
 dmg-dd.oss-accelerate.aliyuncs.com
-dn6rwwtxa647p.cloudfront.net
+drctcldfe.com
+drctcldfefwr.com
+dspmega.com
+dulativergs.com
+echoizepheeal.uno
+elizathings.com
+engkytvkygeanm.com
+evolvemockerycopper.com
+excuum.com
+faised.com
 februaryreductionapplet.com
+findromanticdates.com
+flustered-poetry.pro
 fpb1.apple886.com
-freeadd.me
-ganon.yahoo.com
-geo.yahoo.com
-hunlimd.cn
+freezeskaikara.com
+grefutiwhe.com
+gummierhedera.life
+hkjjfpkghxec.xyz
 iadsdk.apple.com
 ib.snssdk.com
-iidjo.xyz
-informer.yandex.ru
-jill.fc.yahoo.com
+ikeymutilla.space
+improvebeams.com
+ioffers.icu
+ionistkhaya.website
+iwantusingle.com
 jpaasne.e.shifen.com
-kmlxlkz.cn
+kindlelegalizebreaking.com
+kunvertads.com
+larvpydqmwvt.com
 log.strm.yandex.ru
+lpfztnyr.com
+lumnstoodthe.info
 marketingsolutions.yahoo.com
-mc.yandex.ru
 mediaappletree.com
+medicationneglectedshared.com
+megae-aqn.com
+messenger-notify.xyz
+mestoaxo.net
+mjdauebjosbtcsb.xyz
 mm.n3w1d0ma1n
 mo.vlpyj.xy
-nol.yahoo.com
+moonovernegril.com
+museumimpenetrablerepose.com
+muzoohat.net
+nboclympics.com
+newsyour.net
+ngforanoppor.info
+nice-mw.com
+notdyedfinance.com
+novitrk7.com
+nurserysurvivortogether.com
+ongoingverdictparalyzed.com
+onlinedeltazone.online
+overjoyedwithinthin.com
+paris-lno.com
+pereliaastroid.com
+pettishhansom.digital
+platform-hetcash.com
+playamopartners.com
 pr.comet.yahoo.com
-pubgw.yahoo.com
-pv.sohu.com
+pushssp.top
+quaverlonersloppy.com
+rapturemeddle.com
+readyblossomsuccesses.com
+restroomcalf.com
+revolvemockerycopper.com
+rockdriller.top
 rrf.fat1domain1
+safetypcchain.com
+secureconv-dl.com
 shackapple.com
-smmmqq.com
+shoopusahealth.com
+shoqizfras.com
+shrupsthan.life
+sillywinner.pro
+sketchyrecycleimpose.com
+skiddyteapots.com
+smjxarmaflpmxj.com
 sortyellowapples.com
 stats.video.search.yahoo.com
 sub.powerapple.com
-sugar.zhihu.com
-supportmetrics.apple.com
-test.vast
 theapple.site
-twitterfollowers.site
-uu7819uu.com
-visit.webhosting.yahoo.com
-wjaqc.xyz
+towardsturtle.com
+trkerupper.com
+uzoutche.xyz
+viifogyp.com
+vitaminalcove.com
+vouchanalysistonight.com
 wondefulapplend.com
+wxxmt.xyz
 wzjs1.oss-accelerate.aliyuncs.com
-xiaoliublog.icu
+xirkguius.com
 youtube.local
 zupee.cim
 10.10.34.35
@@ -607,6 +669,7 @@ gtssl-aia.geotrust.com
 guangyukeji.com
 guanjia.qq.com
 guowaidiaocha.com
+gvod.aiseejapp.atianqi.com
 h1.xysibu.cn
 h163e.com
 h5.7vyou.com
@@ -9185,6 +9248,7 @@ taozgpkjzpdtgr.com
 tapffdskgjr.com
 targetctracker.com
 tarteaucitron.ml
+tat.pandora.xiaomi.com
 tataget.ru
 tatami-solutions.com
 tauwhout.net
@@ -11445,8 +11509,6 @@ zzwajufm.com
 zzxlukodff.com
 zzxosget.com
 519332da.rtc.youme.im
-gvod.aiseejapp.atianqi.com
-tat.pandora.xiaomi.com
 39d83s.com
 aboard.apilocate.amap.com
 access.open.uc.cn
@@ -11504,9 +11566,32 @@ wvvvvvvw.zhongchaoyinshua.com
 wx.yubangsmart.com
 xc.xiyqjea.cn
 xg.tjwmtrw.cn
+3p-geo.yahoo.com
+3p-udc.yahoo.com
 ad.kddi-fs.com
+adfox.yandex.ru
+adsdk.yandex.ru
+an.yandex.ru
+apple.www.letv.com
+applets.ebxcdn.com
+attractionapples.com
+awaps.yandex.ru
+bats.video.yahoo.com
+bs.yandex.ru
+collector2c.zhihuishu.com
+cookiex.ngd.yahoo.com
+fpb.fingerprint.com
+ganon.yahoo.com
+geo.yahoo.com
+informer.yandex.ru
+jill.fc.yahoo.com
 log.kuwo.cn
+mc.yandex.ru
+mediaxpf.com
 metrics.apple.com
+nol.yahoo.com
+pubgw.yahoo.com
+pv.sohu.com
 ras.yahoo.com
 rba-screen.healthsafe-id.com
 retcode.taobao.com
@@ -11515,9 +11600,13 @@ securemetrics.experience.apple
 securemvt.apple.com
 securemvt.apple.com.cn
 ssp.rambler.ru
+sugar.zhihu.com
+supportmetrics.apple.com
 swmhdata.stuttgarter-nachrichten.de
+test.vast
 tmx.bestbuy.com
 vg247-p2.vg247.com
+visit.webhosting.yahoo.com
 .0-000.store
 .0.code.cotsta.ru
 .0001.best
@@ -11615,6 +11704,7 @@ vg247-p2.vg247.com
 .0757kd.cn
 .07634.com
 .076lvo.xyz
+.0776.red
 .07780778.com
 .0792gdst.com
 .07ab456fe8.com
@@ -11885,6 +11975,7 @@ vg247-p2.vg247.com
 .14i8trbbx4.com
 .150075.com
 .1503.net
+.1512a.com
 .1527ego.com
 .152media.com
 .15306ad0e1.com
@@ -12570,6 +12661,7 @@ vg247-p2.vg247.com
 .3dfcff2ec15099df0a24ad2cee74f21a.com
 .3dlivestats.com
 .3dstats.com
+.3e090c38bd.com
 .3eb8f81779.com
 .3ec9b1217d.com
 .3ed2b6b7c4.com
@@ -13042,6 +13134,7 @@ vg247-p2.vg247.com
 .6179a.com
 .61861486484.ru
 .61b6eab774.com
+.61ba68472f.com
 .61c3007cf3.com
 .62001188.com
 .620c663bca9a4.com
@@ -13725,6 +13818,7 @@ vg247-p2.vg247.com
 .9tumza4dp4o9.com
 .9utwbj08.top
 .9v58v.com
+.9vs0.cn
 .9vzzijbj5f.com
 .9w2zed1szg.execute-api.us-east-1.amazonaws.com
 .9wad.com
@@ -16954,6 +17048,7 @@ vg247-p2.vg247.com
 .adtech.com
 .adtech.panthercustomer.com
 .adtechium.com
+.adtechvideo.s3.amazonaws.com
 .adtector.com
 .adtegrity.net
 .adtelligence.de
@@ -18563,6 +18658,7 @@ vg247-p2.vg247.com
 .amrbvabey.com
 .amre.work
 .amrtbbnr.com
+.amryqmm.cn
 .ams-pageview-public.s3.amazonaws.com
 .ams900.goo.ne.jp
 .amshirethfne.xyz
@@ -19345,6 +19441,7 @@ vg247-p2.vg247.com
 .aresweb.fr
 .arethegrav.com.ua
 .arethegravk.xyz
+.arfacqwifvp.com
 .argeersarchfoe.com
 .argenta.fr
 .argentslv.digital
@@ -19579,6 +19676,7 @@ vg247-p2.vg247.com
 .askedopinionatedimmediately.com
 .asketo.ru
 .askewflatted.com
+.askfollow.us
 .askfsh.cn
 .askfuelads.com
 .askingconsideration.com
@@ -21534,6 +21632,7 @@ vg247-p2.vg247.com
 .berangkasilmu.com
 .berentain.ru
 .berg-6-82.com
+.bergallgenion.com
 .bergeresdefrance.fr
 .bergfi.com
 .berhima.xyz
@@ -21581,6 +21680,7 @@ vg247-p2.vg247.com
 .bestadmax.com
 .bestapplandever.com
 .bestaryua.com
+.bestaybuzzed.website
 .bestbestgirlz.in.net
 .bestblackhatforum.fr
 .bestcache.top
@@ -21758,6 +21858,7 @@ vg247-p2.vg247.com
 .bff6b409f7.com
 .bfgvqx.com
 .bfhqteipdh.com
+.bfhxivpij.com
 .bfkvwuhyoingpmf.xyz
 .bfoleyinteractive.com
 .bformu12.tk
@@ -22655,6 +22756,7 @@ vg247-p2.vg247.com
 .boustahe.com
 .boutique-papillon.fr
 .bouygiestelecom.fr
+.bovhzz.xyz
 .bowed-common.pro
 .boweddemand.com
 .bowedsequence.com
@@ -23582,6 +23684,7 @@ vg247-p2.vg247.com
 .caihongxuan.com
 .caimei.me
 .caimoasy.net
+.cainismlungee.uno
 .caipowho.net
 .cairalei.com
 .caisse-apargne.fr
@@ -24205,6 +24308,7 @@ vg247-p2.vg247.com
 .cdns.ws
 .cdnspace.io
 .cdnstatic01.xyz
+.cdnstatic02.xyz
 .cdnstats-a.akamaihd.net
 .cdnstoremedia.com
 .cdnstr.com
@@ -24270,6 +24374,7 @@ vg247-p2.vg247.com
 .celebsreflect.com
 .celebwelove.com
 .celeph.com
+.celept.com
 .celeritascdn.com
 .celestia.es
 .celestia.fr
@@ -25383,6 +25488,7 @@ vg247-p2.vg247.com
 .cloudserver098095.home.pl
 .cloudtracer101.com
 .clownsong.com
+.clownunknownaffect.com
 .clqrdxc.cn
 .clrpdhptoddatj49.pro
 .clrstm.com
@@ -26846,6 +26952,7 @@ vg247-p2.vg247.com
 .cssrvsync.com
 .cst.cstwpush.com
 .csvejabtxsccr.xyz
+.csvlgqsanwry.com
 .cswmeogdtycy.xyz
 .csyymp4.com
 .csztzc.com
@@ -26950,6 +27057,7 @@ vg247-p2.vg247.com
 .culturedcrayon.com
 .cumc-hmb.com
 .cumuda.com
+.cumult.com
 .cunasdonat.com
 .cunderdr.net
 .cundumbagroom.com
@@ -29459,6 +29567,7 @@ vg247-p2.vg247.com
 .dn34cbtcv9mef.cloudfront.net
 .dn3hksy6kf.com
 .dn3uy6cx65ujf.cloudfront.net
+.dn6rwwtxa647p.cloudfront.net
 .dn9uzzhcwc0ya.cloudfront.net
 .dnab.info
 .dnaoe.com
@@ -29627,6 +29736,7 @@ vg247-p2.vg247.com
 .doninjaskr.com
 .doniv.net
 .donkeymob.com
+.donku.club
 .donotwatch.org
 .donreach.com
 .donstick.com
@@ -30010,6 +30120,7 @@ vg247-p2.vg247.com
 .dtjhtp.xyz
 .dtmm9h2satghl.cloudfront.net
 .dtmpub.com
+.dtnhjzl.xyz
 .dtoo1.space
 .dtoottuleringv.com.ua
 .dtoottuleringwe.xyz
@@ -30110,6 +30221,7 @@ vg247-p2.vg247.com
 .duplefirer.uno
 .duplicatepowerquay.com
 .duponytator.com
+.duqamtr9ifv5t.cloudfront.net
 .duranigaulic.com
 .durationmedia.net
 .duried.com
@@ -30346,6 +30458,7 @@ vg247-p2.vg247.com
 .e51710f24a.com
 .e55cdcbcd2.com
 .e5asyhilodice.com
+.e5bb7a50f5.com
 .e5bbd2cdb0.com
 .e5yx.com
 .e5z14.icu
@@ -31446,6 +31559,7 @@ vg247-p2.vg247.com
 .errorssmoked.com
 .ersallower.com
 .ersfohiplaceof.xyz
+.ershniff.com
 .ersislaqands.com
 .erstartirrel.buzz
 .ertbaudet.fr
@@ -31490,6 +31604,7 @@ vg247-p2.vg247.com
 .esgic.1.p2l.info
 .eshaurie.xyz
 .esheprice.online
+.eshkol.io
 .eshouloo.net
 .esignificanvi.info
 .esiws.com
@@ -32048,6 +32163,7 @@ vg247-p2.vg247.com
 .eylqbeu.cn
 .eyoeopqf.com
 .eyoupie.cn
+.eyquvllh.com
 .eyrasmamluks.space
 .eysgrje.cn
 .eyxtfk.cn
@@ -33474,6 +33590,7 @@ vg247-p2.vg247.com
 .free247downloads.com
 .free3dgame.xyz
 .free4faucet.com
+.freeadd.me
 .freeadultcomix.com
 .freeavalanche.ru
 .freebaitar.com
@@ -34086,6 +34203,7 @@ vg247-p2.vg247.com
 .gaoguai.com
 .gaohexiang.xyz
 .gaojiedesign.cn
+.gaokao.asia
 .gaothings.com
 .gaowei.fit
 .gaoyuhu.top
@@ -36239,6 +36357,7 @@ vg247-p2.vg247.com
 .headstonerinse.com
 .headup.com
 .headusuallyopener.com
+.healflowers.com
 .healmsuoguurd.eu
 .healte.de
 .health-club.online
@@ -36951,6 +37070,7 @@ vg247-p2.vg247.com
 .hoo1luha.com
 .hoodcapunbane.digital
 .hoodline.com
+.hoofexcessively.com
 .hooify.com
 .hookawep.net
 .hookeroblong.com
@@ -37366,6 +37486,7 @@ vg247-p2.vg247.com
 .hunkal.com
 .hunkemoeller.fr
 .hunkemuller.fr
+.hunlimd.cn
 .hunt-leads.com
 .hunter-hub.com
 .hunterdelivery.com
@@ -37595,6 +37716,7 @@ vg247-p2.vg247.com
 .i99i.org
 .ia.5.p2l.info
 .ia.iinfo.cz
+.iaacua.xyz
 .iabgqd.cn
 .iacanotot.com.de
 .iad.anm.co.uk
@@ -37892,6 +38014,7 @@ vg247-p2.vg247.com
 .iicsxxkdcy.com
 .iid-network.jp
 .iidfxj.com
+.iidjo.xyz
 .iifvcfwiqi.com
 .iigmlx.com
 .iihpwzo.cn
@@ -38452,6 +38575,7 @@ vg247-p2.vg247.com
 .injusticeamend.com
 .inkestyle.net
 .inkingleran.com
+.inklestutted.com
 .inklineglobal.com
 .inklinkor.com
 .inkoleasing.ru
@@ -38684,6 +38808,7 @@ vg247-p2.vg247.com
 .interpolls.com
 .interposedflickhip.com
 .interpretation-reves.fr
+.interpretprogrammesmap.com
 .interreklame.de
 .inters1img.com
 .intersads.com
@@ -39125,6 +39250,7 @@ vg247-p2.vg247.com
 .itweedler.com
 .itweepinbelltor.com
 .itxinrou.com
+.ityonatallco.info
 .ityou2tcdb.icu
 .itzekromom.com
 .iu9g.top
@@ -39401,6 +39527,7 @@ vg247-p2.vg247.com
 .jbpbox.com
 .jbplm.com
 .jbrlsr.com
+.jbtfmis.xyz
 .jbugk.com
 .jbuzacg.cn
 .jbzjegn.cn
@@ -39458,6 +39585,7 @@ vg247-p2.vg247.com
 .jefashivy.com
 .jeffstrategic.com
 .jehobsee.com
+.jeidd.xyz
 .jeisl.com
 .jekson44.ru
 .jelfmtsr5i.ru
@@ -40232,6 +40360,7 @@ vg247-p2.vg247.com
 .jyuyjxx.cn
 .jywangluo.top
 .jywigigu.com
+.jyxfvp.xyz
 .jz8b.top
 .jzclick.soso.com
 .jzdgn.cn
@@ -40822,6 +40951,7 @@ vg247-p2.vg247.com
 .kmgfjc.cn
 .kmindex.ru
 .kmjbwejnr.xyz
+.kmlxlkz.cn
 .kmmgoogle.oss-ap-southeast-1.aliyuncs.com
 .kmmsfoqbhc.xyz
 .kmp.twbymc.cn
@@ -41704,6 +41834,7 @@ vg247-p2.vg247.com
 .leaddyno.com
 .leadelephant.com
 .leadenhancer.com
+.leadensought.com
 .leaderaffiliation.com
 .leaderhistliness.info
 .leaderpub.fr
@@ -43869,6 +44000,7 @@ vg247-p2.vg247.com
 .materialisticconstitution.com
 .materialisticinformal.com
 .materialmoon.com
+.materialplayground.com
 .materiel.baizhan.net
 .materiel.junshidao.com
 .maternalhi.com
@@ -45820,6 +45952,7 @@ vg247-p2.vg247.com
 .murcs.org
 .murderassuredness.com
 .murdoog.com
+.muriheem.net
 .murkilyergots.com
 .murkymouse.online
 .murqyi.com
@@ -48785,6 +48918,7 @@ vg247-p2.vg247.com
 .orquideassp.com
 .orrabxofvju.com
 .orricesoxhlet.com
+.orrisesdepute.com
 .orrsuxapg.com
 .ortange.fr
 .ortermodown.ru
@@ -49588,6 +49722,7 @@ vg247-p2.vg247.com
 .pascal1.science
 .pascal3.science
 .paservices.tech
+.pasgfeaqdo.com
 .pasiac.com
 .paslsa.com
 .pasquinzippy.com
@@ -49815,6 +49950,7 @@ vg247-p2.vg247.com
 .pe8.com
 .peaceablefitsfamily.com
 .peacebanana.com
+.peacefulactivity.com
 .peacefullymenitch.com
 .peachrecess.com
 .peachsquat.com
@@ -50085,6 +50221,7 @@ vg247-p2.vg247.com
 .pfx.sma-clsystem.info
 .pfxlive.com
 .pgapi.ksmobile.com
+.pgbmjuhwiej.xyz
 .pgccaoy.cn
 .pgdmon.com
 .pgeejqisao.com
@@ -52757,6 +52894,7 @@ vg247-p2.vg247.com
 .qjkfqcmxzxhg.ink
 .qjoqos.xyz
 .qjwglnuwqvr.com
+.qkcaqq.xyz
 .qkffv.com
 .qkixi.com
 .qkkgish.cn
@@ -53612,6 +53750,7 @@ vg247-p2.vg247.com
 .recordingshipping.com
 .recosenselabs.com
 .recoset.com
+.recoupsamakebe.com
 .recoverhatred.com
 .recreationhiddenmosque.com
 .recreativ.com.ua
@@ -54870,6 +55009,7 @@ vg247-p2.vg247.com
 .rrdtjj.top
 .rreauksofthecom.xyz
 .rreleaseavailan.xyz
+.rrentlysearchi.info
 .rrf.fat1domain1
 .rriedstronugos.xyz
 .rrimpl.com
@@ -55569,6 +55709,7 @@ vg247-p2.vg247.com
 .sawadeca.com
 .saweatherco.com
 .sawedhindgut.com
+.sawfishdiapsid.com
 .sawmontlookups.com
 .sawmonwhomble.com
 .sawsdaggly.com
@@ -55833,6 +55974,7 @@ vg247-p2.vg247.com
 .sdsttt.com
 .sdtagging.azureedge.net
 .sdtieta.com
+.sduptpppm.com
 .sdurhnd.com
 .sdv-m.ru
 .sdweldrobot.cn
@@ -57346,6 +57488,7 @@ vg247-p2.vg247.com
 .smartytech.io
 .smartzonessva.com
 .smashnewtab.com
+.smashpops.com
 .smashseek.com
 .smct.co
 .smearedbin.com
@@ -57395,6 +57538,8 @@ vg247-p2.vg247.com
 .smists.com
 .smitt.nl
 .smljmp.com
+.smlmupi.cn
+.smmmqq.com
 .smmx3.cn
 .smoggydisplay.pro
 .smokersopinionpoll.com
@@ -58260,6 +58405,7 @@ vg247-p2.vg247.com
 .standadv.com
 .standardscaldexcessive.com
 .standartsheet.com
+.standpointunfriendly.com
 .standroogly.com
 .standstock.net
 .stankyrich.com
@@ -61405,6 +61551,7 @@ vg247-p2.vg247.com
 .tpdads.com
 .tpeoplesho.info
 .tpizy1uy3x.ru
+.tpjmqq.com
 .tpjsqt.com
 .tpjz.tmuurnthtf.xyz
 .tpm.pw
@@ -62452,10 +62599,12 @@ vg247-p2.vg247.com
 .twistyscash.com
 .twitcker.com
 .twitcount.com
+.twitob.com
 .twitpic.fr
 .twitstat.us
 .twittad.com
 .twittercounter.com
+.twitterfollowers.site
 .twitterforweb.com
 .twittericon.com
 .twittermysite.com
@@ -63560,6 +63709,7 @@ vg247-p2.vg247.com
 .uu.domainforlite.com
 .uu2e.com
 .uu5731uu.com
+.uu7819uu.com
 .uu99k.com
 .uuaauw.com
 .uuaoy.com
@@ -64519,6 +64669,7 @@ vg247-p2.vg247.com
 .vlexokrako.com
 .vlgpkn.com
 .vliao365.com
+.vlinz.icu
 .vliplatform.com
 .vlitag.com
 .vlnk.me
@@ -64781,6 +64932,7 @@ vg247-p2.vg247.com
 .vtsgaqnfvzcyu.ru
 .vttyjakvvdce.com
 .vtuctez.cn
+.vtveyowwjvz.com
 .vtvnofnil.com
 .vtzkyckmdcecs.com
 .vubihowhe.com
@@ -65803,6 +65955,7 @@ vg247-p2.vg247.com
 .whoumtip.xyz
 .whourgie.com
 .whoursie.com
+.whoururt.xyz
 .whouseem.com
 .whoutchi.net
 .whoutsiy.net
@@ -65897,6 +66050,7 @@ vg247-p2.vg247.com
 .wifidown.com
 .wifly.net
 .wigetmedia.com
+.wigglewurm.com
 .wiglessernes.com
 .wiglessoctaves.com
 .wiglurto.xyz
@@ -65974,6 +66128,7 @@ vg247-p2.vg247.com
 .wingads.com
 .wingerssetiger.com
 .wingersunbrand.com
+.winiermarrier.com
 .winingcpi.cn
 .winitout.com
 .winneradsmedia.com
@@ -66061,7 +66216,9 @@ vg247-p2.vg247.com
 .wizkrdxivl.com
 .wizliebeg.com
 .wizzshop.trade
+.wjaqc.xyz
 .wjbrinsb.com
+.wjbsanov.com
 .wjdmprn.cn
 .wjgglm.com
 .wjgohz.com
@@ -67435,6 +67592,7 @@ vg247-p2.vg247.com
 .xiaohui.ink
 .xiaohui668.club
 .xiaokenan.net
+.xiaoliublog.icu
 .xiaolj.xyz
 .xiaoluoweb.top
 .xiaomaxitong.co
@@ -67521,6 +67679,7 @@ vg247-p2.vg247.com
 .xiongyin.com
 .xipheglipy.com
 .xiqqq.com
+.xiryrnrz.com
 .xissidearm.com
 .xitang.love
 .xitao3.com
@@ -67771,6 +67930,7 @@ vg247-p2.vg247.com
 .xtcake.com
 .xtendmedia.com
 .xtendmedia.org
+.xthizbdwgebzqf.com
 .xthrdyi.cn
 .xtioiqa.cn
 .xtkjywceo.xyz
@@ -68080,6 +68240,7 @@ vg247-p2.vg247.com
 .ychuanyi.ltd
 .yckpdr.com
 .yclmw.com
+.yclost.com
 .yclxrj.top
 .ycmedia.cn
 .ycreateam.cn
@@ -68758,6 +68919,7 @@ vg247-p2.vg247.com
 .yxcpm.com
 .yxgmrtaxi.com
 .yxhjt.com
+.yxhkonfmbe.com
 .yxhstwzjbu.info
 .yxiaoping.asia
 .yxkhpk.com
@@ -68795,6 +68957,7 @@ vg247-p2.vg247.com
 .yyujke.top
 .yyupphb.cn
 .yywccbdy.cyou
+.yywh.vip
 .yywvruv.cn
 .yyxjt.cloud
 .yyxrm.com
@@ -68947,6 +69110,7 @@ vg247-p2.vg247.com
 .zcljfimhng.com
 .zcmnffq.cn
 .zcnnn.com
+.zcode12.me
 .zcode7.me
 .zcoptry.com
 .zcoup.com
@@ -68983,6 +69147,7 @@ vg247-p2.vg247.com
 .zdx15.site
 .zdx9.site
 .zdy1.xyz
+.zdyuoae.xyz
 .zeads.com
 .zealeddrizzly.com
 .zealotsick.com
@@ -69054,6 +69219,7 @@ vg247-p2.vg247.com
 .zestads.com
 .zestekygri.com
 .zesty-beer.pro
+.zesty-lady.pro
 .zetadeo.com
 .zetamm.com
 .zeti.com
@@ -82137,7 +82303,6 @@ vg247-p2.vg247.com
 .0512pifa.com.cn
 .052tung.com
 .0591jiajiao.com.cn
-.0776.red
 .0819837.com
 .0837079.com
 .0azx1.com
@@ -82285,7 +82450,6 @@ vg247-p2.vg247.com
 .39db8b138f.apps.iocnt.de
 .3dk.tech
 .3dshoppingwall.com
-.3e090c38bd.com
 .3fakaixi.xyz
 .3gustis.xyz
 .3image.7niu.n0808.com
@@ -82561,7 +82725,6 @@ vg247-p2.vg247.com
 .9kz9cttz76.antonsten.com
 .9r0ptx5k38hk.hollowayremovals.com.au
 .9streamex.com
-.9vs0.cn
 .a-cn.duoyi.com
 .a-m-s.adnonstop.com
 .a.123porner.com
@@ -85353,7 +85516,6 @@ vg247-p2.vg247.com
 .arened.com
 .ares.agoop.net
 .aresssl.agoop.net
-.arfacqwifvp.com
 .arguments.wang
 .arianelab.com
 .aricianvrocht.com
@@ -86167,7 +86329,6 @@ vg247-p2.vg247.com
 .beqyexeqof.com
 .berchbulletin.com
 .berchsoda.com
-.bergallgenion.com
 .berserkpl.net.pl
 .berunhtdfrxp.com
 .besheardefiler.com
@@ -86214,7 +86375,6 @@ vg247-p2.vg247.com
 .bfdaxpbjxuan.com
 .bfdxcydnijmid.com
 .bfeagv.chicwish.com
-.bfhxivpij.com
 .bfjhfdimjtetvks.com
 .bfjl.ink
 .bfnwgmhbweeiko.com
@@ -86550,7 +86710,6 @@ vg247-p2.vg247.com
 .bourremokihi.com
 .boutique.ricoh.fr
 .boutiquerestless.com
-.bovhzz.xyz
 .bovid.arshaw.com
 .bovid.docutize.de
 .bovid.gbefunwa.com
@@ -86895,7 +87054,6 @@ vg247-p2.vg247.com
 .cafe58cc6d0ac.com
 .cafegraha.com
 .caikouli.com
-.cainismlungee.uno
 .caithamo.net
 .caiuhgjfangkhfr.com
 .caknmq.rotita.com
@@ -92227,7 +92385,6 @@ vg247-p2.vg247.com
 .errumoso.xyz
 .erscdf.com
 .ersfyt.xyz
-.ershniff.com
 .ertongjiaju360.com
 .ertya.com
 .eruple.com
@@ -92244,7 +92401,6 @@ vg247-p2.vg247.com
 .esfuhb.osohshiki.jp
 .esgkxhwneyx.xyz
 .eshaisib.net
-.eshkol.io
 .esmentbrads.com
 .esnrpwkwn.com
 .esou.me
@@ -93166,11 +93322,11 @@ vg247-p2.vg247.com
 .gamersbanner.com
 .gamesfromheaven.com
 .gamestats.herocraft.com
+.gaming-box.com
 .gamladjmtwyuf.com
 .gang.rw33.cn
 .gangstermoleanywhere.com
 .gaogwbdr.com
-.gaokao.asia
 .gaozhuang.xyz
 .garn1sh.com
 .garoagre.com
@@ -94539,7 +94695,6 @@ vg247-p2.vg247.com
 .i5ixiwch2f.themakersmob.com
 .i62e2b4mfy.com
 .i8023.icu
-.iaacua.xyz
 .iaclick.ifeng.com
 .iacpromotion.s3.amazonaws.com
 .iad.e.360.cn
@@ -95326,7 +95481,6 @@ vg247-p2.vg247.com
 .ininanceen.co
 .initiallogical.com
 .injuredcandy.com
-.inklestutted.com
 .inlacesepicly.com
 .inlooktrac.com
 .inneractive-assets.s3.amazonaws.com
@@ -100296,7 +100450,6 @@ vg247-p2.vg247.com
 .ormome.com
 .ormxitgmvprvhxd.com
 .orqsvaxn.com
-.orrisesdepute.com
 .ortkrq.damyller.com.br
 .os.evoice.com
 .os.evoicereceptionist.com
@@ -102265,7 +102418,6 @@ vg247-p2.vg247.com
 .recommendedbookies.co.uk
 .record.kuai.xunlei.com
 .recorderimplacablewhatever.com
-.recoupsamakebe.com
 .recruiting.dukekunshan.edu.cn
 .rectrack.optimum-performance.de
 .red-direct-n.com
@@ -103220,7 +103372,6 @@ vg247-p2.vg247.com
 .save.salary.com.au
 .save.smartsalary.com.au
 .sawfish.loqbooq.app
-.sawfishdiapsid.com
 .saxs.sina.cn
 .saxys9w.cn
 .say.hello.tripactions.com
@@ -103403,7 +103554,6 @@ vg247-p2.vg247.com
 .sdn.scset.com.cn
 .sdnpggwbkprsndt.xyz
 .sdrbxvpoglmbz.com
-.sduptpppm.com
 .sdxqusoze.com
 .sdyongyan.com.cn
 .se.360.cn
@@ -110376,7 +110526,6 @@ vg247-p2.vg247.com
 .windteam.xyz
 .windychinese.com
 .windzq.com
-.winiermarrier.com
 .winnerkur.com
 .winnersofvouchers.com
 .wipe.de
@@ -110872,7 +111021,6 @@ vg247-p2.vg247.com
 .xinsic.com
 .xinyuanstudio.com
 .xiqvza.dickblick.com
-.xiryrnrz.com
 .xiuksf.worten.es
 .xiuqixuan.cn
 .xivafk.armut.com
@@ -111202,7 +111350,6 @@ vg247-p2.vg247.com
 .xteedehi.com
 .xtfycjyzoqit.com
 .xtggpxfmyyfmeun.xyz
-.xthizbdwgebzqf.com
 .xthkusksqoree.com
 .xtkblvrknrcdlnt.com
 .xtkyesxcnyra.com
@@ -111349,7 +111496,6 @@ vg247-p2.vg247.com
 .ycjhuh.stripe-club.com
 .yckussysvawiu.xyz
 .yclimmhc.xyz
-.yclost.com
 .ycooh.group
 .ydbeuq.superpharm.pl
 .yditweb.cn
@@ -111644,7 +111790,6 @@ vg247-p2.vg247.com
 .ywxkuh.street-moto-piece.fr
 .yxbh3a53nv.adaptive.marketing
 .yxcubjqi.com
-.yxhkonfmbe.com
 .yximgs.com
 .yxjibph.cn
 .yxkzip.brastemp.com.br
@@ -111719,7 +111864,6 @@ vg247-p2.vg247.com
 .zdwsh.tech
 .zdx5.destinia.pe
 .zdyldoijanx.com
-.zdyuoae.xyz
 .zdywcdjoerv.com
 .zdyzjf.beauteprivee.fr
 .zdzy.shop

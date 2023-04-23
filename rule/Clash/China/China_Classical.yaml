@@ -1,13 +1,13 @@
 # NAME: China
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-11 02:11:26
+# UPDATED: 2023-04-24 02:13:21
 # DOMAIN: 19
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 3600
+# DOMAIN-SUFFIX: 3607
 # IP-CIDR: 10
 # IP-CIDR6: 4
-# TOTAL: 3642
+# TOTAL: 3649
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -308,6 +308,7 @@ payload:
   - DOMAIN-SUFFIX,aardio.com
   - DOMAIN-SUFFIX,abc-ca.com
   - DOMAIN-SUFFIX,abchina.com
+  - DOMAIN-SUFFIX,abercrombie.com
   - DOMAIN-SUFFIX,abhouses.com
   - DOMAIN-SUFFIX,acadn.com
   - DOMAIN-SUFFIX,acctdns.com
@@ -1023,6 +1024,7 @@ payload:
   - DOMAIN-SUFFIX,cqccn.com
   - DOMAIN-SUFFIX,cqvip.com
   - DOMAIN-SUFFIX,cr173.com
+  - DOMAIN-SUFFIX,crashlytics.com
   - DOMAIN-SUFFIX,crggcn.com
   - DOMAIN-SUFFIX,crsky.com
   - DOMAIN-SUFFIX,cryuantafund.com
@@ -1515,6 +1517,7 @@ payload:
   - DOMAIN-SUFFIX,hdcmct.org
   - DOMAIN-SUFFIX,hddolby.com
   - DOMAIN-SUFFIX,hdhome.org
+  - DOMAIN-SUFFIX,hdsky.me
   - DOMAIN-SUFFIX,hdslb.com
   - DOMAIN-SUFFIX,hdslb.org
   - DOMAIN-SUFFIX,hdyxgame.com
@@ -1737,6 +1740,7 @@ payload:
   - DOMAIN-SUFFIX,images-amazon.com
   - DOMAIN-SUFFIX,imcapptest.com
   - DOMAIN-SUFFIX,imedao.com
+  - DOMAIN-SUFFIX,imf.org
   - DOMAIN-SUFFIX,img4399.com
   - DOMAIN-SUFFIX,img4me.com
   - DOMAIN-SUFFIX,imgo.tv
@@ -2216,6 +2220,7 @@ payload:
   - DOMAIN-SUFFIX,maisanqi.com
   - DOMAIN-SUFFIX,maitix.com
   - DOMAIN-SUFFIX,mamecn.com
+  - DOMAIN-SUFFIX,manhuagui.com
   - DOMAIN-SUFFIX,manhuatai.com
   - DOMAIN-SUFFIX,manmanbuy.com
   - DOMAIN-SUFFIX,manmankan.com
@@ -3050,6 +3055,7 @@ payload:
   - DOMAIN-SUFFIX,tophub.today
   - DOMAIN-SUFFIX,toplife.com
   - DOMAIN-SUFFIX,topthink.com
+  - DOMAIN-SUFFIX,totheglory.im
   - DOMAIN-SUFFIX,touqikan.com
   - DOMAIN-SUFFIX,toursbms.com
   - DOMAIN-SUFFIX,toutiao.com
@@ -3247,6 +3253,7 @@ payload:
   - DOMAIN-SUFFIX,weidian.com
   - DOMAIN-SUFFIX,weilaicaijing.com
   - DOMAIN-SUFFIX,weilaiyunxiao.com
+  - DOMAIN-SUFFIX,weiphone.com
   - DOMAIN-SUFFIX,weiphone.net
   - DOMAIN-SUFFIX,weixing.com
   - DOMAIN-SUFFIX,weiyangx.com

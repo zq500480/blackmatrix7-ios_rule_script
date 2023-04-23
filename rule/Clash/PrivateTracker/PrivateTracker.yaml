@@ -1,13 +1,13 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-23 02:12:09
-# DOMAIN: 146
+# UPDATED: 2023-04-24 02:14:36
+# DOMAIN: 151
 # DOMAIN-KEYWORD: 3
 # DOMAIN-SUFFIX: 114
 # IP-CIDR: 5
 # IP-CIDR6: 2
-# TOTAL: 270
+# TOTAL: 275
 payload:
   - DOMAIN,1337.abcvg.info
   - DOMAIN,6ahddutb1ucc3cp.ru
@@ -39,6 +39,7 @@ payload:
   - DOMAIN,fh2.cmp-gaming.com
   - DOMAIN,htz3.noho.st
   - DOMAIN,hub.bugout.link
+  - DOMAIN,inferno.demonoid.is
   - DOMAIN,ipv6.tracker.monitorit4.me
   - DOMAIN,laze.cc
   - DOMAIN,linfan.moe
@@ -49,10 +50,10 @@ payload:
   - DOMAIN,new-line.net
   - DOMAIN,nyaa.tracker.wf
   - DOMAIN,open.acgnxtracker.com
+  - DOMAIN,open.acgtracker.com
   - DOMAIN,open.demonii.com
   - DOMAIN,open.dstud.io
   - DOMAIN,open.stealth.si
-  - DOMAIN,open.tracker.cl
   - DOMAIN,open.tracker.ink
   - DOMAIN,opentor.org
   - DOMAIN,opentracker.i2p.rocks
@@ -72,6 +73,7 @@ payload:
   - DOMAIN,ryjer.com
   - DOMAIN,sanincode.com
   - DOMAIN,share.camoe.cn
+  - DOMAIN,stargrave.org
   - DOMAIN,static.54.161.216.95.clients.your-server.de
   - DOMAIN,t.133335.xyz
   - DOMAIN,t.acg.rip
@@ -99,7 +101,9 @@ payload:
   - DOMAIN,tracker.beeimg.com
   - DOMAIN,tracker.birkenwald.de
   - DOMAIN,tracker.bitsearch.to
+  - DOMAIN,tracker.bittor.pw
   - DOMAIN,tracker.bt4g.com
+  - DOMAIN,tracker.cubonegro.lol
   - DOMAIN,tracker.cyberia.is
   - DOMAIN,tracker.dler.com
   - DOMAIN,tracker.dler.org
@@ -153,6 +157,7 @@ payload:
   - DOMAIN,vps-dd0a0715.vps.ovh.net
   - DOMAIN,wepzone.net
   - DOMAIN,www.all4nothin.net
+  - DOMAIN,www.peckservers.com
   - DOMAIN,www.wareztorrent.com
   - DOMAIN,zecircle.xyz
   - DOMAIN-SUFFIX,52pt.site

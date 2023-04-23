@@ -1,13 +1,13 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-23 02:12:09
-# HOST: 146
+# UPDATED: 2023-04-24 02:14:36
+# HOST: 151
 # HOST-KEYWORD: 3
 # HOST-SUFFIX: 114
 # IP-CIDR: 5
 # IP6-CIDR: 2
-# TOTAL: 270
+# TOTAL: 275
 HOST,1337.abcvg.info,PrivateTracker
 HOST,6ahddutb1ucc3cp.ru,PrivateTracker
 HOST,9.rarbg.com,PrivateTracker
@@ -38,6 +38,7 @@ HOST,fe.dealclub.de,PrivateTracker
 HOST,fh2.cmp-gaming.com,PrivateTracker
 HOST,htz3.noho.st,PrivateTracker
 HOST,hub.bugout.link,PrivateTracker
+HOST,inferno.demonoid.is,PrivateTracker
 HOST,ipv6.tracker.monitorit4.me,PrivateTracker
 HOST,laze.cc,PrivateTracker
 HOST,linfan.moe,PrivateTracker
@@ -48,10 +49,10 @@ HOST,movies.zsw.ca,PrivateTracker
 HOST,new-line.net,PrivateTracker
 HOST,nyaa.tracker.wf,PrivateTracker
 HOST,open.acgnxtracker.com,PrivateTracker
+HOST,open.acgtracker.com,PrivateTracker
 HOST,open.demonii.com,PrivateTracker
 HOST,open.dstud.io,PrivateTracker
 HOST,open.stealth.si,PrivateTracker
-HOST,open.tracker.cl,PrivateTracker
 HOST,open.tracker.ink,PrivateTracker
 HOST,opentor.org,PrivateTracker
 HOST,opentracker.i2p.rocks,PrivateTracker
@@ -71,6 +72,7 @@ HOST,run.publictracker.xyz,PrivateTracker
 HOST,ryjer.com,PrivateTracker
 HOST,sanincode.com,PrivateTracker
 HOST,share.camoe.cn,PrivateTracker
+HOST,stargrave.org,PrivateTracker
 HOST,static.54.161.216.95.clients.your-server.de,PrivateTracker
 HOST,t.133335.xyz,PrivateTracker
 HOST,t.acg.rip,PrivateTracker
@@ -98,7 +100,9 @@ HOST,tracker.auctor.tv,PrivateTracker
 HOST,tracker.beeimg.com,PrivateTracker
 HOST,tracker.birkenwald.de,PrivateTracker
 HOST,tracker.bitsearch.to,PrivateTracker
+HOST,tracker.bittor.pw,PrivateTracker
 HOST,tracker.bt4g.com,PrivateTracker
+HOST,tracker.cubonegro.lol,PrivateTracker
 HOST,tracker.cyberia.is,PrivateTracker
 HOST,tracker.dler.com,PrivateTracker
 HOST,tracker.dler.org,PrivateTracker
@@ -152,6 +156,7 @@ HOST,v6-tracker.0g.cx,PrivateTracker
 HOST,vps-dd0a0715.vps.ovh.net,PrivateTracker
 HOST,wepzone.net,PrivateTracker
 HOST,www.all4nothin.net,PrivateTracker
+HOST,www.peckservers.com,PrivateTracker
 HOST,www.wareztorrent.com,PrivateTracker
 HOST,zecircle.xyz,PrivateTracker
 HOST-SUFFIX,52pt.site,PrivateTracker
