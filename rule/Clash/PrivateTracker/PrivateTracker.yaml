@@ -1,13 +1,13 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-24 02:14:36
-# DOMAIN: 151
+# UPDATED: 2023-04-25 02:12:15
+# DOMAIN: 150
 # DOMAIN-KEYWORD: 3
 # DOMAIN-SUFFIX: 114
 # IP-CIDR: 5
 # IP-CIDR6: 2
-# TOTAL: 275
+# TOTAL: 274
 payload:
   - DOMAIN,1337.abcvg.info
   - DOMAIN,6ahddutb1ucc3cp.ru
@@ -54,6 +54,7 @@ payload:
   - DOMAIN,open.demonii.com
   - DOMAIN,open.dstud.io
   - DOMAIN,open.stealth.si
+  - DOMAIN,open.tracker.cl
   - DOMAIN,open.tracker.ink
   - DOMAIN,opentor.org
   - DOMAIN,opentracker.i2p.rocks
@@ -117,7 +118,6 @@ payload:
   - DOMAIN,tracker.joybomb.tw
   - DOMAIN,tracker.kuroy.me
   - DOMAIN,tracker.leech.ie
-  - DOMAIN,tracker.lelux.fi
   - DOMAIN,tracker.lilithraws.cf
   - DOMAIN,tracker.lilithraws.org
   - DOMAIN,tracker.loligirl.cn
@@ -150,7 +150,6 @@ payload:
   - DOMAIN,u4.trakx.crim.ist
   - DOMAIN,u6.trakx.crim.ist
   - DOMAIN,uploads.gamecoast.net
-  - DOMAIN,uraniumhexafluori.de
   - DOMAIN,v1046920.hosted-by-vdsina.ru
   - DOMAIN,v2.iperson.xyz
   - DOMAIN,v6-tracker.0g.cx

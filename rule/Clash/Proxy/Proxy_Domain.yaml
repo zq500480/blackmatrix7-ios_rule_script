@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-24 02:13:07
+# UPDATED: 2023-04-25 02:11:07
 # DOMAIN: 7
 # DOMAIN-KEYWORD: 31
-# DOMAIN-SUFFIX: 5878
+# DOMAIN-SUFFIX: 5882
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 6007
+# TOTAL: 6011
 payload:
   - 'api.waqi.info'
   - 'aqi.aqicn.org'
@@ -1809,6 +1809,7 @@ payload:
   - '+.freewww.info'
   - '+.freexinwen.com'
   - '+.freeyellow.com'
+  - '+.freezhihu.org'
   - '+.frienddy.com'
   - '+.friendfeed-media.com'
   - '+.friendfeed.com'
@@ -4719,6 +4720,7 @@ payload:
   - '+.teamviewer.com'
   - '+.techcrunch.com'
   - '+.technews.tw'
+  - '+.technorati.com'
   - '+.techsmith.com'
   - '+.techspot.com'
   - '+.techviz.net'
@@ -5064,6 +5066,7 @@ payload:
   - '+.tweepmag.com'
   - '+.tweepml.org'
   - '+.tweetbackup.com'
+  - '+.tweetboard.com'
   - '+.tweetboner.biz'
   - '+.tweetcs.com'
   - '+.tweetdeck.com'
@@ -5546,6 +5549,7 @@ payload:
   - '+.wikipedia.org'
   - '+.wikiquote.org'
   - '+.wikisource.org'
+  - '+.wikiunblocked.org'
   - '+.wikiversity.org'
   - '+.wikivoyage.org'
   - '+.wikiwand.com'

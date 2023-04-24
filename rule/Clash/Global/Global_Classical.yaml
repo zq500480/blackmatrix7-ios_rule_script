@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-24 02:12:45
+# UPDATED: 2023-04-25 02:10:50
 # DOMAIN: 158
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 18923
+# DOMAIN-SUFFIX: 18925
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 19231
+# TOTAL: 19233
 payload:
   - DOMAIN,adobeereg.com
   - DOMAIN,angle.com.tw
@@ -11322,7 +11322,6 @@ payload:
   - DOMAIN-SUFFIX,techliquidators.com
   - DOMAIN-SUFFIX,technics.com
   - DOMAIN-SUFFIX,technologyandsociety.org
-  - DOMAIN-SUFFIX,technorati.com
   - DOMAIN-SUFFIX,techstreet.com
   - DOMAIN-SUFFIX,techtimes.com
   - DOMAIN-SUFFIX,ted.com
@@ -11766,7 +11765,6 @@ payload:
   - DOMAIN-SUFFIX,tvpromise.com
   - DOMAIN-SUFFIX,twavking.com
   - DOMAIN-SUFFIX,twcomix.com
-  - DOMAIN-SUFFIX,tweetboard.com
   - DOMAIN-SUFFIX,twgreatnews.com
   - DOMAIN-SUFFIX,twhentai.com
   - DOMAIN-SUFFIX,twifuli.com
@@ -15011,6 +15009,7 @@ payload:
   - DOMAIN-SUFFIX,freewww.info
   - DOMAIN-SUFFIX,freexinwen.com
   - DOMAIN-SUFFIX,freeyellow.com
+  - DOMAIN-SUFFIX,freezhihu.org
   - DOMAIN-SUFFIX,frienddy.com
   - DOMAIN-SUFFIX,friendfeed-media.com
   - DOMAIN-SUFFIX,friendfeed.com
@@ -17919,6 +17918,7 @@ payload:
   - DOMAIN-SUFFIX,teamviewer.com
   - DOMAIN-SUFFIX,techcrunch.com
   - DOMAIN-SUFFIX,technews.tw
+  - DOMAIN-SUFFIX,technorati.com
   - DOMAIN-SUFFIX,techsmith.com
   - DOMAIN-SUFFIX,techspot.com
   - DOMAIN-SUFFIX,techviz.net
@@ -18264,6 +18264,7 @@ payload:
   - DOMAIN-SUFFIX,tweepmag.com
   - DOMAIN-SUFFIX,tweepml.org
   - DOMAIN-SUFFIX,tweetbackup.com
+  - DOMAIN-SUFFIX,tweetboard.com
   - DOMAIN-SUFFIX,tweetboner.biz
   - DOMAIN-SUFFIX,tweetcs.com
   - DOMAIN-SUFFIX,tweetdeck.com
@@ -18745,6 +18746,7 @@ payload:
   - DOMAIN-SUFFIX,wikipedia.org
   - DOMAIN-SUFFIX,wikiquote.org
   - DOMAIN-SUFFIX,wikisource.org
+  - DOMAIN-SUFFIX,wikiunblocked.org
   - DOMAIN-SUFFIX,wikiversity.org
   - DOMAIN-SUFFIX,wikivoyage.org
   - DOMAIN-SUFFIX,wikiwand.com
@@ -19240,4 +19242,4 @@ payload:
   - IP-CIDR6,2001:b28:f23c::/47
   - IP-CIDR6,2001:b28:f23f::/48
   - IP-CIDR6,2a0a:f280::/32
-  - PROCESS-NAME,lookupviewservice
+  - PROCESS-NAME,LookupViewService

@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-24 02:13:07
+# UPDATED: 2023-04-25 02:11:07
 # DOMAIN: 7
 # DOMAIN-KEYWORD: 31
-# DOMAIN-SUFFIX: 5878
+# DOMAIN-SUFFIX: 5882
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 6007
+# TOTAL: 6011
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -1808,6 +1808,7 @@ DOMAIN-SUFFIX,freewww.biz
 DOMAIN-SUFFIX,freewww.info
 DOMAIN-SUFFIX,freexinwen.com
 DOMAIN-SUFFIX,freeyellow.com
+DOMAIN-SUFFIX,freezhihu.org
 DOMAIN-SUFFIX,frienddy.com
 DOMAIN-SUFFIX,friendfeed-media.com
 DOMAIN-SUFFIX,friendfeed.com
@@ -4718,6 +4719,7 @@ DOMAIN-SUFFIX,teamamericany.com
 DOMAIN-SUFFIX,teamviewer.com
 DOMAIN-SUFFIX,techcrunch.com
 DOMAIN-SUFFIX,technews.tw
+DOMAIN-SUFFIX,technorati.com
 DOMAIN-SUFFIX,techsmith.com
 DOMAIN-SUFFIX,techspot.com
 DOMAIN-SUFFIX,techviz.net
@@ -5063,6 +5065,7 @@ DOMAIN-SUFFIX,tweeplike.me
 DOMAIN-SUFFIX,tweepmag.com
 DOMAIN-SUFFIX,tweepml.org
 DOMAIN-SUFFIX,tweetbackup.com
+DOMAIN-SUFFIX,tweetboard.com
 DOMAIN-SUFFIX,tweetboner.biz
 DOMAIN-SUFFIX,tweetcs.com
 DOMAIN-SUFFIX,tweetdeck.com
@@ -5545,6 +5548,7 @@ DOMAIN-SUFFIX,wikipedia.com
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wikiquote.org
 DOMAIN-SUFFIX,wikisource.org
+DOMAIN-SUFFIX,wikiunblocked.org
 DOMAIN-SUFFIX,wikiversity.org
 DOMAIN-SUFFIX,wikivoyage.org
 DOMAIN-SUFFIX,wikiwand.com

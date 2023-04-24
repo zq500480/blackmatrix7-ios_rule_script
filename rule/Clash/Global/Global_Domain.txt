@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-24 02:12:45
+# UPDATED: 2023-04-25 02:10:50
 # DOMAIN: 158
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 18923
+# DOMAIN-SUFFIX: 18925
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 19231
+# TOTAL: 19233
 adobeereg.com
 angle.com.tw
 anime-rule34-world.b-cdn.net
@@ -11321,7 +11321,6 @@ aqi.aqicn.org
 .techliquidators.com
 .technics.com
 .technologyandsociety.org
-.technorati.com
 .techstreet.com
 .techtimes.com
 .ted.com
@@ -11765,7 +11764,6 @@ aqi.aqicn.org
 .tvpromise.com
 .twavking.com
 .twcomix.com
-.tweetboard.com
 .twgreatnews.com
 .twhentai.com
 .twifuli.com
@@ -15010,6 +15008,7 @@ aqi.aqicn.org
 .freewww.info
 .freexinwen.com
 .freeyellow.com
+.freezhihu.org
 .frienddy.com
 .friendfeed-media.com
 .friendfeed.com
@@ -17918,6 +17917,7 @@ aqi.aqicn.org
 .teamviewer.com
 .techcrunch.com
 .technews.tw
+.technorati.com
 .techsmith.com
 .techspot.com
 .techviz.net
@@ -18263,6 +18263,7 @@ aqi.aqicn.org
 .tweepmag.com
 .tweepml.org
 .tweetbackup.com
+.tweetboard.com
 .tweetboner.biz
 .tweetcs.com
 .tweetdeck.com
@@ -18744,6 +18745,7 @@ aqi.aqicn.org
 .wikipedia.org
 .wikiquote.org
 .wikisource.org
+.wikiunblocked.org
 .wikiversity.org
 .wikivoyage.org
 .wikiwand.com
