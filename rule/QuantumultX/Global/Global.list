@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-25 02:11:07
+# UPDATED: 2023-04-26 02:11:01
 # HOST: 533
 # HOST-KEYWORD: 39
-# HOST-SUFFIX: 19214
+# HOST-SUFFIX: 19231
 # IP-CIDR: 106
 # IP6-CIDR: 4
 # USER-AGENT: 46
-# TOTAL: 19942
+# TOTAL: 19959
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
 HOST,3dns-3.adobe.com,Global
@@ -598,6 +598,7 @@ HOST-SUFFIX,18eighteen.com,Global
 HOST-SUFFIX,18exgfs.com,Global
 HOST-SUFFIX,18hmanga.click,Global
 HOST-SUFFIX,18hmanga.com,Global
+HOST-SUFFIX,18insta.com,Global
 HOST-SUFFIX,18jms.com,Global
 HOST-SUFFIX,18novel.xyz,Global
 HOST-SUFFIX,18porncomic.com,Global
@@ -806,9 +807,11 @@ HOST-SUFFIX,91avfuli.com,Global
 HOST-SUFFIX,91cy.app,Global
 HOST-SUFFIX,91fans.org,Global
 HOST-SUFFIX,91gay.me,Global
+HOST-SUFFIX,91jinman.com,Global
 HOST-SUFFIX,91md.me,Global
 HOST-SUFFIX,91moxiong.com,Global
 HOST-SUFFIX,91porn.best,Global
+HOST-SUFFIX,91porn.work,Global
 HOST-SUFFIX,91porny.com,Global
 HOST-SUFFIX,91qk41rf.com,Global
 HOST-SUFFIX,91rb.com,Global
@@ -840,6 +843,8 @@ HOST-SUFFIX,a1av.xyz,Global
 HOST-SUFFIX,a2z.com,Global
 HOST-SUFFIX,a2z.org.cn,Global
 HOST-SUFFIX,a7sex.com,Global
+HOST-SUFFIX,aa1141.com,Global
+HOST-SUFFIX,aa1142.com,Global
 HOST-SUFFIX,aaagradeheadphones.com,Global
 HOST-SUFFIX,aaapp.cyou,Global
 HOST-SUFFIX,aabb1802.com,Global
@@ -3344,6 +3349,7 @@ HOST-SUFFIX,cixp.net,Global
 HOST-SUFFIX,ciyuanjie.cc,Global
 HOST-SUFFIX,ckcdn.com,Global
 HOST-SUFFIX,ckck.fun,Global
+HOST-SUFFIX,ckss98.com,Global
 HOST-SUFFIX,cl1-cdn.origin-apple.com.akadns.net,Global
 HOST-SUFFIX,cl3-cdn.origin-apple.com.akadns.net,Global
 HOST-SUFFIX,cl4-cdn.origin-apple.com.akadns.net,Global
@@ -3843,6 +3849,7 @@ HOST-SUFFIX,dianepoppos.com,Global
 HOST-SUFFIX,diarrheafan.livedoor.blog,Global
 HOST-SUFFIX,dicela.com,Global
 HOST-SUFFIX,dicela.net,Global
+HOST-SUFFIX,dickeomas.com,Global
 HOST-SUFFIX,dickhardon.com,Global
 HOST-SUFFIX,didce.com,Global
 HOST-SUFFIX,diddykongracing.com,Global
@@ -5489,6 +5496,7 @@ HOST-SUFFIX,freexxx.best,Global
 HOST-SUFFIX,freexxx.win,Global
 HOST-SUFFIX,freexxxporn.org,Global
 HOST-SUFFIX,freeyouporn.mobi,Global
+HOST-SUFFIX,freieporno.com,Global
 HOST-SUFFIX,freindfeed.com,Global
 HOST-SUFFIX,frescolib.org,Global
 HOST-SUFFIX,freshporno.net,Global
@@ -5968,6 +5976,9 @@ HOST-SUFFIX,gucci.cn,Global
 HOST-SUFFIX,gucci.com,Global
 HOST-SUFFIX,guccimuseo.com,Global
 HOST-SUFFIX,guccitimeless.com,Global
+HOST-SUFFIX,guifw.xyz,Global
+HOST-SUFFIX,guifw2.top,Global
+HOST-SUFFIX,guochanw.life,Global
 HOST-SUFFIX,guruofporn.com,Global
 HOST-SUFFIX,guysnightlife.com,Global
 HOST-SUFFIX,gv.com,Global
@@ -7200,6 +7211,7 @@ HOST-SUFFIX,javcc.com,Global
 HOST-SUFFIX,javcdn.cc,Global
 HOST-SUFFIX,javcl.com,Global
 HOST-SUFFIX,javct.net,Global
+HOST-SUFFIX,javcup.com,Global
 HOST-SUFFIX,javdb.com,Global
 HOST-SUFFIX,javdisk.com,Global
 HOST-SUFFIX,javdoe.com,Global
@@ -7786,6 +7798,7 @@ HOST-SUFFIX,lp99.pw,Global
 HOST-SUFFIX,lqh0bon3.xyz,Global
 HOST-SUFFIX,lsawards.com,Global
 HOST-SUFFIX,lsj2.shop,Global
+HOST-SUFFIX,lsj40.xyz,Global
 HOST-SUFFIX,lsnzxzy1.com,Global
 HOST-SUFFIX,lspimg.com,Global
 HOST-SUFFIX,lss55.com,Global
@@ -7819,6 +7832,7 @@ HOST-SUFFIX,m5ir5np1.shop,Global
 HOST-SUFFIX,ma1lib.org,Global
 HOST-SUFFIX,maa1809.com,Global
 HOST-SUFFIX,maa1815.com,Global
+HOST-SUFFIX,maa1818.com,Global
 HOST-SUFFIX,mac-mini.com,Global
 HOST-SUFFIX,mac.com,Global
 HOST-SUFFIX,mac.wang,Global
@@ -8202,6 +8216,7 @@ HOST-SUFFIX,milkmanbook.com,Global
 HOST-SUFFIX,millymarks.com,Global
 HOST-SUFFIX,milofetch.com,Global
 HOST-SUFFIX,mimei.store,Global
+HOST-SUFFIX,mimi22.top,Global
 HOST-SUFFIX,mindgeek.com,Global
 HOST-SUFFIX,mindmeld.com,Global
 HOST-SUFFIX,mindspore.cn,Global
@@ -10837,6 +10852,7 @@ HOST-SUFFIX,sexanimalvideos.com,Global
 HOST-SUFFIX,sexanime.net,Global
 HOST-SUFFIX,sexarea.org,Global
 HOST-SUFFIX,sexasia.net,Global
+HOST-SUFFIX,sexavidols.com,Global
 HOST-SUFFIX,sexbebin.com,Global
 HOST-SUFFIX,sexbombo.com,Global
 HOST-SUFFIX,sexbookecuador.com,Global
@@ -12281,6 +12297,7 @@ HOST-SUFFIX,videosamadoresreais.com,Global
 HOST-SUFFIX,videosdemadurasx.com,Global
 HOST-SUFFIX,videosdesexo.br.com,Global
 HOST-SUFFIX,videosection.com,Global
+HOST-SUFFIX,videoshorny.com,Global
 HOST-SUFFIX,videoskaseros.com,Global
 HOST-SUFFIX,videosmadeathome.com,Global
 HOST-SUFFIX,videosporno.life,Global

@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-25 02:10:50
+# UPDATED: 2023-04-26 02:10:46
 # DOMAIN: 158
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 18925
+# DOMAIN-SUFFIX: 18942
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 19233
+# TOTAL: 19250
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -223,6 +223,7 @@ DOMAIN-SUFFIX,18eighteen.com
 DOMAIN-SUFFIX,18exgfs.com
 DOMAIN-SUFFIX,18hmanga.click
 DOMAIN-SUFFIX,18hmanga.com
+DOMAIN-SUFFIX,18insta.com
 DOMAIN-SUFFIX,18jms.com
 DOMAIN-SUFFIX,18novel.xyz
 DOMAIN-SUFFIX,18porncomic.com
@@ -432,10 +433,12 @@ DOMAIN-SUFFIX,91avfuli.com
 DOMAIN-SUFFIX,91cy.app
 DOMAIN-SUFFIX,91fans.org
 DOMAIN-SUFFIX,91gay.me
+DOMAIN-SUFFIX,91jinman.com
 DOMAIN-SUFFIX,91md.me
 DOMAIN-SUFFIX,91moxiong.com
 DOMAIN-SUFFIX,91porn.best
 DOMAIN-SUFFIX,91porn.com
+DOMAIN-SUFFIX,91porn.work
 DOMAIN-SUFFIX,91porny.com
 DOMAIN-SUFFIX,91qk41rf.com
 DOMAIN-SUFFIX,91rb.com
@@ -467,6 +470,8 @@ DOMAIN-SUFFIX,a1av.xyz
 DOMAIN-SUFFIX,a2z.com
 DOMAIN-SUFFIX,a2z.org.cn
 DOMAIN-SUFFIX,a7sex.com
+DOMAIN-SUFFIX,aa1141.com
+DOMAIN-SUFFIX,aa1142.com
 DOMAIN-SUFFIX,aaagradeheadphones.com
 DOMAIN-SUFFIX,aaapp.cyou
 DOMAIN-SUFFIX,aabb1802.com
@@ -2983,6 +2988,7 @@ DOMAIN-SUFFIX,cixp.net
 DOMAIN-SUFFIX,ciyuanjie.cc
 DOMAIN-SUFFIX,ckcdn.com
 DOMAIN-SUFFIX,ckck.fun
+DOMAIN-SUFFIX,ckss98.com
 DOMAIN-SUFFIX,cl1-cdn.origin-apple.com.akadns.net
 DOMAIN-SUFFIX,cl3-cdn.origin-apple.com.akadns.net
 DOMAIN-SUFFIX,cl4-cdn.origin-apple.com.akadns.net
@@ -3483,6 +3489,7 @@ DOMAIN-SUFFIX,dianepoppos.com
 DOMAIN-SUFFIX,diarrheafan.livedoor.blog
 DOMAIN-SUFFIX,dicela.com
 DOMAIN-SUFFIX,dicela.net
+DOMAIN-SUFFIX,dickeomas.com
 DOMAIN-SUFFIX,dickhardon.com
 DOMAIN-SUFFIX,didce.com
 DOMAIN-SUFFIX,diddykongracing.com
@@ -5147,6 +5154,7 @@ DOMAIN-SUFFIX,freexxx.win
 DOMAIN-SUFFIX,freexxxporn.org
 DOMAIN-SUFFIX,freeyouporn.mobi
 DOMAIN-SUFFIX,freeyoutubeproxy.net
+DOMAIN-SUFFIX,freieporno.com
 DOMAIN-SUFFIX,freindfeed.com
 DOMAIN-SUFFIX,frescolib.org
 DOMAIN-SUFFIX,freshporno.net
@@ -5669,6 +5677,9 @@ DOMAIN-SUFFIX,gucci.cn
 DOMAIN-SUFFIX,gucci.com
 DOMAIN-SUFFIX,guccimuseo.com
 DOMAIN-SUFFIX,guccitimeless.com
+DOMAIN-SUFFIX,guifw.xyz
+DOMAIN-SUFFIX,guifw2.top
+DOMAIN-SUFFIX,guochanw.life
 DOMAIN-SUFFIX,guruofporn.com
 DOMAIN-SUFFIX,guysnightlife.com
 DOMAIN-SUFFIX,gv.com
@@ -6905,6 +6916,7 @@ DOMAIN-SUFFIX,javcc.com
 DOMAIN-SUFFIX,javcdn.cc
 DOMAIN-SUFFIX,javcl.com
 DOMAIN-SUFFIX,javct.net
+DOMAIN-SUFFIX,javcup.com
 DOMAIN-SUFFIX,javdb.com
 DOMAIN-SUFFIX,javdisk.com
 DOMAIN-SUFFIX,javdoe.com
@@ -7493,6 +7505,7 @@ DOMAIN-SUFFIX,lp99.pw
 DOMAIN-SUFFIX,lqh0bon3.xyz
 DOMAIN-SUFFIX,lsawards.com
 DOMAIN-SUFFIX,lsj2.shop
+DOMAIN-SUFFIX,lsj40.xyz
 DOMAIN-SUFFIX,lsnzxzy1.com
 DOMAIN-SUFFIX,lspimg.com
 DOMAIN-SUFFIX,lss55.com
@@ -7526,6 +7539,7 @@ DOMAIN-SUFFIX,m5ir5np1.shop
 DOMAIN-SUFFIX,ma1lib.org
 DOMAIN-SUFFIX,maa1809.com
 DOMAIN-SUFFIX,maa1815.com
+DOMAIN-SUFFIX,maa1818.com
 DOMAIN-SUFFIX,mac-mini.com
 DOMAIN-SUFFIX,mac.com
 DOMAIN-SUFFIX,mac.wang
@@ -7909,6 +7923,7 @@ DOMAIN-SUFFIX,milkmanbook.com
 DOMAIN-SUFFIX,millymarks.com
 DOMAIN-SUFFIX,milofetch.com
 DOMAIN-SUFFIX,mimei.store
+DOMAIN-SUFFIX,mimi22.top
 DOMAIN-SUFFIX,mindgeek.com
 DOMAIN-SUFFIX,mindmeld.com
 DOMAIN-SUFFIX,mindspore.cn
@@ -10569,6 +10584,7 @@ DOMAIN-SUFFIX,sexanimalvideos.com
 DOMAIN-SUFFIX,sexanime.net
 DOMAIN-SUFFIX,sexarea.org
 DOMAIN-SUFFIX,sexasia.net
+DOMAIN-SUFFIX,sexavidols.com
 DOMAIN-SUFFIX,sexbebin.com
 DOMAIN-SUFFIX,sexbombo.com
 DOMAIN-SUFFIX,sexbookecuador.com
@@ -12040,6 +12056,7 @@ DOMAIN-SUFFIX,videosamadoresreais.com
 DOMAIN-SUFFIX,videosdemadurasx.com
 DOMAIN-SUFFIX,videosdesexo.br.com
 DOMAIN-SUFFIX,videosection.com
+DOMAIN-SUFFIX,videoshorny.com
 DOMAIN-SUFFIX,videoskaseros.com
 DOMAIN-SUFFIX,videosmadeathome.com
 DOMAIN-SUFFIX,videosporno.life

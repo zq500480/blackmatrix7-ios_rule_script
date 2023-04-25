@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-25 02:10:50
+# UPDATED: 2023-04-26 02:10:46
 # DOMAIN: 158
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 18925
+# DOMAIN-SUFFIX: 18942
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 19233
+# TOTAL: 19250
 payload:
   - 'adobeereg.com'
   - 'angle.com.tw'
@@ -224,6 +224,7 @@ payload:
   - '+.18exgfs.com'
   - '+.18hmanga.click'
   - '+.18hmanga.com'
+  - '+.18insta.com'
   - '+.18jms.com'
   - '+.18novel.xyz'
   - '+.18porncomic.com'
@@ -433,10 +434,12 @@ payload:
   - '+.91cy.app'
   - '+.91fans.org'
   - '+.91gay.me'
+  - '+.91jinman.com'
   - '+.91md.me'
   - '+.91moxiong.com'
   - '+.91porn.best'
   - '+.91porn.com'
+  - '+.91porn.work'
   - '+.91porny.com'
   - '+.91qk41rf.com'
   - '+.91rb.com'
@@ -468,6 +471,8 @@ payload:
   - '+.a2z.com'
   - '+.a2z.org.cn'
   - '+.a7sex.com'
+  - '+.aa1141.com'
+  - '+.aa1142.com'
   - '+.aaagradeheadphones.com'
   - '+.aaapp.cyou'
   - '+.aabb1802.com'
@@ -2984,6 +2989,7 @@ payload:
   - '+.ciyuanjie.cc'
   - '+.ckcdn.com'
   - '+.ckck.fun'
+  - '+.ckss98.com'
   - '+.cl1-cdn.origin-apple.com.akadns.net'
   - '+.cl3-cdn.origin-apple.com.akadns.net'
   - '+.cl4-cdn.origin-apple.com.akadns.net'
@@ -3484,6 +3490,7 @@ payload:
   - '+.diarrheafan.livedoor.blog'
   - '+.dicela.com'
   - '+.dicela.net'
+  - '+.dickeomas.com'
   - '+.dickhardon.com'
   - '+.didce.com'
   - '+.diddykongracing.com'
@@ -5148,6 +5155,7 @@ payload:
   - '+.freexxxporn.org'
   - '+.freeyouporn.mobi'
   - '+.freeyoutubeproxy.net'
+  - '+.freieporno.com'
   - '+.freindfeed.com'
   - '+.frescolib.org'
   - '+.freshporno.net'
@@ -5670,6 +5678,9 @@ payload:
   - '+.gucci.com'
   - '+.guccimuseo.com'
   - '+.guccitimeless.com'
+  - '+.guifw.xyz'
+  - '+.guifw2.top'
+  - '+.guochanw.life'
   - '+.guruofporn.com'
   - '+.guysnightlife.com'
   - '+.gv.com'
@@ -6906,6 +6917,7 @@ payload:
   - '+.javcdn.cc'
   - '+.javcl.com'
   - '+.javct.net'
+  - '+.javcup.com'
   - '+.javdb.com'
   - '+.javdisk.com'
   - '+.javdoe.com'
@@ -7494,6 +7506,7 @@ payload:
   - '+.lqh0bon3.xyz'
   - '+.lsawards.com'
   - '+.lsj2.shop'
+  - '+.lsj40.xyz'
   - '+.lsnzxzy1.com'
   - '+.lspimg.com'
   - '+.lss55.com'
@@ -7527,6 +7540,7 @@ payload:
   - '+.ma1lib.org'
   - '+.maa1809.com'
   - '+.maa1815.com'
+  - '+.maa1818.com'
   - '+.mac-mini.com'
   - '+.mac.com'
   - '+.mac.wang'
@@ -7910,6 +7924,7 @@ payload:
   - '+.millymarks.com'
   - '+.milofetch.com'
   - '+.mimei.store'
+  - '+.mimi22.top'
   - '+.mindgeek.com'
   - '+.mindmeld.com'
   - '+.mindspore.cn'
@@ -10570,6 +10585,7 @@ payload:
   - '+.sexanime.net'
   - '+.sexarea.org'
   - '+.sexasia.net'
+  - '+.sexavidols.com'
   - '+.sexbebin.com'
   - '+.sexbombo.com'
   - '+.sexbookecuador.com'
@@ -12041,6 +12057,7 @@ payload:
   - '+.videosdemadurasx.com'
   - '+.videosdesexo.br.com'
   - '+.videosection.com'
+  - '+.videoshorny.com'
   - '+.videoskaseros.com'
   - '+.videosmadeathome.com'
   - '+.videosporno.life'

@@ -1,13 +1,13 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-25 02:12:15
-# HOST: 150
+# UPDATED: 2023-04-26 02:12:04
+# HOST: 147
 # HOST-KEYWORD: 3
 # HOST-SUFFIX: 114
 # IP-CIDR: 5
 # IP6-CIDR: 2
-# TOTAL: 274
+# TOTAL: 271
 HOST,1337.abcvg.info,PrivateTracker
 HOST,6ahddutb1ucc3cp.ru,PrivateTracker
 HOST,9.rarbg.com,PrivateTracker
@@ -29,7 +29,6 @@ HOST,camera.lei001.com,PrivateTracker
 HOST,carr.codes,PrivateTracker
 HOST,chouchou.top,PrivateTracker
 HOST,concen.org,PrivateTracker
-HOST,dn42.smrsh.net,PrivateTracker
 HOST,download.nerocloud.me,PrivateTracker
 HOST,epider.me,PrivateTracker
 HOST,exodus.desync.com,PrivateTracker
@@ -53,7 +52,6 @@ HOST,open.acgtracker.com,PrivateTracker
 HOST,open.demonii.com,PrivateTracker
 HOST,open.dstud.io,PrivateTracker
 HOST,open.stealth.si,PrivateTracker
-HOST,open.tracker.cl,PrivateTracker
 HOST,open.tracker.ink,PrivateTracker
 HOST,opentor.org,PrivateTracker
 HOST,opentracker.i2p.rocks,PrivateTracker
@@ -92,7 +90,6 @@ HOST,tr.burnabyhighstar.com,PrivateTracker
 HOST,tr.cili001.com,PrivateTracker
 HOST,tr.ready4.icu,PrivateTracker
 HOST,tr2.cubonegro.lol,PrivateTracker
-HOST,tracker-udp.gbitt.info,PrivateTracker
 HOST,tracker.4.babico.name.tr,PrivateTracker
 HOST,tracker.altrosky.nl,PrivateTracker
 HOST,tracker.arcbox.cc,PrivateTracker
@@ -107,7 +104,6 @@ HOST,tracker.cubonegro.lol,PrivateTracker
 HOST,tracker.cyberia.is,PrivateTracker
 HOST,tracker.dler.com,PrivateTracker
 HOST,tracker.dler.org,PrivateTracker
-HOST,tracker.edkj.club,PrivateTracker
 HOST,tracker.filemail.com,PrivateTracker
 HOST,tracker.files.fm,PrivateTracker
 HOST,tracker.foreverpirates.co,PrivateTracker
@@ -156,6 +152,7 @@ HOST,vps-dd0a0715.vps.ovh.net,PrivateTracker
 HOST,wepzone.net,PrivateTracker
 HOST,www.all4nothin.net,PrivateTracker
 HOST,www.peckservers.com,PrivateTracker
+HOST,www.torrent.eu.org,PrivateTracker
 HOST,www.wareztorrent.com,PrivateTracker
 HOST,zecircle.xyz,PrivateTracker
 HOST-SUFFIX,52pt.site,PrivateTracker
