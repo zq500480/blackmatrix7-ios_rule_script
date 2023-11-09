@@ -11,3 +11,18 @@ DOMAIN,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,pay.openai.com
+DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,auth0.openai.com
+DOMAIN-SUFFIX,platform.openai.com
+# Add stripe.com
+DOMAIN-SUFFIX,invoice.stripe.com
+DOMAIN-SUFFIX,stripe.com
+# MY SEL+++++
+DOMAIN-KEYWORD,fidelity
+DOMAIN-KEYWORD,venmo
+DOMAIN-KEYWORD,remolut
+DOMAIN-KEYWORD,straighttalk
+DOMAIN-KEYWORD,equifax
+DOMAIN-SUFFIX,oracle.com
