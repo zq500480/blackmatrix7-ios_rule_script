@@ -75,6 +75,7 @@ payload:
   - DOMAIN-SUFFIX,bsc.getblock.io
   - DOMAIN-SUFFIX,bscscan.com
   - DOMAIN-SUFFIX,walletconnect.org
+  - DOMAIN-SUFFIX,api.saasexch.info
   - PROCESS-NAME,Binance.exe
   - DOMAIN-KEYWORD,binance
 
