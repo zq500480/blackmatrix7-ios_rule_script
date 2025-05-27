@@ -104,6 +104,7 @@ payload:
 
   # > OKX
   - DOMAIN-SUFFIX,okex.com
+  - DOMAIN-SUFFIX,okcoin.com
   - DOMAIN-SUFFIX,okx.com
   - PROCESS-NAME,OKX.exe
   - DOMAIN-KEYWORD,okx
