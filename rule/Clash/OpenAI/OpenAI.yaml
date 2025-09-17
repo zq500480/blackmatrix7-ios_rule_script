@@ -1,33 +1,49 @@
 # NAME: OpenAI
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-07 14:52:57
-# DOMAIN: 3
-# DOMAIN-SUFFIX: 3
-# TOTAL: 6
+# UPDATED: 2025-06-06 09:20:00
+# DOMAIN: 7
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 24
+# IP-ASN: 1
+# IP-CIDR: 2
+# TOTAL: 35
 payload:
-payload:
-  # > ChatGPT
-  - DOMAIN-SUFFIX,ai.com
-  - DOMAIN-SUFFIX,chatgpt.com
-  - DOMAIN-SUFFIX,openai.com
-  - DOMAIN-SUFFIX,chatgpt.com
-  - DOMAIN-SUFFIX,auth0.openai.com
-  - DOMAIN-SUFFIX,ab.chatgpt.com
-  # > Chat GPT API & CDN
-  - DOMAIN-SUFFIX,cdn.oaistatic.com
-  - DOMAIN-SUFFIX,ios.chat.openai.com
+  - DOMAIN,browser-intake-datadoghq.com
   - DOMAIN,chat.openai.com.cdn.cloudflare.net
-  - DOMAIN,openaiapi-site.azureedge.net
+  - DOMAIN,openai-api.arkoselabs.com
   - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
   - DOMAIN,openaicomproductionae4b.blob.core.windows.net
   - DOMAIN,production-openaicom-storage.azureedge.net
-  
-
+  - DOMAIN,static.cloudflareinsights.com
+  - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,algolia.net
+  - DOMAIN-SUFFIX,api.statsig.com
+  - DOMAIN-SUFFIX,auth0.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,chatgpt.livekit.cloud
+  - DOMAIN-SUFFIX,client-api.arkoselabs.com
+  - DOMAIN-SUFFIX,events.statsigapi.net
+  - DOMAIN-SUFFIX,featuregates.org
+  - DOMAIN-SUFFIX,host.livekit.cloud
+  - DOMAIN-SUFFIX,identrust.com
+  - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN-SUFFIX,intercomcdn.com
+  - DOMAIN-SUFFIX,launchdarkly.com
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,oaiusercontent.com
-
-  - DOMAIN-SUFFIX,o33249.ingest.sentry.io
+  - DOMAIN-SUFFIX,observeit.net
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+  - DOMAIN-SUFFIX,openaicom.imgix.net
+  - DOMAIN-SUFFIX,segment.io
+  - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-SUFFIX,turn.livekit.cloud
+  - DOMAIN-KEYWORD,openai
+  - IP-CIDR,24.199.123.28/32
+  - IP-CIDR,64.23.132.171/32
+  - IP-ASN,20473
 
   # > Claude
   - DOMAIN-SUFFIX,anthropic.com
@@ -53,16 +69,16 @@ payload:
 
   - DOMAIN-SUFFIX,pay.openai.com
   - DOMAIN-SUFFIX,chat.openai.com
- - DOMAIN-SUFFIX,challenges.cloudflare.com
- - DOMAIN-SUFFIX,auth0.openai.com
-- DOMAIN-SUFFIX,platform.openai.com
+  - DOMAIN-SUFFIX,challenges.cloudflare.com
+  - DOMAIN-SUFFIX,auth0.openai.com
+  - DOMAIN-SUFFIX,platform.openai.com
 # Add stripe.com
  - DOMAIN-SUFFIX,invoice.stripe.com
  - DOMAIN-SUFFIX,stripe.com
 # MY SEL+++++
-- DOMAIN-KEYWORD,fidelity
-- DOMAIN-KEYWORD,venmo
-- DOMAIN-KEYWORD,remolut
-- DOMAIN-KEYWORD,straighttalk
-- DOMAIN-KEYWORD,equifax
-- DOMAIN-SUFFIX,oracle.com
+ - DOMAIN-KEYWORD,fidelity
+ - DOMAIN-KEYWORD,venmo
+ - DOMAIN-KEYWORD,remolut
+ - DOMAIN-KEYWORD,straighttalk
+ - DOMAIN-KEYWORD,equifax
+ - DOMAIN-SUFFIX,oracle.com
