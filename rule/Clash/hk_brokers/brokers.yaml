@@ -1,1 +1,53 @@
+payload:
+  # 富途
+  - DOMAIN-SUFFIX,futunn.com
+  - DOMAIN-SUFFIX,futuhk.com
+  - DOMAIN-SUFFIX,futufin.com
 
+  # 老虎
+  - DOMAIN-SUFFIX,itiger.com
+  - DOMAIN-SUFFIX,itigerup.com
+  - DOMAIN-SUFFIX,tigersecurities.com
+  - DOMAIN-SUFFIX,tigerfintech.com
+  - DOMAIN-SUFFIX,tigerbrokers.com
+  - DOMAIN-SUFFIX,tigerbrokers.com.sg
+  - DOMAIN-SUFFIX,tigerbrokers.com.au
+
+  # 长桥
+  - DOMAIN-SUFFIX,longbridge.com
+  - DOMAIN-SUFFIX,longbridge.global
+  - DOMAIN-SUFFIX,longbridge.hk
+  - DOMAIN-SUFFIX,longportapp.com
+  - DOMAIN-SUFFIX,lbkrs.com
+  - DOMAIN-SUFFIX,lbctrl.com
+  - DOMAIN-SUFFIX,hstbroker.com
+  - DOMAIN-SUFFIX,hstong.com
+
+  # 致富证券 / Chief Securities
+  #- DOMAIN-SUFFIX,chiefgroup.com.hk
+  #- DOMAIN-SUFFIX,chiefgroup.com
+  #- DOMAIN-SUFFIX,chieftrade.com
+  #- DOMAIN-SUFFIX,service.chiefgroup.com.hk
+  #- DOMAIN-SUFFIX,chief-website.oss-cn-hongkong.aliyuncs.com
+
+  # 辉立证券 / Phillip Securities / POEMS
+  #- DOMAIN-SUFFIX,poems.com.hk
+  #- DOMAIN-SUFFIX,www1.poems.com.hk
+  #- DOMAIN-SUFFIX,phillip.com.hk
+  #- DOMAIN-SUFFIX,philliponline.com.hk
+  #- DOMAIN-SUFFIX,phillip.com.sg
+
+  # 兜底
+  - DOMAIN-KEYWORD,futu
+  - DOMAIN-KEYWORD,futunn
+  - DOMAIN-KEYWORD,itiger
+  - DOMAIN-KEYWORD,tiger
+  - DOMAIN-KEYWORD,tigersecurities
+  - DOMAIN-KEYWORD,longbridge
+  - DOMAIN-KEYWORD,longport
+  - DOMAIN-KEYWORD,lbkrs
+  - DOMAIN-KEYWORD,lbctrl
+  #- DOMAIN-KEYWORD,chiefgroup
+  #- DOMAIN-KEYWORD,chieftrade
+  #- DOMAIN-KEYWORD,poems
+  #- DOMAIN-KEYWORD,phillip
