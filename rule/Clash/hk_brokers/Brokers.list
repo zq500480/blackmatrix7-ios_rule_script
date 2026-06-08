@@ -1,0 +1,52 @@
+# 富途
+  - DOMAIN-SUFFIX,futunn.com,Proxy
+  - DOMAIN-SUFFIX,futuhk.com,Proxy
+  - DOMAIN-SUFFIX,futufin.com,Proxy
+
+  # 老虎
+  - DOMAIN-SUFFIX,itiger.com,Proxy
+  - DOMAIN-SUFFIX,itigerup.com,Proxy
+  - DOMAIN-SUFFIX,tigersecurities.com,Proxy
+  - DOMAIN-SUFFIX,tigerfintech.com,Proxy
+  - DOMAIN-SUFFIX,tigerbrokers.com,Proxy
+  - DOMAIN-SUFFIX,tigerbrokers.com.sg,Proxy
+  - DOMAIN-SUFFIX,tigerbrokers.com.au,Proxy
+
+  # 长桥
+  - DOMAIN-SUFFIX,longbridge.com,Proxy
+  - DOMAIN-SUFFIX,longbridge.global,Proxy
+  - DOMAIN-SUFFIX,longbridge.hk,Proxy
+  - DOMAIN-SUFFIX,longportapp.com,Proxy
+  - DOMAIN-SUFFIX,lbkrs.com,Proxy
+  - DOMAIN-SUFFIX,lbctrl.com,Proxy
+  - DOMAIN-SUFFIX,hstbroker.com,Proxy
+  - DOMAIN-SUFFIX,hstong.com,Proxy
+
+  # 致富证券 / Chief Securities
+  # - DOMAIN-SUFFIX,chiefgroup.com.hk,Proxy
+  # - DOMAIN-SUFFIX,chiefgroup.com,Proxy
+  # - DOMAIN-SUFFIX,chieftrade.com,Proxy
+  # - DOMAIN-SUFFIX,service.chiefgroup.com.hk,Proxy
+  # - DOMAIN-SUFFIX,chief-website.oss-cn-hongkong.aliyuncs.com,Proxy
+
+  # 辉立证券 / Phillip Securities / POEMS
+  # - DOMAIN-SUFFIX,poems.com.hk,Proxy
+  # - DOMAIN-SUFFIX,www1.poems.com.hk,Proxy
+  # - DOMAIN-SUFFIX,phillip.com.hk,Proxy
+  # - DOMAIN-SUFFIX,philliponline.com.hk,Proxy
+  # - DOMAIN-SUFFIX,phillip.com.sg,Proxy
+
+  # 兜底
+  - DOMAIN-KEYWORD,futu,Proxy
+  - DOMAIN-KEYWORD,futunn,Proxy
+  - DOMAIN-KEYWORD,itiger,Proxy
+  - DOMAIN-KEYWORD,tiger,Proxy
+  - DOMAIN-KEYWORD,tigersecurities,Proxy
+  - DOMAIN-KEYWORD,longbridge,Proxy
+  - DOMAIN-KEYWORD,longport,Proxy
+  - DOMAIN-KEYWORD,lbkrs,Proxy
+  - DOMAIN-KEYWORD,lbctrl,Proxy
+  # - DOMAIN-KEYWORD,chiefgroup,Proxy
+  # - DOMAIN-KEYWORD,chieftrade,Proxy
+  # - DOMAIN-KEYWORD,poems,Proxy
+  # - DOMAIN-KEYWORD,phillip,Proxy
