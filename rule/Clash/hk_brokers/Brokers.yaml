@@ -24,6 +24,13 @@ payload:
   - DOMAIN-SUFFIX,hstbroker.com
   - DOMAIN-SUFFIX,hstong.com
 
+# 华盛通 / 华盛证券 / HSTong
+ - DOMAIN-SUFFIX,hstong.com
+ - DOMAIN-SUFFIX,hstbroker.com
+ - DOMAIN-SUFFIX,vbkr.com
+ - DOMAIN-SUFFIX,hszq8.com
+ - DOMAIN-SUFFIX,valuable.com.hk
+ 
   # 致富证券 / Chief Securities
   #- DOMAIN-SUFFIX,chiefgroup.com.hk
   #- DOMAIN-SUFFIX,chiefgroup.com
