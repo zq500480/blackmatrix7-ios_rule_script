@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,futunn.com
   - DOMAIN-SUFFIX,futuhk.com
   - DOMAIN-SUFFIX,futufin.com
+  - DOMAIN-SUFFIX,futuholdings.com
 
   # 老虎
   - DOMAIN-SUFFIX,itiger.com
