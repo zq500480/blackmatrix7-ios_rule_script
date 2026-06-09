@@ -32,11 +32,12 @@ payload:
  - DOMAIN-SUFFIX,valuable.com.hk
  
   # 致富证券 / Chief Securities
-  #- DOMAIN-SUFFIX,chiefgroup.com.hk
-  #- DOMAIN-SUFFIX,chiefgroup.com
-  #- DOMAIN-SUFFIX,chieftrade.com
-  #- DOMAIN-SUFFIX,service.chiefgroup.com.hk
-  #- DOMAIN-SUFFIX,chief-website.oss-cn-hongkong.aliyuncs.com
+  - DOMAIN-SUFFIX,chiefgroup.com.hk
+  - DOMAIN-SUFFIX,chiefgroup.com
+  - DOMAIN-SUFFIX,chieftrade.com
+  - DOMAIN-SUFFIX,service.chiefgroup.com.hk
+  - DOMAIN-SUFFIX,chief-website.oss-cn-hongkong.aliyuncs.com
+  - DOMAIN-KEYWORD,chief
 
   # 辉立证券 / Phillip Securities / POEMS
   #- DOMAIN-SUFFIX,poems.com.hk
