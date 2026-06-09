@@ -39,6 +39,7 @@ payload:
   - DOMAIN-SUFFIX,service.chiefgroup.com.hk
   - DOMAIN-SUFFIX,chief-website.oss-cn-hongkong.aliyuncs.com
   - DOMAIN-KEYWORD,chief
+  - DOMAIN-KEYWORD,zft
 
   # 辉立证券 / Phillip Securities / POEMS
   #- DOMAIN-SUFFIX,poems.com.hk
