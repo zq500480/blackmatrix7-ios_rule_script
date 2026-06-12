@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,futuholdings.com
 
   # 老虎
+  - DOMAIN-SUFFIX,deposit.skytigris.cn
   - DOMAIN-SUFFIX,itiger.com
   - DOMAIN-SUFFIX,itigerup.com
   - DOMAIN-SUFFIX,tigersecurities.com
@@ -50,8 +51,10 @@ payload:
   #- DOMAIN-SUFFIX,phillip.com.sg
 
   # 兜底
+  
   - DOMAIN-KEYWORD,futu
   - DOMAIN-KEYWORD,futunn
+  - DOMAIN-KEYWORD,skytigris
   - DOMAIN-KEYWORD,itiger
   - DOMAIN-KEYWORD,tiger
   - DOMAIN-KEYWORD,tigersecurities
