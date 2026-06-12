@@ -4,6 +4,15 @@ payload:
   - DOMAIN-SUFFIX,futuhk.com
   - DOMAIN-SUFFIX,futufin.com
   - DOMAIN-SUFFIX,futuholdings.com
+  - DOMAIN-SUFFIX,futu.link
+  - DOMAIN-SUFFIX,futuhn.com
+  - DOMAIN-SUFFIX,futu.com
+  - DOMAIN-SUFFIX,futuinc.com
+  - DOMAIN-SUFFIX,futuniuniu.com
+  - DOMAIN-SUFFIX,futuhk2.com
+  - DOMAIN-SUFFIX,futuesop.com
+  - DOMAIN-SUFFIX,cdn.futustatic.com
+  - DOMAIN-SUFFIX,api.moomoobull.com
 
   # 老虎
   - DOMAIN-SUFFIX,deposit.skytigris.cn
