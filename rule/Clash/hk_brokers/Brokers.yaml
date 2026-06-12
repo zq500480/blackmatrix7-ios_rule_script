@@ -7,7 +7,9 @@ payload:
 
   # 老虎
   - DOMAIN-SUFFIX,deposit.skytigris.cn
+  - DOMAIN-SUFFIX,c1.itigergrowtha.com
   - DOMAIN-SUFFIX,itiger.com
+  - DOMAIN-SUFFIX,laohu8.com
   - DOMAIN-SUFFIX,itigerup.com
   - DOMAIN-SUFFIX,tigersecurities.com
   - DOMAIN-SUFFIX,tigerfintech.com
@@ -51,7 +53,7 @@ payload:
   #- DOMAIN-SUFFIX,phillip.com.sg
 
   # 兜底
-  
+  - DOMAIN-KEYWORD,laohu8
   - DOMAIN-KEYWORD,futu
   - DOMAIN-KEYWORD,futunn
   - DOMAIN-KEYWORD,skytigris
