@@ -28,6 +28,12 @@ payload:
   - DOMAIN-SUFFIX,9oju31.launches.appsflyersdk.com
   - DOMAIN-SUFFIX,sgqt0j.launches.appsflyersdk.com
   - DOMAIN-SUFFIX,shortconn.im.qcloud.com
+  - DOMAIN-SUFFIX,myqcloud.com
+  - DOMAIN-SUFFIX,cloud.tencent.com
+  - DOMAIN-SUFFIX,beacon.qq.com
+  - DOMAIN-SUFFIX,dnse2.com
+  - DOMAIN-SUFFIX,dnsv1.com
+  - DOMAIN-SUFFIX,dnsv1.com.cn
 
   # 富途 / 腾讯云相关 IP 大段
   - IP-CIDR,1.12.0.0/14,no-resolve
