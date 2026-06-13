@@ -1,5 +1,11 @@
 payload:
 # 富途 / moomoo 域名
+  - DOMAIN-SUFFIX,futuau.com
+  - DOMAIN-SUFFIX,fututrustee.com
+  - DOMAIN-SUFFIX,moomooequity.com
+  - DOMAIN-SUFFIX,moomootrustee.com
+  - DOMAIN-SUFFIX,my-imcloud.com
+  - DOMAIN-SUFFIX,appsflyersdk.com
   - DOMAIN-SUFFIX,futunn.com
   - DOMAIN-SUFFIX,futu5.com
   - DOMAIN-SUFFIX,futuapi.com
