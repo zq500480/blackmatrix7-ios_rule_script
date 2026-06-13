@@ -61,6 +61,8 @@ payload:
   - IP-CIDR,43.163.17.229/32,no-resolve
   - IP-CIDR,162.14.10.0/24,no-resolve
   - IP-CIDR,183.60.225.0/24,no-resolve
+  - IP-CIDR,134.175.253.104/32,no-resolve
+  - IP-CIDR,134.175.254.134/32,no-resolve
   
   # 老虎
   - DOMAIN-SUFFIX,deposit.skytigris.cn
