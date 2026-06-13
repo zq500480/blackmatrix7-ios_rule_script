@@ -78,7 +78,15 @@ payload:
   - IP-CIDR,170.106.0.0/16,no-resolve
   - IP-CIDR,175.178.0.0/16,no-resolve
   - IP-CIDR,193.112.0.0/16,no-resolve
-
+  # 富途 / 腾讯 IM 登录与会话链路补充
+  - DOMAIN,login.im.qcloud.com
+  - DOMAIN-SUFFIX,im.qcloud.com
+  - DOMAIN-SUFFIX,msf.tencent-cloud.com
+  - IP-CIDR,58.241.139.225/32,no-resolve
+  - IP-CIDR,58.241.139.230/32,no-resolve
+  - IP-CIDR,58.241.139.172/32,no-resolve
+  - IP-CIDR,122.192.134.252/32,no-resolve
+  - IP-CIDR,122.192.134.140/32,no-resolve
   # 富途大段没覆盖到的补充小段
   - IP-CIDR,38.65.217.0/24,no-resolve
   - IP-CIDR,43.160.156.0/24,no-resolve
