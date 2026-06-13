@@ -40,7 +40,11 @@ payload:
   - DOMAIN-SUFFIX,dnse2.com
   - DOMAIN-SUFFIX,dnsv1.com
   - DOMAIN-SUFFIX,dnsv1.com.cn
-
+  - IP-CIDR,119.188.44.230/32,no-resolve
+  - IP-CIDR,123.6.42.82/32,no-resolve
+  - IP-CIDR,123.6.40.244/32,no-resolve
+  - IP-CIDR,115.159.18.59/32,no-resolve
+  - IP-CIDR,162.14.17.41/32,no-resolve
   # 富途 / 腾讯云相关 IP 大段
   - IP-CIDR,43.174.128.39/32,no-resolve
   - IP-CIDR,119.28.37.206/32,no-resolve
