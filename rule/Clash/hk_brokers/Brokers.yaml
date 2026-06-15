@@ -109,14 +109,14 @@ payload:
   - DOMAIN-SUFFIX,tigerbrokers.com.au
 
   # 长桥
-  - DOMAIN-SUFFIX,longbridge.com
-  - DOMAIN-SUFFIX,longbridge.global
-  - DOMAIN-SUFFIX,longbridge.hk
-  - DOMAIN-SUFFIX,longportapp.com
-  - DOMAIN-SUFFIX,lbkrs.com
-  - DOMAIN-SUFFIX,lbctrl.com
-  - DOMAIN-SUFFIX,hstbroker.com
-  - DOMAIN-SUFFIX,hstong.com
+  #- DOMAIN-SUFFIX,longbridge.com
+  #- DOMAIN-SUFFIX,longbridge.global
+  #- DOMAIN-SUFFIX,longbridge.hk
+  #- DOMAIN-SUFFIX,longportapp.com
+  #- DOMAIN-SUFFIX,lbkrs.com
+  #- DOMAIN-SUFFIX,lbctrl.com
+  #- DOMAIN-SUFFIX,hstbroker.com
+  #- DOMAIN-SUFFIX,hstong.com
 
 # 华盛通 / 华盛证券 / HSTong
  - DOMAIN-SUFFIX,hstong.com
@@ -126,15 +126,15 @@ payload:
  - DOMAIN-SUFFIX,valuable.com.hk
  
   # 致富证券 / Chief Securities
-  - DOMAIN-SUFFIX,chief-deposit.toptrader1979.com
-  - DOMAIN-SUFFIX,chief-deposit.chieftrader1979.com
-  - DOMAIN-SUFFIX,chiefgroup.com.hk
-  - DOMAIN-SUFFIX,chiefgroup.com
-  - DOMAIN-SUFFIX,chieftrade.com
-  - DOMAIN-SUFFIX,service.chiefgroup.com.hk
-  - DOMAIN-SUFFIX,chief-website.oss-cn-hongkong.aliyuncs.com
-  - DOMAIN-KEYWORD,chief
-  - DOMAIN-KEYWORD,zft
+  #- DOMAIN-SUFFIX,chief-deposit.toptrader1979.com
+  #- DOMAIN-SUFFIX,chief-deposit.chieftrader1979.com
+  #- DOMAIN-SUFFIX,chiefgroup.com.hk
+  #- DOMAIN-SUFFIX,chiefgroup.com
+  #- DOMAIN-SUFFIX,chieftrade.com
+  #- DOMAIN-SUFFIX,service.chiefgroup.com.hk
+  #- DOMAIN-SUFFIX,chief-website.oss-cn-hongkong.aliyuncs.com
+  #- DOMAIN-KEYWORD,chief
+  #- DOMAIN-KEYWORD,zft
 
   # 辉立证券 / Phillip Securities / POEMS
   #- DOMAIN-SUFFIX,poems.com.hk
