@@ -151,10 +151,12 @@ payload:
   - DOMAIN-KEYWORD,itiger
   - DOMAIN-KEYWORD,tiger
   - DOMAIN-KEYWORD,tigersecurities
-  - DOMAIN-KEYWORD,longbridge
-  - DOMAIN-KEYWORD,longport
-  - DOMAIN-KEYWORD,lbkrs
-  - DOMAIN-KEYWORD,lbctrl
+
+  ##长桥
+  #- DOMAIN-KEYWORD,longbridge
+  #- DOMAIN-KEYWORD,longport
+  #- DOMAIN-KEYWORD,lbkrs
+  #- DOMAIN-KEYWORD,lbctrl
   #- DOMAIN-KEYWORD,chiefgroup
   #- DOMAIN-KEYWORD,chieftrade
   #- DOMAIN-KEYWORD,poems
