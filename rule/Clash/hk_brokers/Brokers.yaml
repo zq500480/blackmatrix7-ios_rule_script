@@ -1,169 +1,325 @@
 payload:
-  # ===== 富途 / moomoo 域名 =====
-  - DOMAIN-SUFFIX,futu.link
-  - DOMAIN-SUFFIX,futu.com
-  - DOMAIN-SUFFIX,futu.cn
-  - DOMAIN-SUFFIX,futunn.com
-  - DOMAIN-SUFFIX,futu0.com
-  - DOMAIN-SUFFIX,futu1.com
-  - DOMAIN-SUFFIX,futu2.com
-  - DOMAIN-SUFFIX,futu3.com
-  - DOMAIN-SUFFIX,futu4.com
-  - DOMAIN-SUFFIX,futu5.com
-  - DOMAIN-SUFFIX,futu6.com
-  - DOMAIN-SUFFIX,futu7.com
-  - DOMAIN-SUFFIX,futu8.com
-  - DOMAIN-SUFFIX,futu9.com
+
+# 富途 / moomoo 域名
+
   - DOMAIN-SUFFIX,futuau.com
-  - DOMAIN-SUFFIX,futuesop.com
-  - DOMAIN-SUFFIX,futufin.com
-  - DOMAIN-SUFFIX,futuhk.com
-  - DOMAIN-SUFFIX,futuhk1.com
-  - DOMAIN-SUFFIX,futuhk2.com
-  - DOMAIN-SUFFIX,futuhkapp.com
-  - DOMAIN-SUFFIX,futuhn.com
-  - DOMAIN-SUFFIX,futuhongkong.com
-  - DOMAIN-SUFFIX,futuholdings.com
-  - DOMAIN-SUFFIX,futuinc.com
-  - DOMAIN-SUFFIX,futuin.com
-  - DOMAIN-SUFFIX,futuapi.com
-  - DOMAIN-SUFFIX,futuniuniu.com
-  - DOMAIN-SUFFIX,futubull.cn
-  - DOMAIN-SUFFIX,futuchain.com
-  - DOMAIN-SUFFIX,futustatic.com
-  - DOMAIN-SUFFIX,fututrade.com
+
   - DOMAIN-SUFFIX,fututrustee.com
-  - DOMAIN-SUFFIX,qtlcdn.com
-  - DOMAIN-SUFFIX,moomoo.com
-  - DOMAIN-SUFFIX,api.moomoobull.com
+
   - DOMAIN-SUFFIX,moomooequity.com
+
   - DOMAIN-SUFFIX,moomootrustee.com
+
+  - DOMAIN-SUFFIX,my-imcloud.com
+
   - DOMAIN-SUFFIX,appsflyersdk.com
 
-  # ===== 富途 / 腾讯 IM 与 DNS 链路 =====
   - DOMAIN,login.im.qcloud.com
-  - DOMAIN-SUFFIX,im.qcloud.com
-  - DOMAIN-SUFFIX,msf.tencent-cloud.com
-  - DOMAIN-SUFFIX,my-imcloud.com
+
+  - DOMAIN-SUFFIX,futunn.com
+
+  - DOMAIN-SUFFIX,futu5.com
+
+  - DOMAIN-SUFFIX,futuapi.com
+
+  - DOMAIN-SUFFIX,futuhn.com
+
+  - DOMAIN-SUFFIX,futuhk.com
+
+  - DOMAIN-SUFFIX,futufin.com
+
+  - DOMAIN-SUFFIX,fututrade.com
+
+  - DOMAIN-SUFFIX,futuesop.com
+
+  - DOMAIN-SUFFIX,futuin.com
+
+  - DOMAIN-SUFFIX,futuhk1.com
+
+  - DOMAIN-SUFFIX,futuhongkong.com
+
+  - DOMAIN-SUFFIX,moomoo.com
+
+  - DOMAIN-SUFFIX,futustatic.com
+
+  - DOMAIN-SUFFIX,qtlcdn.com
+
+  - DOMAIN-SUFFIX,futuholdings.com
+
+  - DOMAIN-SUFFIX,futu.link
+
+  - DOMAIN-SUFFIX,futu.com
+
+  - DOMAIN-SUFFIX,futuinc.com
+
+  - DOMAIN-SUFFIX,futuniuniu.com
+
+  - DOMAIN-SUFFIX,futuhk2.com
+
+  - DOMAIN-SUFFIX,futu.cn
+
+  - DOMAIN-SUFFIX,futubull.cn
+
+  - DOMAIN-SUFFIX,futuchain.com
+
+  - DOMAIN-SUFFIX,api.moomoobull.com
+
+  - DOMAIN-SUFFIX,cdn.futustatic.com
+
+  - DOMAIN-SUFFIX,9oju31.launches.appsflyersdk.com
+
+  - DOMAIN-SUFFIX,sgqt0j.launches.appsflyersdk.com
+
+  - DOMAIN-SUFFIX,shortconn.im.qcloud.com
+
   - DOMAIN-SUFFIX,myqcloud.com
+
   - DOMAIN-SUFFIX,cloud.tencent.com
+
   - DOMAIN-SUFFIX,beacon.qq.com
+
   - DOMAIN-SUFFIX,dnse2.com
+
   - DOMAIN-SUFFIX,dnsv1.com
+
   - DOMAIN-SUFFIX,dnsv1.com.cn
 
-  # ===== 富途 / moomoo IP 段 =====
-  - IP-CIDR,1.12.0.0/14,no-resolve
-  - IP-CIDR,14.152.0.0/16,no-resolve
-  - IP-CIDR,42.192.0.0/14,no-resolve
-  - IP-CIDR,43.128.0.0/11,no-resolve
-  - IP-CIDR,43.168.0.0/16,no-resolve
-  - IP-CIDR,43.174.0.0/16,no-resolve
-  - IP-CIDR,49.51.0.0/16,no-resolve
-  - IP-CIDR,49.232.0.0/14,no-resolve
-  - IP-CIDR,101.32.0.0/15,no-resolve
-  - IP-CIDR,106.52.0.0/14,no-resolve
-  - IP-CIDR,111.230.0.0/15,no-resolve
-  - IP-CIDR,114.132.0.0/14,no-resolve
-  - IP-CIDR,118.24.0.0/14,no-resolve
-  - IP-CIDR,118.88.0.0/14,no-resolve
-  - IP-CIDR,119.28.0.0/15,no-resolve
-  - IP-CIDR,119.91.0.0/16,no-resolve
-  - IP-CIDR,119.147.0.0/16,no-resolve
-  - IP-CIDR,121.4.0.0/15,no-resolve
-  - IP-CIDR,124.156.0.0/16,no-resolve
-  - IP-CIDR,129.211.0.0/16,no-resolve
-  - IP-CIDR,129.226.0.0/16,no-resolve
-  - IP-CIDR,170.106.0.0/16,no-resolve
-  - IP-CIDR,175.178.0.0/16,no-resolve
-  - IP-CIDR,193.112.0.0/16,no-resolve
-  - IP-CIDR,38.65.217.0/24,no-resolve
-  - IP-CIDR,43.160.156.0/24,no-resolve
-  - IP-CIDR,162.14.10.0/24,no-resolve
-  - IP-CIDR,183.60.225.0/24,no-resolve
   - IP-CIDR,119.188.44.230/32,no-resolve
-  - IP-CIDR,123.6.42.82/32,no-resolve
-  - IP-CIDR,123.6.40.244/32,no-resolve
-  - IP-CIDR,115.159.18.59/32,no-resolve
-  - IP-CIDR,162.14.17.41/32,no-resolve
-  - IP-CIDR,58.241.139.225/32,no-resolve
-  - IP-CIDR,58.241.139.230/32,no-resolve
-  - IP-CIDR,58.241.139.172/32,no-resolve
-  - IP-CIDR,122.192.134.252/32,no-resolve
-  - IP-CIDR,122.192.134.140/32,no-resolve
-  - IP-CIDR,43.163.17.229/32,no-resolve
-  - IP-CIDR,134.175.253.104/32,no-resolve
-  - IP-CIDR,134.175.254.134/32,no-resolve
-  - IP-CIDR,43.162.222.168/32,no-resolve
 
-  # ===== 老虎 Tiger =====
-  - DOMAIN-SUFFIX,itiger.com
-  - DOMAIN-SUFFIX,itigerup.com
-  - DOMAIN-SUFFIX,c1.itigergrowtha.com
-  - DOMAIN-SUFFIX,tigerbrokers.com
-  - DOMAIN-SUFFIX,tigerbrokers.com.sg
-  - DOMAIN-SUFFIX,tigerbrokers.com.au
-  - DOMAIN-SUFFIX,tigerbrokers.net
-  - DOMAIN-SUFFIX,tigerbrokers.nz
-  - DOMAIN-SUFFIX,tigersecurities.com
-  - DOMAIN-SUFFIX,tigerfintech.com
-  - DOMAIN-SUFFIX,tigerbbs.cn
-  - DOMAIN-SUFFIX,tigerbbs.com
-  - DOMAIN-SUFFIX,laohu8.com
-  - DOMAIN-SUFFIX,xiaohu8.com
-  - DOMAIN-SUFFIX,zhijianfengyi.cn
-  - DOMAIN-SUFFIX,zhijianfengyi.com
+  - IP-CIDR,123.6.42.82/32,no-resolve
+
+  - IP-CIDR,123.6.40.244/32,no-resolve
+
+  - IP-CIDR,115.159.18.59/32,no-resolve
+
+  - IP-CIDR,162.14.17.41/32,no-resolve
+
+  # 富途 / 腾讯云相关 IP 大段
+
+  - IP-CIDR,43.174.128.39/32,no-resolve
+
+  - IP-CIDR,119.28.37.206/32,no-resolve
+
+  - IP-CIDR,119.28.218.206/32,no-resolve
+
+  - IP-CIDR,129.226.79.239/32,no-resolve
+
+  - IP-CIDR,129.226.111.45/32,no-resolve
+
+  - IP-CIDR,129.226.110.53/32,no-resolve
+
+  - IP-CIDR,124.156.144.41/32,no-resolve
+
+  - IP-CIDR,1.12.0.0/14,no-resolve
+
+  - IP-CIDR,14.152.0.0/16,no-resolve
+
+  - IP-CIDR,42.192.0.0/14,no-resolve
+
+  - IP-CIDR,43.128.0.0/11,no-resolve
+
+  - IP-CIDR,43.168.0.0/16,no-resolve
+
+  - IP-CIDR,43.174.0.0/16,no-resolve
+
+  - IP-CIDR,49.51.0.0/16,no-resolve
+
+  - IP-CIDR,49.232.0.0/14,no-resolve
+
+  - IP-CIDR,101.32.0.0/15,no-resolve
+
+  - IP-CIDR,106.52.0.0/14,no-resolve
+
+  - IP-CIDR,111.230.0.0/15,no-resolve
+
+  - IP-CIDR,114.132.0.0/14,no-resolve
+
+  - IP-CIDR,118.24.0.0/14,no-resolve
+
+  - IP-CIDR,118.88.0.0/14,no-resolve
+
+  - IP-CIDR,119.28.0.0/15,no-resolve
+
+  - IP-CIDR,119.91.0.0/16,no-resolve
+
+  - IP-CIDR,119.147.0.0/16,no-resolve
+
+  - IP-CIDR,121.4.0.0/15,no-resolve
+
+  - IP-CIDR,124.156.0.0/16,no-resolve
+
+  - IP-CIDR,129.211.0.0/16,no-resolve
+
+  - IP-CIDR,129.226.0.0/16,no-resolve
+
+  - IP-CIDR,170.106.0.0/16,no-resolve
+
+  - IP-CIDR,175.178.0.0/16,no-resolve
+
+  - IP-CIDR,193.112.0.0/16,no-resolve
+
+  # 富途 / 腾讯 IM 登录与会话链路补充
+
+  - DOMAIN,login.im.qcloud.com
+
+  - DOMAIN-SUFFIX,im.qcloud.com
+
+  - DOMAIN-SUFFIX,msf.tencent-cloud.com
+
+  - IP-CIDR,58.241.139.225/32,no-resolve
+
+  - IP-CIDR,58.241.139.230/32,no-resolve
+
+  - IP-CIDR,58.241.139.172/32,no-resolve
+
+  - IP-CIDR,122.192.134.252/32,no-resolve
+
+  - IP-CIDR,122.192.134.140/32,no-resolve
+
+  # 富途大段没覆盖到的补充小段
+
+  - IP-CIDR,38.65.217.0/24,no-resolve
+
+  - IP-CIDR,43.160.156.0/24,no-resolve
+
+  - IP-CIDR,43.163.17.229/32,no-resolve
+
+  - IP-CIDR,162.14.10.0/24,no-resolve
+
+  - IP-CIDR,183.60.225.0/24,no-resolve
+
+  - IP-CIDR,134.175.253.104/32,no-resolve
+
+  - IP-CIDR,134.175.254.134/32,no-resolve
+
+  
+
+  # 老虎
+
   - DOMAIN-SUFFIX,deposit.skytigris.cn
 
-  # ===== 长桥 Longbridge =====
-  #- DOMAIN-SUFFIX,lbkrs.com
-  #- DOMAIN-SUFFIX,lbctrl.com
-  #- DOMAIN-SUFFIX,longbridge.cloud
+  - DOMAIN-SUFFIX,c1.itigergrowtha.com
+
+  - DOMAIN-SUFFIX,itiger.com
+
+  - DOMAIN-SUFFIX,laohu8.com
+
+  - DOMAIN-SUFFIX,itigerup.com
+
+  - DOMAIN-SUFFIX,tigersecurities.com
+
+  - DOMAIN-SUFFIX,tigerfintech.com
+
+  - DOMAIN-SUFFIX,tigerbrokers.com
+
+  - DOMAIN-SUFFIX,tigerbrokers.com.sg
+
+  - DOMAIN-SUFFIX,tigerbrokers.com.au
+
+
+
+  # 长桥
+
   #- DOMAIN-SUFFIX,longbridge.com
+
   #- DOMAIN-SUFFIX,longbridge.global
+
   #- DOMAIN-SUFFIX,longbridge.hk
-  #- DOMAIN-SUFFIX,longbridge.sg
-  #- DOMAIN-SUFFIX,longbridgeapp.com
-  #- DOMAIN-SUFFIX,longbridgehk.com
+
   #- DOMAIN-SUFFIX,longportapp.com
 
-  # ===== 华盛通 / 华盛证券 / HSTong =====
-  - DOMAIN-SUFFIX,hstong.com
-  - DOMAIN-SUFFIX,hstbroker.com
-  - DOMAIN-SUFFIX,vbkr.com
-  - DOMAIN-SUFFIX,hszq8.com
-  - DOMAIN-SUFFIX,valuable.com.hk
+  #- DOMAIN-SUFFIX,lbkrs.com
 
-  # ===== 致富证券 / Chief Securities =====
-  - DOMAIN-SUFFIX,chief-deposit.toptrader1979.com
-  - DOMAIN-SUFFIX,chief-deposit.chieftrader1979.com
-  - DOMAIN-SUFFIX,chiefgroup.com.hk
-  - DOMAIN-SUFFIX,chiefgroup.com
-  - DOMAIN-SUFFIX,chieftrade.com
-  - DOMAIN-SUFFIX,chief-website.oss-cn-hongkong.aliyuncs.com
+  #- DOMAIN-SUFFIX,lbctrl.com
 
-  # ===== 辉立证券 / Phillip Securities / POEMS =====
+  #- DOMAIN-SUFFIX,hstbroker.com
+
+  #- DOMAIN-SUFFIX,hstong.com
+
+
+
+# 华盛通 / 华盛证券 / HSTong
+
+ - DOMAIN-SUFFIX,hstong.com
+
+ - DOMAIN-SUFFIX,hstbroker.com
+
+ - DOMAIN-SUFFIX,vbkr.com
+
+ - DOMAIN-SUFFIX,hszq8.com
+
+ - DOMAIN-SUFFIX,valuable.com.hk
+
+ 
+
+  # 致富证券 / Chief Securities
+
+  #- DOMAIN-SUFFIX,chief-deposit.toptrader1979.com
+
+  #- DOMAIN-SUFFIX,chief-deposit.chieftrader1979.com
+
+  #- DOMAIN-SUFFIX,chiefgroup.com.hk
+
+  #- DOMAIN-SUFFIX,chiefgroup.com
+
+  #- DOMAIN-SUFFIX,chieftrade.com
+
+  #- DOMAIN-SUFFIX,service.chiefgroup.com.hk
+
+  #- DOMAIN-SUFFIX,chief-website.oss-cn-hongkong.aliyuncs.com
+
+  #- DOMAIN-KEYWORD,chief
+
+  #- DOMAIN-KEYWORD,zft
+
+
+
+  # 辉立证券 / Phillip Securities / POEMS
+
   #- DOMAIN-SUFFIX,poems.com.hk
+
+  #- DOMAIN-SUFFIX,www1.poems.com.hk
+
   #- DOMAIN-SUFFIX,phillip.com.hk
+
   #- DOMAIN-SUFFIX,philliponline.com.hk
+
   #- DOMAIN-SUFFIX,phillip.com.sg
 
-  # ===== 兜底关键字 =====
-  - DOMAIN-KEYWORD,futu
-  - DOMAIN-KEYWORD,futunn
-  - DOMAIN-KEYWORD,moomoo
+
+
+  # 兜底
+
   - DOMAIN-KEYWORD,laohu8
-  - DOMAIN-KEYWORD,itiger
-  - DOMAIN-KEYWORD,tiger
-  - DOMAIN-KEYWORD,tigersecurities
+
+  - DOMAIN-KEYWORD,futu
+
+  - DOMAIN-KEYWORD,futunn
+
   - DOMAIN-KEYWORD,skytigris
+
+  - DOMAIN-KEYWORD,itiger
+
+  - DOMAIN-KEYWORD,tiger
+
+  - DOMAIN-KEYWORD,tigersecurities
+
+
+
+  ##长桥
+
   #- DOMAIN-KEYWORD,longbridge
+
   #- DOMAIN-KEYWORD,longport
+
   #- DOMAIN-KEYWORD,lbkrs
+
   #- DOMAIN-KEYWORD,lbctrl
-  - DOMAIN-KEYWORD,chief
-  - DOMAIN-KEYWORD,zft
-  - DOMAIN-KEYWORD,chiefgroup
-  - DOMAIN-KEYWORD,chieftrade
+
+  #- DOMAIN-KEYWORD,chiefgroup
+
+  #- DOMAIN-KEYWORD,chieftrade
+
   #- DOMAIN-KEYWORD,poems
+
   #- DOMAIN-KEYWORD,phillip
