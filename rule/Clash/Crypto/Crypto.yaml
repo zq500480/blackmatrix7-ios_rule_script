@@ -3,6 +3,19 @@ payload:
   - DOMAIN-SUFFIX,bitcointalk.org
 
   # > Exchange
+  - DOMAIN-SUFFIX,bybit.com
+  - DOMAIN-SUFFIX,bytick.com
+  - DOMAIN-SUFFIX,bybit.eu
+  - DOMAIN-SUFFIX,bybit.nl
+  - DOMAIN-SUFFIX,bybit.tr
+  - DOMAIN-SUFFIX,bybit.ae
+  - DOMAIN-SUFFIX,bybit.kz
+  - DOMAIN-SUFFIX,bybit.id
+  - DOMAIN-SUFFIX,bybitgeorgia.ge
+  - DOMAIN-SUFFIX,byapps.net
+  - DOMAIN-SUFFIX,bycsi.com
+  - DOMAIN-SUFFIX,bybdc6.com
+  - DOMAIN-SUFFIX,bitverse.zone
   - DOMAIN-SUFFIX,aex.com
   - DOMAIN-SUFFIX,bibox.com
   - DOMAIN-SUFFIX,bitfinex.com
